@@ -1,0 +1,1752 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>ROS Users of the World</name>
+		<description><![CDATA[Map of ROS Users ]]></description>
+		<Folder>
+			<name>ROS Users</name>
+			<Placemark>
+				<styleUrl>#icon-959-4186F0</styleUrl>
+				<name>Open Source Robotics Foundation</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>company</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[419 N. Shoreline Blvd, Mountain View, CA 94043
+
+type: company]]></description>
+				<Point>
+					<coordinates>-122.079992,37.399449,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>USC</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>-118.285128,34.022329,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>Van: Drie Eikenstraat</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: ]]></description>
+				<Point>
+					<coordinates>4.442961,51.156583,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#line-FFFFFF-1</styleUrl>
+				<name>Routebeschrijving voor fietsen naar Broekstraat 328, Leuven, België</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: ]]></description>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>4.442961,51.156583,0.0 4.443383,51.156635,0.0 4.443802,51.156733,0.0 4.444017,51.156621,0.0 4.444158,51.156513,0.0 4.444296,51.156345,0.0 4.4446,51.15606,0.0 4.44533,51.1555,0.0 4.44544,51.15539,0.0 4.446807,51.155632,0.0 4.44935,51.15572,0.0 4.451719,51.15586,0.0 4.45219,51.155871,0.0 4.45508,51.15608,0.0 4.456691,51.156087,0.0 4.458844,51.155993,0.0 4.460672,51.155872,0.0 4.461887,51.154484,0.0 4.462275,51.153949,0.0 4.462566,51.15334,0.0 4.462953,51.151702,0.0 4.463473,51.149634,0.0 4.463613,51.149157,0.0 4.463644,51.148799,0.0 4.463583,51.148401,0.0 4.463443,51.148063,0.0 4.463253,51.147775,0.0 4.462735,51.147267,0.0 4.461161,51.14601,0.0 4.458942,51.144369,0.0 4.458632,51.144085,0.0 4.458182,51.143543,0.0 4.457473,51.1423,0.0 4.457291,51.141929,0.0 4.4572,51.141622,0.0 4.457156,51.141357,0.0 4.457149,51.141155,0.0 4.457191,51.140827,0.0 4.457245,51.14079,0.0 4.457612,51.138507,0.0 4.457757,51.137007,0.0 4.45777,51.136607,0.0 4.457731,51.136281,0.0 4.457589,51.135698,0.0 4.457463,51.135256,0.0 4.456035,51.131901,0.0 4.4553,51.130195,0.0 4.454874,51.129322,0.0 4.454487,51.128717,0.0 4.453743,51.127851,0.0 4.454862,51.127361,0.0 4.458289,51.125794,0.0 4.458679,51.125609,0.0 4.459557,51.125151,0.0 4.463729,51.122673,0.0 4.466112,51.121235,0.0 4.467171,51.120577,0.0 4.467911,51.120277,0.0 4.467884,51.120225,0.0 4.467903,51.120185,0.0 4.467945,51.120157,0.0 4.468008,51.120138,0.0 4.468077,51.120141,0.0 4.468128,51.12016,0.0 4.468174,51.120201,0.0 4.468255,51.120155,0.0 4.46918,51.119826,0.0 4.471822,51.1189,0.0 4.47428,51.118063,0.0 4.474845,51.117807,0.0 4.475237,51.117543,0.0 4.475482,51.117334,0.0 4.475936,51.116873,0.0 4.476302,51.116457,0.0 4.477402,51.115014,0.0 4.477983,51.114312,0.0 4.478723,51.113521,0.0 4.479127,51.11317,0.0 4.479435,51.112895,0.0 4.479784,51.112662,0.0 4.480127,51.112494,0.0 4.480768,51.112255,0.0 4.481974,51.111955,0.0 4.482332,51.111879,0.0 4.482724,51.11176,0.0 4.483177,51.111588,0.0 4.485434,51.110481,0.0 4.485738,51.110388,0.0 4.485812,51.110305,0.0 4.486322,51.110066,0.0 4.486848,51.109918,0.0 4.487698,51.109781,0.0 4.487886,51.109677,0.0 4.487994,51.109559,0.0 4.488212,51.108699,0.0 4.488204,51.108462,0.0 4.488229,51.108362,0.0 4.48833,51.108193,0.0 4.488426,51.107946,0.0 4.488606,51.107232,0.0 4.488577,51.107123,0.0 4.488521,51.107077,0.0 4.487947,51.106852,0.0 4.487877,51.106809,0.0 4.487858,51.106764,0.0 4.487887,51.106693,0.0 4.488501,51.105834,0.0 4.488524,51.105737,0.0 4.488419,51.105706,0.0 4.488313,51.105645,0.0 4.48801,51.10543,0.0 4.48717,51.104744,0.0 4.487318,51.104594,0.0 4.488363,51.103673,0.0 4.488626,51.10351,0.0 4.488842,51.103436,0.0 4.489134,51.103387,0.0 4.489342,51.103382,0.0 4.491382,51.103583,0.0 4.491661,51.103583,0.0 4.491912,51.103555,0.0 4.492203,51.103474,0.0 4.492467,51.103355,0.0 4.492677,51.103216,0.0 4.492148,51.102858,0.0 4.491756,51.102464,0.0 4.491488,51.102109,0.0 4.491248,51.101665,0.0 4.491126,51.101317,0.0 4.491051,51.100846,0.0 4.491028,51.100275,0.0 4.491066,51.099721,0.0 4.4911,51.09948,0.0 4.491187,51.099145,0.0 4.491987,51.09662,0.0 4.492813,51.094758,0.0 4.492837,51.09457,0.0 4.492964,51.094252,0.0 4.493084,51.094063,0.0 4.493723,51.092009,0.0 4.494001,51.091036,0.0 4.493383,51.090984,0.0 4.49335,51.090974,0.0 4.493321,51.090936,0.0 4.493272,51.0909,0.0 4.493226,51.090812,0.0 4.493535,51.089492,0.0 4.493501,51.089378,0.0 4.493578,51.089083,0.0 4.493826,51.088342,0.0 4.494222,51.087294,0.0 4.494507,51.086447,0.0 4.495362,51.084396,0.0 4.495555,51.084433,0.0 4.495588,51.084477,0.0 4.495276,51.085488,0.0 4.495055,51.085503,0.0 4.494856,51.085468,0.0 4.494607,51.08534,0.0 4.493686,51.085118,0.0 4.492466,51.084757,0.0 4.491882,51.084539,0.0 4.491619,51.084413,0.0 4.490264,51.08365,0.0 4.489939,51.083415,0.0 4.488892,51.082585,0.0 4.48734,51.081296,0.0 4.484994,51.079587,0.0 4.48405,51.079034,0.0 4.482408,51.077996,0.0 4.481149,51.077102,0.0 4.478785,51.075297,0.0 4.477764,51.074642,0.0 4.476867,51.074161,0.0 4.476234,51.073859,0.0 4.475436,51.073551,0.0 4.474976,51.073414,0.0 4.474044,51.073181,0.0 4.47196,51.072856,0.0 4.471173,51.07274,0.0 4.470383,51.072644,0.0 4.468347,51.072465,0.0 4.467695,51.072471,0.0 4.467247,51.072502,0.0 4.466085,51.072695,0.0 4.465222,51.072855,0.0 4.463382,51.073267,0.0 4.462663,51.073402,0.0 4.462233,51.073468,0.0 4.461751,51.073517,0.0 4.461239,51.073541,0.0 4.460862,51.073541,0.0 4.460129,51.073489,0.0 4.459629,51.073425,0.0 4.458457,51.073182,0.0 4.458127,51.073096,0.0 4.45717,51.072752,0.0 4.455123,51.071954,0.0 4.454481,51.071756,0.0 4.453702,51.071562,0.0 4.453548,51.071503,0.0 4.453104,51.071423,0.0 4.453041,51.071376,0.0 4.453042,51.071324,0.0 4.453087,51.071202,0.0 4.453277,51.070845,0.0 4.453391,51.070659,0.0 4.453614,51.070374,0.0 4.453628,51.070305,0.0 4.453551,51.070269,0.0 4.453891,51.069954,0.0 4.45444,51.06954,0.0 4.454739,51.069291,0.0 4.455334,51.06872,0.0 4.455645,51.068382,0.0 4.455804,51.06814,0.0 4.455963,51.067816,0.0 4.456653,51.066641,0.0 4.456928,51.06591,0.0 4.4573,51.065415,0.0 4.458133,51.06441,0.0 4.458651,51.063661,0.0 4.458864,51.063299,0.0 4.459132,51.062765,0.0 4.459257,51.06222,0.0 4.459266,51.061805,0.0 4.459041,51.060666,0.0 4.459007,51.060632,0.0 4.458982,51.060541,0.0 4.458952,51.060304,0.0 4.458994,51.05989,0.0 4.459097,51.059602,0.0 4.459425,51.059193,0.0 4.459768,51.058873,0.0 4.460106,51.058647,0.0 4.461394,51.057977,0.0 4.461711,51.057764,0.0 4.46208,51.057426,0.0 4.462268,51.057196,0.0 4.463069,51.055842,0.0 4.463585,51.054893,0.0 4.465208,51.052116,0.0 4.465882,51.050868,0.0 4.466532,51.049735,0.0 4.466751,51.049394,0.0 4.467833,51.047399,0.0 4.468821,51.045736,0.0 4.468871,51.045609,0.0 4.472149,51.039915,0.0 4.472781,51.038635,0.0 4.473069,51.038162,0.0 4.473149,51.037806,0.0 4.473173,51.037144,0.0 4.472989,51.035186,0.0 4.472833,51.034388,0.0 4.47281,51.0334,0.0 4.472671,51.032851,0.0 4.472579,51.032285,0.0 4.472595,51.03218,0.0 4.472379,51.03137,0.0 4.472259,51.031114,0.0 4.471996,51.030744,0.0 4.471881,51.030605,0.0 4.471442,51.030176,0.0 4.471185,51.029893,0.0 4.470958,51.029563,0.0 4.470733,51.029146,0.0 4.47059,51.029059,0.0 4.470137,51.028128,0.0 4.469991,51.027668,0.0 4.469725,51.02751,0.0 4.469472,51.026598,0.0 4.46946,51.026517,0.0 4.469518,51.026266,0.0 4.470087,51.0249,0.0 4.470294,51.024558,0.0 4.471897,51.022859,0.0 4.470578,51.022351,0.0 4.471577,51.021609,0.0 4.471979,51.021284,0.0 4.472147,51.021213,0.0 4.471804,51.020975,0.0 4.47179,51.020949,0.0 4.471791,51.020884,0.0 4.471866,51.020771,0.0 4.471965,51.020679,0.0 4.471987,51.020743,0.0 4.472298,51.021139,0.0 4.472376,51.021106,0.0 4.472579,51.020931,0.0 4.473115,51.020534,0.0 4.473644,51.020203,0.0 4.475737,51.018976,0.0 4.475986,51.018883,0.0 4.478755,51.01724,0.0 4.479058,51.017092,0.0 4.480143,51.016444,0.0 4.480272,51.016339,0.0 4.480432,51.016276,0.0 4.480836,51.016038,0.0 4.482505,51.015097,0.0 4.484438,51.013872,0.0 4.489538,51.010877,0.0 4.490738,51.01015,0.0 4.49114,51.009904,0.0 4.49316,51.008754,0.0 4.494871,51.007916,0.0 4.497349,51.006759,0.0 4.500728,51.005235,0.0 4.507142,51.002297,0.0 4.51098,51.000558,0.0 4.511573,51.000184,0.0 4.511891,51.00006,0.0 4.51231,50.999953,0.0 4.516756,50.997951,0.0 4.52399,50.994619,0.0 4.528278,50.992669,0.0 4.528553,50.992562,0.0 4.52877,50.9925,0.0 4.5289,50.992437,0.0 4.528655,50.992255,0.0 4.528544,50.992138,0.0 4.529746,50.99157,0.0 4.531241,50.990907,0.0 4.531531,50.990756,0.0 4.533204,50.990043,0.0 4.539038,50.987381,0.0 4.539882,50.986972,0.0 4.540673,50.986545,0.0 4.541835,50.985803,0.0 4.543109,50.984944,0.0 4.543345,50.984719,0.0 4.543637,50.98452,0.0 4.544048,50.98431,0.0 4.545299,50.98347,0.0 4.546822,50.98248,0.0 4.551968,50.978983,0.0 4.554638,50.977224,0.0 4.556002,50.976283,0.0 4.55618,50.976135,0.0 4.55643,50.975972,0.0 4.556759,50.975815,0.0 4.557636,50.975224,0.0 4.557889,50.975094,0.0 4.558788,50.974494,0.0 4.558903,50.974379,0.0 4.559279,50.97416,0.0 4.559494,50.973984,0.0 4.55977,50.973854,0.0 4.560745,50.973203,0.0 4.561183,50.972859,0.0 4.562133,50.972237,0.0 4.564488,50.970711,0.0 4.566653,50.969281,0.0 4.570315,50.966952,0.0 4.572105,50.965832,0.0 4.579377,50.96142,0.0 4.589015,50.955522,0.0 4.589629,50.955101,0.0 4.590001,50.954905,0.0 4.590307,50.954817,0.0 4.590636,50.954747,0.0 4.591251,50.95476,0.0 4.591731,50.954879,0.0 4.59236,50.955199,0.0 4.592786,50.955458,0.0 4.593319,50.955745,0.0 4.594053,50.956002,0.0 4.594247,50.956055,0.0 4.594395,50.956067,0.0 4.595024,50.956025,0.0 4.595308,50.955991,0.0 4.595584,50.955957,0.0 4.596443,50.955802,0.0 4.608078,50.953605,0.0 4.609897,50.953247,0.0 4.611071,50.953063,0.0 4.622754,50.950853,0.0 4.623191,50.950734,0.0 4.638163,50.947925,0.0 4.640214,50.947522,0.0 4.640991,50.947421,0.0 4.642348,50.947144,0.0 4.642535,50.94711,0.0 4.643257,50.946915,0.0 4.643457,50.946887,0.0 4.643635,50.947168,0.0 4.643672,50.947302,0.0 4.650879,50.945927,0.0 4.651777,50.945767,0.0 4.653591,50.945396,0.0 4.655668,50.945001,0.0 4.65831,50.944538,0.0 4.658638,50.944449,0.0 4.659058,50.944277,0.0 4.66159,50.942525,0.0 4.661988,50.942285,0.0 4.662343,50.942033,0.0 4.663197,50.941489,0.0 4.664717,50.940457,0.0 4.665053,50.940276,0.0 4.665202,50.94013,0.0 4.665715,50.939807,0.0 4.666129,50.939511,0.0 4.672468,50.935346,0.0 4.674246,50.934184,0.0 4.676192,50.932945,0.0 4.678813,50.931157,0.0 4.684666,50.927242,0.0 4.685213,50.926879,0.0 4.685454,50.926752,0.0 4.685676,50.926678,0.0 4.687056,50.926132,0.0 4.688354,50.925655,0.0 4.691285,50.924541,0.0 4.692271,50.924205,0.0 4.69383,50.9236,0.0 4.69564,50.922921,0.0 4.69633,50.922682,0.0 4.69983,50.92138,0.0 4.70113,50.920854,0.0 4.703109,50.920116,0.0 4.703582,50.91993,0.0 4.703752,50.919841,0.0 4.703931,50.919731,0.0 4.70422,50.919463,0.0 4.704479,50.919144,0.0 4.704569,50.918984,0.0 4.706335,50.911822,0.0 4.706661,50.910318,0.0 4.707055,50.908712,0.0 4.707179,50.907861,0.0 4.707202,50.907556,0.0 4.707132,50.903888,0.0 4.707186,50.90374,0.0 4.707426,50.903457,0.0 4.706563,50.903154,0.0 4.706277,50.903025,0.0 4.706217,50.90297,0.0 4.70618,50.902917,0.0 4.706152,50.902799,0.0 4.706281,50.902228,0.0 4.706356,50.902037,0.0 4.706375,50.901832,0.0 4.706294,50.900282,0.0 4.706252,50.895865,0.0 4.706264,50.895075,0.0 4.706175,50.894813,0.0 4.706045,50.89466,0.0 4.705805,50.894477,0.0 4.705723,50.894358,0.0 4.705671,50.894219,0.0 4.705659,50.894091,0.0 4.705686,50.893951,0.0 4.705774,50.893822,0.0 4.706091,50.893461,0.0 4.70616,50.893322,0.0 4.706191,50.89317,0.0 4.7062,50.892633,0.0 4.70609,50.888432,0.0 4.706082,50.888332,0.0 4.706027,50.888163,0.0 4.705927,50.888006,0.0 4.706239,50.887927,0.0 4.70688,50.88786,0.0 4.706498,50.887396,0.0 4.707236,50.887112,0.0 4.707946,50.886816,0.0 4.708376,50.886658,0.0 4.709029,50.88639,0.0 4.709416,50.886235,0.0 4.709624,50.88612,0.0 4.710175,50.885606,0.0 4.711286,50.884621,0.0 4.712522,50.883558,0.0 4.712535,50.883494,0.0 4.712625,50.883371,0.0 4.713816,50.882333,0.0 4.714112,50.882112,0.0 4.714249,50.882059,0.0 4.714337,50.881948,0.0 4.714954,50.880585,0.0 4.714843,50.880569,0.0 4.714775,50.880539,0.0 4.714261,50.880173,0.0 4.7116,50.878132,0.0 4.710007,50.876935,0.0 4.70842,50.875697,0.0 4.706872,50.874505,0.0 4.706074,50.87393,0.0 4.7049,50.873036,0.0 4.703805,50.87217,0.0 4.707284,50.869658,0.0 4.707545,50.869455,0.0 4.707637,50.869322,0.0 4.707769,50.869187,0.0 4.707963,50.869049,0.0 4.708187,50.868914,0.0 4.708629,50.868466,0.0 4.708929,50.868053,0.0 4.709101,50.867747,0.0 4.709232,50.867561,0.0 4.709381,50.867396,0.0 4.709478,50.86732,0.0 4.710312,50.866932,0.0 4.710777,50.866645,0.0 4.710907,50.866536,0.0 4.710949,50.866464,0.0 4.711177,50.864996,0.0 4.710783,50.864982,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>Aan: Broekstraat 328, Leuven, België</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: ]]></description>
+				<Point>
+					<coordinates>4.943848,50.645977,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>Oregon State University</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>-123.275528,44.567365,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>Cogniteam</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=32.090508,34.858295&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Shoam 7 Petah Tikva, Israel
+
+type: ]]></description>
+				<Point>
+					<coordinates>34.858295,32.090508,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>École de technologie supérieure</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[1100, rue Notre-Dame Ouest  
+(angle Peel)
+Montréal (Québec) H3C 1K3
+514 396-8800
+
+type: school]]></description>
+				<Point>
+					<coordinates>-73.562855,45.494984,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>Tokyo Opensource Robotics Kyokai Association</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Bunkyo Ward, Japan
+http://opensource-robotics.tokyo.jp/
+
+type: ]]></description>
+				<Point>
+					<coordinates>139.768453,35.706447,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>Okuno lab, Kyoto U. (HARK)</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[http://winnie.kuis.kyoto-u.ac.jp/index-e.html
+
+type: school]]></description>
+				<Point>
+					<coordinates>135.78067299999998,35.026974,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>Tecnalia</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: ]]></description>
+				<Point>
+					<coordinates>-1.977539,43.277205,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-4186F0</styleUrl>
+				<name>PAL Robotics</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>company</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: company]]></description>
+				<Point>
+					<coordinates>2.160187,41.393294,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>Fraunhofer IPA</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Nobelstr. 12,
+70569 Stuttgart, Germany
+
+type: ]]></description>
+				<Point>
+					<coordinates>8.569336,48.654686,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>U. Texas at Dallas</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>-96.750154,32.988004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>DPRG (Dallas Personal Robotics Group)</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: ]]></description>
+				<Point>
+					<coordinates>-96.887569,32.899552,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>Kavraki Lab, Rice University</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>-95.400124,29.718303,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>Yamazaki Lab, Shinshu U.</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>138.188245,36.629873,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>Intelligent Systems Group, AIST</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: ]]></description>
+				<Point>
+					<coordinates>140.135379,36.061416,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-4186F0</styleUrl>
+				<name>Kawada Robotics Co.</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>company</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[www.kawadarobot.co.jp
+
+type: company]]></description>
+				<Point>
+					<coordinates>139.776778,35.691949,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>Instituto Tecnologico de Aragon</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: ]]></description>
+				<Point>
+					<coordinates>-0.886867,41.681891,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>Institut des Systèmes Intelligents et de Robotique</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[4, place Jussieu, 75005 Paris
+
+type: ]]></description>
+				<Point>
+					<coordinates>2.356725,48.845669,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>Merlin Systems Ltd</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: ]]></description>
+				<Point>
+					<coordinates>-2.991357,53.069631,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-4186F0</styleUrl>
+				<name>The Shadow Robot Company</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>company</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: company]]></description>
+				<Point>
+					<coordinates>-0.043945,51.522416,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>Albert-Ludwigs-Universität Freiburg</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>7.848102,47.998778,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>Technische Universität München</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>11.568197,48.14978,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>University of Pennsylvania: College of General Studies</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>-81.210937,34.885931,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>Massachusetts Institute of Technology</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>-72.905273,42.326062,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>JSK Lab at U-Tokyo</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>139.764462,35.712232,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>University of Arizona</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>-67.939453,17.727759,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-4186F0</styleUrl>
+				<name>Willow Garage</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>company</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[68 Willow Rd
+Menlo Park, CA 94025
+
+type: company]]></description>
+				<Point>
+					<coordinates>-122.166359,37.452291,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>University of Edinburgh</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Institute of Perception, Action and Behaviour
+----------------------------------------------------------------
+School of Informatics
+Crichton Street
+Edinburgh
+EH8 9AB
+
+type: school]]></description>
+				<Point>
+					<coordinates>-3.187108,55.94473,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>Aptima Inc</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: ]]></description>
+				<Point>
+					<coordinates>-68.598633,42.779275,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>University of Massachusetts- Lowell</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>-71.33419,42.643866,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-4186F0</styleUrl>
+				<name>Meka</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>company</value>
+					</Data>
+					<Data name='gx_media_links'>
+						<value>http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=37.750934,-122.392718&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[San Francisco, CA 94107
+
+type: company]]></description>
+				<Point>
+					<coordinates>-123.178711,36.421282,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-4186F0</styleUrl>
+				<name>Bosch Research</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>company</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Palo Alto, CA
+
+type: company]]></description>
+				<Point>
+					<coordinates>-126.914062,38.134557,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>Georgia Tech</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>-84.418945,33.72434,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>Middle East Technical University</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Kovan Research Lab, Computer Engineering Dept, METU Ankara, Turkey
+http://kovan.ceng.metu.edu.tr
+
+type: school]]></description>
+				<Point>
+					<coordinates>32.777774,39.894485,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>University At Albany</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Social Robotics Lab at ILS
+http://robotics.ils.albany.edu
+
+type: school]]></description>
+				<Point>
+					<coordinates>-76.069336,42.358544,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>University of Texas At Austin: University of Texas Press</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>-97.733523,30.285028,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>University at Albany, State University of New York</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>-75.234375,42.811522,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>Washington University in St. Louis</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>-90.3079605102539,38.64878543146582,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>Southern Illinois University</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>-89.571533,37.709899,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-4186F0</styleUrl>
+				<name>Clearpath Robotics</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>company</value>
+					</Data>
+					<Data name='gx_media_links'>
+						<value>http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=43.480838,-80.529541&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Waterloo, ON N2L, Canada
+
+type: company]]></description>
+				<Point>
+					<coordinates>-90.791016,45.73686,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>University of Coimbra</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>-3.427734,40.145289,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>TU Warsaw</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[+52° 14&#39; 4.25&quot;, +21° 0&#39; 29.05&quot;
+
+type: school]]></description>
+				<Point>
+					<coordinates>21.011739,52.218887,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>Technische Universität Wien</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>16.368586,48.198716,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>Heriot-Watt University</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>-3.328857,55.899956,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>University of Ulster</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>-5.95459,54.584797,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>OTL</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: ]]></description>
+				<Point>
+					<coordinates>136.757813,35.029996,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>Taylor Veltrop</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+					<Data name='gx_media_links'>
+						<value>http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=35.741974,139.783696&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Japan
+
+type: ]]></description>
+				<Point>
+					<coordinates>141.679688,35.532226,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>University of Zagreb</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>15.970126,45.810212,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>Case Western Reserve University</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>-81.606004,41.510661,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>OpenRobotino</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[85748 Garching bei München, Germany
+
+type: ]]></description>
+				<Point>
+					<coordinates>11.645508,48.261256,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>WPI</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>-73.740234,42.228517,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>Auburn University</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+					<Data name='gx_media_links'>
+						<value>http://farm5.static.flickr.com/4056/4656040327_4c6acbd499_z.jpg</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Auburn, AL
+
+type: school]]></description>
+				<Point>
+					<coordinates>-85.385742,32.62087,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>University Of British Columbia</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>-123.123962,49.262304,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>University of Bremen</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>8.920898,53.094024,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>Southern Illinois University Edwardsville</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+					<Data name='gx_media_links'>
+						<value>http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=38.796748,-89.999270&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[1 Hairpin Dr, Edwardsville, IL 62025
+ (http://maps.google.com/maps/place?ftid=0x8875f8759c8a6365:0xabbf0b513e44f166&amp;q=Southern+Illinois+University+Edwardsville,+1+Hairpin+Dr,+Edwardsville,+Madison,+Illinois+62025&amp;hl=en&amp;cad=src:ppiwlink&amp;ei=N1xcTfrpOqnwyAWpk62xDQ&amp;dtab=5)
+
+type: school]]></description>
+				<Point>
+					<coordinates>-89.956055,38.822591,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>ETH Zurich</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>8.548222,47.376151,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>Rheinisch-Westfälische Technische Hochschule Aachen</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Templergraben 55, 52062 Aachen, Germany
+
+type: ]]></description>
+				<Point>
+					<coordinates>6.077302,50.778944,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>CMU</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>-79.942875,40.441852,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>University of Texas El Paso</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+					<Data name='gx_media_links'>
+						<value>http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=31.774245,-106.501341&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[500 W University Ave # 210, El Paso, TX 79902
+ (http://maps.google.com/maps/place?ftid=0x86e7585aee8062d7:0xd1fa952f6437ecbc&amp;q=31.776118,-106.508846&amp;hl=en&amp;cad=src:ppiwlink&amp;ei=kFxcTZupEqH6yAW1wfi8DQ&amp;dtab=5)
+
+type: school]]></description>
+				<Point>
+					<coordinates>-106.490479,31.774878,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>University of Maryland</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>-76.959229,38.993572,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>The City College of New York</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>-72.641602,37.892196,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>University of Colorado</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>-105.336914,40.010787,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>Columbia University</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>-70.97168,39.842286,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>Brown University</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>-67.895508,41.738528,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>Care-O-Bot</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+					<Data name='gx_media_links'>
+						<value>http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=48.755934,9.191480&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[+48° 45&#39; 21.36&quot;, +9° 11&#39; 29.33&quot;
+
+type: ]]></description>
+				<Point>
+					<coordinates>9.151611,48.748945,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>Technische Universität München</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>11.535645,48.136767,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>KULeuven Universiteit</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>4.682986,50.865121,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFDD5E</styleUrl>
+				<name>Matt Bell</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>other</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[http://mattishere.wordpress.com/
+
+type: other]]></description>
+				<Point>
+					<coordinates>-127.705078,37.439974,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFDD5E</styleUrl>
+				<name>Bill Mania</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>other</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[ROS hobbyist
+
+type: other]]></description>
+				<Point>
+					<coordinates>-87.670691,42.0136,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>Trossen Robotics Community</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[TRC ROS Forums!
+http://forums.trossenrobotics.com/forumdisplay.php?f=137
+
+type: ]]></description>
+				<Point>
+					<coordinates>-88.051423,41.792409,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>UC Berkeley</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Hybrid Systems Lab (http://hybrid.eecs.berkeley.edu)
+Robotics Learning Lab
+
+type: school]]></description>
+				<Point>
+					<coordinates>-122.257748,37.875045,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-4186F0</styleUrl>
+				<name>Intel Labs Seattle</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>company</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: company]]></description>
+				<Point>
+					<coordinates>-122.316287,47.661516,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>TU Darmstadt - FG SIM</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Hochschulstr. 10
+D-64289 Darmstadt
+http://www.sim.informatik.tu-darmstadt.de/ (http://www.sim.informatik.tu-darmstadt.de/)
+
+type: ]]></description>
+				<Point>
+					<coordinates>8.654308,49.877643,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-4186F0</styleUrl>
+				<name>Clearpath Robotics</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>company</value>
+					</Data>
+					<Data name='gx_media_links'>
+						<value>http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=43.480838,-80.529541&amp;thumb=0 http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=43.451174,-80.497341&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Waterloo, ON N2L, Canada
+
+type: company]]></description>
+				<Point>
+					<coordinates>-81.5625,42.326062,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>University of Waterloo</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>-80.540299,43.468992,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>University of Toronto Institute for Aerospace Studies</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>-79.365234,43.771094,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>RTC Group - University of Seville</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Robotics and Computer and Architecture Group.
+
+http://www.ros.org/wiki/rtc-us-ros-pkg
+
+Open to collaboration and research!
+
+type: school]]></description>
+				<Point>
+					<coordinates>36.210938,56.559482,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>Johns Hopkins University</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Laboratory for Computational Sensing and Robotics
+http://www.lcsr.jhu.edu
+
+type: school]]></description>
+				<Point>
+					<coordinates>-77.34375,39.639538,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>University of Birmingham</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>-1.935836,52.450151,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>Fraunhofer FKIE</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Neuenahrer Straße 20, 53343 Wachtberg
+
+type: ]]></description>
+				<Point>
+					<coordinates>5.097656,39.639538,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>Aalto University </name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[TUAS building (Automation Systems)
+
+type: school]]></description>
+				<Point>
+					<coordinates>24.819531,60.187009,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-4186F0</styleUrl>
+				<name>Yujin Robot</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>company</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[#601, Namsung-Plaza, 345-30 Gasan-dong, Guemcheon-gu, Seoul, Korea, 153-023.
+
+type: company]]></description>
+				<Point>
+					<coordinates>126.874495,37.488548,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>CSIRO, Hobart</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: ]]></description>
+				<Point>
+					<coordinates>147.338086,-42.886794,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>Universidad de Zaragoza</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Robotics, Perception and Real Time Group.
+
+type: school]]></description>
+				<Point>
+					<coordinates>-0.888509,41.683618,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>Universidade de Aveiro</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>-8.635254,40.580585,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>INRIA</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: ]]></description>
+				<Point>
+					<coordinates>5.806614,45.217673,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>INRIA</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: ]]></description>
+				<Point>
+					<coordinates>10.107422,54.316523,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>OFFIS Institute for Information Technology</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Medical Devices Group, Escherweg 2, 26121 Oldenburg, Germany
+http://www.offis.de
+
+type: ]]></description>
+				<Point>
+					<coordinates>8.199985,53.148739,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>University of Tübingen</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>9.058651,48.525059,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>Fundacion Tekniker</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: ]]></description>
+				<Point>
+					<coordinates>-1.746826,43.036776,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>Fundacion Tekniker</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: ]]></description>
+				<Point>
+					<coordinates>-2.460937,43.149094,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>James Ronald</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[TurtleBot / ROS
+
+type: ]]></description>
+				<Point>
+					<coordinates>-83.916321,42.57331,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>CSIRO</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: ]]></description>
+				<Point>
+					<coordinates>152.910363,-27.529281,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>University of Osnabrück</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Knowledge-Based Systems group |
+http://www.inf.uni-osnabrueck.de/kbs/ | http://www.ros.org/wiki/uos-ros-pkg
+
+type: school]]></description>
+				<Point>
+					<coordinates>8.02525,52.283712,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>Northwestern University</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[NxR lab: http://nxr.northwestern.edu/
+
+type: school]]></description>
+				<Point>
+					<coordinates>-87.676156,42.058438,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>Southwest Research Institute</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[http://www.swri.org
+
+type: ]]></description>
+				<Point>
+					<coordinates>-98.610176,29.452198,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>Featheringill Hall</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: ]]></description>
+				<Point>
+					<coordinates>-86.803964,36.144703,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>IRI - UPC / CSIC</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=41.382853,2.115409&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[www.iri.upc.edu (http://www.iri.upc.edu)
+Carrer de Llorens i Artigas, 408028 Barcelona, Spain
+ (https://maps.google.com/maps/place?ftid=0x12a49857f44b6d8d:0xc0ae842d3365f6d1&amp;t=h&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=nvb1T8HKKoXZ8APx_uzCDA&amp;sig2=97JsGIAqLzbU4tTS9WNekg&amp;dtab=5)
+
+type: ]]></description>
+				<Point>
+					<coordinates>2.06543,41.376809,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>Eindhoven University Of Technology</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>5.489841,51.447744,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>Intelligrated</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Alvey® Robotics from Intelligrated. We provide integrated robotic material handling systems including system design, fabrication, installation, commissioning, and after-sales customer support.
+
+type: ]]></description>
+				<Point>
+					<coordinates>-91.801758,37.579413,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>RobotAppStore</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[www.RobotAppStore.com (http://www.RobotAppStore.com)
+
+
+50 California St.
+
+Suite 1500 15th Floor
+
+San Francisco, CA
+
+USA, 94111
+
+
+Office: +1(415) 439-5291
+
+type: ]]></description>
+				<Point>
+					<coordinates>-126.782227,38.065392,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>CMU</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=40.421860,-79.936523&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: ]]></description>
+				<Point>
+					<coordinates>-79.942875,40.441852,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>SUNY New Paltz Robotics Club</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: ]]></description>
+				<Point>
+					<coordinates>-75.893555,40.747257,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>Stanford, CA</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+					<Data name='gx_media_links'>
+						<value>http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=37.424106,-122.166076&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[(http://maps.google.com/maps/place?ftid=0x808fbac95ef1decd:0x6bad0d43152c9f52&amp;q=stanford&amp;hl=en&amp;cad=src:ppiwlink&amp;ei=CnlbTdn5B5OWtAP-9e2wDw&amp;dtab=5)
+
+type: ]]></description>
+				<Point>
+					<coordinates>-122.88207964062497,37.439973999999985,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>Falkor Systems</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Falkor Systems, Inc.
+
+type: ]]></description>
+				<Point>
+					<coordinates>-71.323242,38.85682,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-4186F0</styleUrl>
+				<name>iheartengineering</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>company</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: company]]></description>
+				<Point>
+					<coordinates>-73.300781,39.67337,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>Beijing Jiaotong University</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[No.3 Shang Yuan Cun,Hai Dian District Beijing,China Post-Code 100044
+
+type: school]]></description>
+				<Point>
+					<coordinates>116.191406,39.97712,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>U. Texas at Arlington (UTARI, NextGen Lab)</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: ]]></description>
+				<Point>
+					<coordinates>-97.113562,32.733177,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>Toyota InfoTech</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: ]]></description>
+				<Point>
+					<coordinates>-122.049415,37.38905,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>Kyushu University</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>130.424753,33.626523,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>Monash University Malaysia</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[46150 Subang Jaya, Selangor, Malaysia
+
+type: school]]></description>
+				<Point>
+					<coordinates>101.600758,3.064246,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>Centro Universitario da FEI</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[www.fei.edu.br
+
+type: school]]></description>
+				<Point>
+					<coordinates>-42.890625,-21.943046,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-62AF44</styleUrl>
+				<name>Michigan Tech Robotics Lab</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value>school</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[type: school]]></description>
+				<Point>
+					<coordinates>-65.126953,42.358544,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-FFFFFF</styleUrl>
+				<name>Ottiolu OT</name>
+				<ExtendedData>
+					<Data name='type'>
+						<value></value>
+					</Data>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=40.737367,9.707941&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Italy
+ (http://www.google.com/search?hl=en&amp;authuser=0&amp;q=ottiolu+sardinia&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=N8EEUqvyNoPZigaXsIDABw&amp;sig2=5fgv9tCHMLjQLRoojg08OQ&amp;dtab=5)
+
+type: ]]></description>
+				<Point>
+					<coordinates>9.707941,40.737367,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-959-4186F0'>
+			<IconStyle>
+				<color>ffF08641</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-62AF44'>
+			<IconStyle>
+				<color>ff44AF62</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-FFDD5E'>
+			<IconStyle>
+				<color>ff5EDDFF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-FFFFFF'>
+			<IconStyle>
+				<color>ffFFFFFF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='line-FFFFFF-1'>
+			<LineStyle>
+				<color>ffFFFFFF</color>
+				<width>1</width>
+			</LineStyle>
+		</Style>
+	</Document>
+</kml>
