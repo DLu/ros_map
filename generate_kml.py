@@ -2,6 +2,7 @@
 
 from xml.dom.minidom import parse, Document
 from yaml import load
+from os.path import split, splitext
 import sys
 dom = Document()
 
@@ -75,7 +76,9 @@ document = dom.createElement("Document")
 root.appendChild(document)
 document.appendChild( text_element('name', 'ROS Users of the World') )
 document.appendChild( text_element('description', 'ROS Users of the World', True) )
-document.appendChild( create_folder('ROS Users', load(open(sys.argv[1]))) )
+for arg in sys.argv[1:]:
+    key = splitext( split(arg)[-1] )[0].capitalize()
+    document.appendChild( create_folder('ROS Users (%s)'%key, load(open(arg))) )
 
 document.appendChild( create_style('icon-959-4186F0', 'F08641') )
 document.appendChild( create_style('icon-959-62AF44', '44AF62') )
