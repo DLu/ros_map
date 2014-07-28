@@ -85,5 +85,7 @@ document.appendChild( create_style('icon-959-62AF44', '44AF62') )
 document.appendChild( create_style('icon-959-FFDD5E', '5EDDFF') )
 document.appendChild( create_style('icon-959-FFFFFF', 'FFFFFF') )
 
+print "Content-type: text/xml"
+print 
 print dom.toprettyxml()
 
