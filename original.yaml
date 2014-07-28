@@ -25,7 +25,7 @@
  - style: #icon-959-FFFFFF
    name: Cogniteam
    type:  
-   link: https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=32.090508,34.858295&amp;thumb=0
+   link: https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=32.090508,34.858295&thumb=0
    address: Shoam 7 Petah Tikva, Israel
    latlong: 34.858295,32.090508,0.0
  - style: #icon-959-62AF44
@@ -145,7 +145,7 @@
  - style: #icon-959-4186F0
    name: Meka
    type:  company
-   link: http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=37.750934,-122.392718&amp;thumb=0
+   link: http://cbk0.google.com/cbk?output=thumbnail&w=90&h=68&ll=37.750934,-122.392718&thumb=0
    address: San Francisco, CA 94107
    latlong: -123.178711,36.421282,0.0
  - style: #icon-959-4186F0
@@ -188,7 +188,7 @@
  - style: #icon-959-4186F0
    name: Clearpath Robotics
    type:  company
-   link: http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=43.480838,-80.529541&amp;thumb=0
+   link: http://cbk0.google.com/cbk?output=thumbnail&w=90&h=68&ll=43.480838,-80.529541&thumb=0
    address: Waterloo, ON N2L, Canada
    latlong: -90.791016,45.73686,0.0
  - style: #icon-959-62AF44
@@ -198,7 +198,6 @@
  - style: #icon-959-62AF44
    name: TU Warsaw
    type:  school
-   address: +52° 14&#39; 4.25&quot;, +21° 0&#39; 29.05&quot;
    latlong: 21.011739,52.218887,0.0
  - style: #icon-959-62AF44
    name: Technische Universität Wien
@@ -219,7 +218,7 @@
  - style: #icon-959-FFFFFF
    name: Taylor Veltrop
    type:  
-   link: http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=35.741974,139.783696&amp;thumb=0
+   link: http://cbk0.google.com/cbk?output=thumbnail&w=90&h=68&ll=35.741974,139.783696&thumb=0
    address: Japan
    latlong: 141.679688,35.532226,0.0
  - style: #icon-959-62AF44
@@ -256,7 +255,7 @@
  - style: #icon-959-62AF44
    name: Southern Illinois University Edwardsville
    type:  school
-   link: http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=38.796748,-89.999270&amp;thumb=0
+   link: http://cbk0.google.com/cbk?output=thumbnail&w=90&h=68&ll=38.796748,-89.999270&thumb=0
    address: 1 Hairpin Dr, Edwardsville, IL 62025
    latlong: -89.956055,38.822591,0.0
  - style: #icon-959-62AF44
@@ -275,8 +274,8 @@
  - style: #icon-959-62AF44
    name: University of Texas El Paso
    type:  school
-   link: http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=31.774245,-106.501341&amp;thumb=0
-   address: 500 W University Ave # 210, El Paso, TX 79902
+   link: http://cbk0.google.com/cbk?output=thumbnail&w=90&h=68&ll=31.774245,-106.501341&thumb=0
+   address: "500 W University Ave # 210, El Paso, TX 79902"
    latlong: -106.490479,31.774878,0.0
  - style: #icon-959-62AF44
    name: University of Maryland
@@ -301,7 +300,7 @@
  - style: #icon-959-FFFFFF
    name: Care-O-Bot
    type:  
-   link: http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=48.755934,9.191480&amp;thumb=0
+   link: http://cbk0.google.com/cbk?output=thumbnail&w=90&h=68&ll=48.755934,9.191480&thumb=0
    latlong: 9.151611,48.748945,0.0
  - style: #icon-959-62AF44
    name: Technische Universität München
@@ -346,7 +345,7 @@
  - style: #icon-959-4186F0
    name: Clearpath Robotics
    type:  company
-   link: http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=43.480838,-80.529541&amp;thumb=0 http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=43.451174,-80.497341&amp;thumb=0
+   link: http://cbk0.google.com/cbk?output=thumbnail&w=90&h=68&ll=43.480838,-80.529541&thumb=0 http://cbk0.google.com/cbk?output=thumbnail&w=90&h=68&ll=43.451174,-80.497341&thumb=0
    address: Waterloo, ON N2L, Canada
    latlong: -81.5625,42.326062,0.0
  - style: #icon-959-62AF44
@@ -386,7 +385,7 @@
  - style: #icon-959-4186F0
    name: Yujin Robot
    type:  company
-   address: #601, Namsung-Plaza, 345-30 Gasan-dong, Guemcheon-gu, Seoul, Korea, 153-023.
+   address: "#601, Namsung-Plaza, 345-30 Gasan-dong, Guemcheon-gu, Seoul, Korea, 153-023."
    latlong: 126.874495,37.488548,0.0
  - style: #icon-959-FFFFFF
    name: CSIRO, Hobart
@@ -460,7 +459,7 @@
  - style: #icon-959-FFFFFF
    name: IRI - UPC / CSIC
    type:  
-   link: https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=41.382853,2.115409&amp;thumb=0
+   link: https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=41.382853,2.115409&thumb=0
    link: www.iri.upc.edu
    address: Carrer de Llorens i Artigas, 408028 Barcelona, Spain
    latlong: 2.06543,41.376809,0.0
@@ -471,7 +470,7 @@
  - style: #icon-959-FFFFFF
    name: Intelligrated
    type:  
-   description: Alvey® Robotics from Intelligrated. We provide integrated robotic material handling systems including system design, fabrication, installation, commissioning, and after-sales customer support.
+   description: Alvey Robotics from Intelligrated. We provide integrated robotic material handling systems including system design, fabrication, installation, commissioning, and after-sales customer support.
    latlong: -91.801758,37.579413,0.0
  - style: #icon-959-FFFFFF
    name: RobotAppStore
@@ -482,7 +481,7 @@
  - style: #icon-959-FFFFFF
    name: CMU
    type:  
-   link: https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=40.421860,-79.936523&amp;thumb=0
+   link: https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=40.421860,-79.936523&thumb=0
    latlong: -79.942875,40.441852,0.0
  - style: #icon-959-FFFFFF
    name: SUNY New Paltz Robotics Club
@@ -491,8 +490,8 @@
  - style: #icon-959-FFFFFF
    name: Stanford, CA
    type:  
-   link: http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=37.424106,-122.166076&amp;thumb=0
-   link: (http://maps.google.com/maps/place?ftid=0x808fbac95ef1decd:0x6bad0d43152c9f52&amp;q=stanford&amp;hl=en&amp;cad=src:ppiwlink&amp;ei=CnlbTdn5B5OWtAP-9e2wDw&amp;dtab=5)
+   link: http://cbk0.google.com/cbk?output=thumbnail&w=90&h=68&ll=37.424106,-122.166076&thumb=0
+   link: (http://maps.google.com/maps/place?ftid=0x808fbac95ef1decd:0x6bad0d43152c9f52&q=stanford&hl=en&cad=src:ppiwlink&ei=CnlbTdn5B5OWtAP-9e2wDw&dtab=5)
    latlong: -122.88207964062497,37.439973999999985,0.0
  - style: #icon-959-FFFFFF
    name: Falkor Systems
@@ -537,6 +536,6 @@
  - style: #icon-959-FFFFFF
    name: Ottiolu OT
    type:  
-   link: https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=40.737367,9.707941&amp;thumb=0
+   link: https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=40.737367,9.707941&thumb=0
    description: Italy
    latlong: 9.707941,40.737367,0.0
