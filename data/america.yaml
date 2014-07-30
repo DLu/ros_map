@@ -1,7 +1,7 @@
  - name: Aptima Inc
    type: company
-   long: -68.598633
-   lat: 42.779275
+   long: -71.146265
+   lat: 42.508202
  - name: Auburn University
    type: school
    address: Auburn, AL
@@ -20,8 +20,8 @@
    lat: 37.400595
  - name: Brown University
    type: school
-   long: -67.895508
-   lat: 41.738528
+   long: -71.402556
+   lat: 41.826777
  - name: CMU
    type: school
    long: -79.942875
@@ -42,8 +42,8 @@
    lat: 43.480838
  - name: Columbia University
    type: school
-   long: -70.97168
-   lat: 39.842286
+   long: -73.962573
+   lat: 40.807536
  - name: DPRG (Dallas Personal Robotics Group)
    type: other
    long: -96.887569
@@ -83,8 +83,8 @@
    lat: 29.718303
  - name: Massachusetts Institute of Technology
    type: school
-   long: -72.905273
-   lat: 42.326062
+   long: -71.09416
+   lat: 42.360091
  - name: Matt Bell
    type: other
    long: -127.705078
@@ -97,8 +97,8 @@
    lat: 37.766384
  - name: Michigan Tech Robotics Lab
    type: school
-   long: -65.126953
-   lat: 42.358544
+   long: -88.544531
+   lat: 47.117051
  - name: Northwestern University
    type: school
    description: NxR lab
@@ -122,8 +122,8 @@
    link: http://www.RobotAppStore.com
  - name: SUNY New Paltz Robotics Club
    type: null
-   long: -75.893555
-   lat: 40.747257
+   long: -74.082098
+   lat: 41.74089
  - name: Southern Illinois University
    type: school
    long: -89.571533
@@ -145,8 +145,8 @@
    lat: 37.4249378
  - name: The City College of New York
    type: school
-   long: -72.641602
-   lat: 37.892196
+   long: -73.949272
+   lat: 40.820047
  - name: Toyota InfoTech
    type: company
    long: -122.049415
@@ -177,18 +177,14 @@
    lat: 34.022329
  - name: University At Albany
    type: school
-   address: Social Robotics Lab at ILS
-   long: -76.069336
-   lat: 42.358544
+   description: Social Robotics Lab at ILS
+   long: -73.822852
+   lat: 42.686744
    link: http://robotics.ils.albany.edu
  - name: University Of British Columbia
    type: school
    long: -123.123962
    lat: 49.262304
- - name: University at Albany, State University of New York
-   type: school
-   long: -75.234375
-   lat: 42.811522
  - name: University of Arizona
    type: school
    long: -110.95639
@@ -233,8 +229,8 @@
    lat: 36.144703
  - name: WPI
    type: school
-   long: -73.740234
-   lat: 42.228517
+   long: -71.805976
+   lat: 42.273856
  - name: Washington University in St. Louis
    type: school
    long: -90.3079605102539
@@ -246,8 +242,8 @@
    lat: 37.452291
  - name: iheartengineering
    type: company
-   long: -73.300781
-   lat: 39.67337
+   long: -74.008192
+   lat: 40.6574837
  - name: "\xC9cole de technologie sup\xE9rieure"
    type: school
    address: "1100, rue Notre-Dame Ouest (angle Peel) Montr\xE9al (Qu\xE9bec) H3C 1K3"
