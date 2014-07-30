@@ -6,8 +6,7 @@ from os.path import split, splitext
 import sys
 dom = Document()
 
-STYLES = {'school': '#icon-959-62AF44', 'company': '#icon-959-4186F0', 'other': '#icon-959-FFDD5E'}
-DEFAULT_STYLE = '#icon-959-FFFFFF'
+STYLES = {'school': '44AF62', 'company': 'F08641', 'other': '5EDDFF', None: 'FFFFFF'}
 
 def text_element(name, text, cdata=False):
     if text is None:
@@ -30,8 +29,11 @@ def create_folder(name, data):
     f.appendChild( text_element('name', name))
     for place in data:
         p = dom.createElement('Placemark')
-        style = STYLES.get(place['type'], DEFAULT_STYLE)
-        p.appendChild( text_element('styleUrl', style))
+        tipo = place.get('type', None)
+        if tipo == 'null':
+            tipo = None
+
+        p.appendChild( text_element('styleUrl', '#%s'%str(tipo)))
         p.appendChild( text_element('name', place['name']))
         
         edata = dom.createElement('ExtendedData')
@@ -51,15 +53,16 @@ def create_folder(name, data):
         
         point = dom.createElement('Point')
         p.appendChild(point)
-        point.appendChild( text_element('coordinates', place.get('latlong', '')))
-        
+        if 'latlong' in place:
+            point.appendChild( text_element('coordinates', place['latlong']))
+
         f.appendChild(p)
     
     return f
 
 def create_style(name, color, url='http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png'):
     f = dom.createElement('Style')
-    f.setAttribute('id', name)
+    f.setAttribute('id', str(name))
     p = dom.createElement('IconStyle')
     f.appendChild(p)
     p.appendChild( text_element('color', 'ff' + color) )
@@ -80,10 +83,8 @@ for arg in sys.argv[1:]:
     key = splitext( split(arg)[-1] )[0].capitalize()
     document.appendChild( create_folder('ROS Users (%s)'%key, load(open(arg))) )
 
-document.appendChild( create_style('icon-959-4186F0', 'F08641') )
-document.appendChild( create_style('icon-959-62AF44', '44AF62') )
-document.appendChild( create_style('icon-959-FFDD5E', '5EDDFF') )
-document.appendChild( create_style('icon-959-FFFFFF', 'FFFFFF') )
+for style, color in STYLES.iteritems():
+    document.appendChild( create_style(style, color) )
 
 print "Content-type: text/xml"
 print 
