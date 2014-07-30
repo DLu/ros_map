@@ -4,41 +4,52 @@
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
     <title>ROS Users of the World</title>
+    <link href='http://fonts.googleapis.com/css?family=Titillium+Web' rel='stylesheet' type='text/css'>
     <style>
-      html, body, #map-canvas {
+      html, body {
+        font-family: 'Titillium Web', sans-serif
+      }
+      #map-canvas {
         height: 100%;
-        margin: 0px;
-        padding: 0px
+        width: 80%;
+        position: absolute;
+        right: 0%
+
+      }
+      #text {
+        height: 100%;
+        width: 15%;
+        position: absolute;
+        left: 0%;
+        padding: 50px;
+
       }
     </style>
+    <script src="http://www.metrorobots.com/analytics.js" />
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
     <script>
-function initialize() {
-  
-  var map = new google.maps.Map(document.getElementById('map-canvas'));
+        function initialize() {
+          
+          var map = new google.maps.Map(document.getElementById('map-canvas'));
 
-  var ctaLayer = new google.maps.KmlLayer({
-     url: 'http://metrorobots.com/scripts/generate_kml.py'
-  });
-  ctaLayer.setMap(map);
-}
+          var ctaLayer = new google.maps.KmlLayer({
+             url: 'http://metrorobots.com/scripts/generate_kml.py'
+          });
+          ctaLayer.setMap(map);
+        }
 
-google.maps.event.addDomListener(window, 'load', initialize);
-
+        google.maps.event.addDomListener(window, 'load', initialize);
     </script>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-12882201-4', 'auto');
-  ga('send', 'pageview');
-
-</script>
-
   </head>
   <body>
+    <div id="text"><h1>ROS Users of the World</h1>
+    <ul>
+      <li><span style="color: #62AF44">GREEN </span> - School
+      <li><span style="color: #4186F0">BLUE </span> - Company
+      <li><span style="color: #FFDD5E">YELLOW </span> - Other
+    </ul>
+    <p>Add to or edit the map by changing the yaml files in <a href="https://github.com/DLu/ros_map/tree/master/data">this repository</a>, or by emailing <a href="mailto:david AT metrorobots DOT COM">the map maintainer</a>.
+    </div>
     <div id="map-canvas"></div>
   </body>
 </html>
