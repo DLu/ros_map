@@ -1,199 +1,255 @@
  - name: Aptima Inc
    type: company
-   latlong: -68.598633,42.779275,0.0
+   long: -68.598633
+   lat: 42.779275
  - name: Auburn University
    type: school
    address: Auburn, AL
-   latlong: -85.385742,32.62087,0.0
+   long: -85.385742
+   lat: 32.62087
    link: http://farm5.static.flickr.com/4056/4656040327_4c6acbd499_z.jpg
  - name: Bill Mania
    type: other
    description: ROS hobbyist
-   latlong: -87.670691,42.0136,0.0
+   long: -87.670691
+   lat: 42.0136
  - name: Bosch Research
    type: company
    address: Palo Alto, CA
-   latlong: -122.136973,37.400595,0.0
+   long: -122.136973
+   lat: 37.400595
  - name: Brown University
    type: school
-   latlong: -67.895508,41.738528,0.0
+   long: -67.895508
+   lat: 41.738528
  - name: CMU
    type: school
-   latlong: -79.942875,40.441852,0.0
+   long: -79.942875
+   lat: 40.441852
  - name: Case Western Reserve University
    type: school
-   latlong: -81.606004,41.510661,0.0
+   long: -81.606004
+   lat: 41.510661
  - name: Centro Universitario da FEI
    type: school
-   latlong: -42.890625,-21.943046,0.0
+   long: -42.890625
+   lat: -21.943046
    link: www.fei.edu.br
  - name: Clearpath Robotics
    type: company
    address: Waterloo, ON N2L, Canada
-   latlong: -80.529541,43.480838,0.0
+   long: -80.529541
+   lat: 43.480838
  - name: Columbia University
    type: school
-   latlong: -70.97168,39.842286,0.0
+   long: -70.97168
+   lat: 39.842286
  - name: DPRG (Dallas Personal Robotics Group)
    type: other
-   latlong: -96.887569,32.899552,0.0
+   long: -96.887569
+   lat: 32.899552
  - name: Falkor Systems
    type: null
    description: Falkor Systems, Inc.
-   latlong: -71.323242,38.85682,0.0
+   long: -71.323242
+   lat: 38.85682
  - name: Georgia Tech
    type: school
-   latlong: -84.418945,33.72434,0.0
+   long: -84.418945
+   lat: 33.72434
  - name: Intel Labs Seattle
    type: company
-   latlong: -122.316287,47.661516,0.0
+   long: -122.316287
+   lat: 47.661516
  - name: Intelligrated
    type: company
    description: Alvey Robotics from Intelligrated. We provide integrated robotic material handling systems including system design, fabrication, installation, commissioning, and after-sales customer support.
-   latlong: -91.801758,37.579413,0.0
+   long: -91.801758
+   lat: 37.579413
  - name: James Ronald
    type: null
    description: TurtleBot / ROS
-   latlong: -83.916321,42.57331,0.0
+   long: -83.916321
+   lat: 42.57331
  - name: Johns Hopkins University
    type: school
    description: Laboratory for Computational Sensing and Robotics
-   latlong: -77.34375,39.639538,0.0
+   long: -77.34375
+   lat: 39.639538
    link: http://www.lcsr.jhu.edu
  - name: Kavraki Lab, Rice University
    type: school
-   latlong: -95.400124,29.718303,0.0
+   long: -95.400124
+   lat: 29.718303
  - name: Massachusetts Institute of Technology
    type: school
-   latlong: -72.905273,42.326062,0.0
+   long: -72.905273
+   lat: 42.326062
  - name: Matt Bell
    type: other
-   latlong: -127.705078,37.439974,0.0
+   long: -127.705078
+   lat: 37.439974
    link: http://mattishere.wordpress.com/
  - name: Meka Robotics
    type: company
    address: 255 Potrero Ave, San Francisco, CA 94103
-   latlong: -122.407133,37.766384,0.0
+   long: -122.407133
+   lat: 37.766384
  - name: Michigan Tech Robotics Lab
    type: school
-   latlong: -65.126953,42.358544,0.0
+   long: -65.126953
+   lat: 42.358544
  - name: Northwestern University
    type: school
    description: NxR lab
-   latlong: -87.676156,42.058438,0.0
+   long: -87.676156
+   lat: 42.058438
    link: http://nxr.northwestern.edu/
  - name: Open Source Robotics Foundation
    type: company
    address: 419 N. Shoreline Blvd, Mountain View, CA 94043
-   latlong: -122.079992,37.399449,0.0
+   long: -122.079992
+   lat: 37.399449
  - name: Oregon State University
    type: school
-   latlong: -123.275528,44.567365,0.0
+   long: -123.275528
+   lat: 44.567365
  - name: RobotAppStore
    type: company
    address: 50 California St. Suite 1500 15th Floor San Francisco, CA USA, 94111
-   latlong: -122.397369,37.79406,0.0
+   long: -122.397369
+   lat: 37.79406
    link: http://www.RobotAppStore.com
  - name: SUNY New Paltz Robotics Club
    type: null
-   latlong: -75.893555,40.747257,0.0
+   long: -75.893555
+   lat: 40.747257
  - name: Southern Illinois University
    type: school
-   latlong: -89.571533,37.709899,0.0
+   long: -89.571533
+   lat: 37.709899
  - name: Southern Illinois University Edwardsville
    type: school
    address: 1 Hairpin Dr, Edwardsville, IL 62025
-   latlong: -89.956055,38.822591,0.0
+   long: -89.956055
+   lat: 38.822591
    link: http://cbk0.google.com/cbk?output=thumbnail&w=90&h=68&ll=38.796748,-89.999270&thumb=0
  - name: Southwest Research Institute
    type: company
-   latlong: -98.610176,29.452198,0.0
+   long: -98.610176
+   lat: 29.452198
    link: http://www.swri.org
  - name: Stanford University
    type: school
-   latlong: -122.1703835,37.4249378,0.0
+   long: -122.1703835
+   lat: 37.4249378
  - name: The City College of New York
    type: school
-   latlong: -72.641602,37.892196,0.0
+   long: -72.641602
+   lat: 37.892196
  - name: Toyota InfoTech
    type: company
-   latlong: -122.049415,37.38905,0.0
+   long: -122.049415
+   lat: 37.38905
  - name: Trossen Robotics Community
    type: null
    description: TRC ROS Forums!
-   latlong: -88.051423,41.792409,0.0
+   long: -88.051423
+   lat: 41.792409
    link: http://forums.trossenrobotics.com/forumdisplay.php?f=137
  - name: U. Texas at Arlington (UTARI, NextGen Lab)
    type: school
-   latlong: -97.113562,32.733177,0.0
+   long: -97.113562
+   lat: 32.733177
  - name: U. Texas at Dallas
    type: school
-   latlong: -96.750154,32.988004,0.0
+   long: -96.750154
+   lat: 32.988004
  - name: UC Berkeley
    type: school
    description: Hybrid Systems Lab / Robotics Learning Lab
-   latlong: -122.257748,37.875045,0.0
+   long: -122.257748
+   lat: 37.875045
    link: http://hybrid.eecs.berkeley.edu
  - name: USC
    type: school
-   latlong: -118.285128,34.022329,0.0
+   long: -118.285128
+   lat: 34.022329
  - name: University At Albany
    type: school
    address: Social Robotics Lab at ILS
-   latlong: -76.069336,42.358544,0.0
+   long: -76.069336
+   lat: 42.358544
    link: http://robotics.ils.albany.edu
  - name: University Of British Columbia
    type: school
-   latlong: -123.123962,49.262304,0.0
+   long: -123.123962
+   lat: 49.262304
  - name: University at Albany, State University of New York
    type: school
-   latlong: -75.234375,42.811522,0.0
+   long: -75.234375
+   lat: 42.811522
  - name: University of Arizona
    type: school
-   latlong: -110.95639,32.237788,0.0
+   long: -110.95639
+   lat: 32.237788
  - name: University of Colorado
    type: school
-   latlong: -105.336914,40.010787,0.0
+   long: -105.336914
+   lat: 40.010787
  - name: University of Maryland
    type: school
-   latlong: -76.959229,38.993572,0.0
+   long: -76.959229
+   lat: 38.993572
  - name: University of Massachusetts- Lowell
    type: school
-   latlong: -71.33419,42.643866,0.0
+   long: -71.33419
+   lat: 42.643866
  - name: 'University of Pennsylvania'
    type: school
-   latlong: -75.193214,39.952219,0.0
+   long: -75.193214
+   lat: 39.952219
  - name: 'University of Texas At Austin: University of Texas Press'
    type: school
-   latlong: -97.733523,30.285028,0.0
+   long: -97.733523
+   lat: 30.285028
  - name: University of Texas El Paso
    type: school
    address: '500 W University Ave # 210, El Paso, TX 79902'
-   latlong: -106.490479,31.774878,0.0
+   long: -106.490479
+   lat: 31.774878
    link: http://cbk0.google.com/cbk?output=thumbnail&w=90&h=68&ll=31.774245,-106.501341&thumb=0
  - name: University of Toronto Institute for Aerospace Studies
    type: school
-   latlong: -79.365234,43.771094,0.0
+   long: -79.365234
+   lat: 43.771094
  - name: University of Waterloo
    type: school
-   latlong: -80.540299,43.468992,0.0
+   long: -80.540299
+   lat: 43.468992
  - name: Vanderbilt University
    type: school
-   latlong: -86.803964,36.144703,0.0
+   long: -86.803964
+   lat: 36.144703
  - name: WPI
    type: school
-   latlong: -73.740234,42.228517,0.0
+   long: -73.740234
+   lat: 42.228517
  - name: Washington University in St. Louis
    type: school
-   latlong: -90.3079605102539,38.64878543146582,0.0
+   long: -90.3079605102539
+   lat: 38.64878543146582
  - name: Willow Garage
    type: company
    address: 68 Willow Rd, Menlo Park, CA 94025
-   latlong: -122.166359,37.452291,0.0
+   long: -122.166359
+   lat: 37.452291
  - name: iheartengineering
    type: company
-   latlong: -73.300781,39.67337,0.0
+   long: -73.300781
+   lat: 39.67337
  - name: "\xC9cole de technologie sup\xE9rieure"
    type: school
    address: "1100, rue Notre-Dame Ouest (angle Peel) Montr\xE9al (Qu\xE9bec) H3C 1K3"
-   latlong: -73.562855,45.494984,0.0
+   long: -73.562855
+   lat: 45.494984

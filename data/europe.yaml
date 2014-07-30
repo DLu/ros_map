@@ -1,153 +1,196 @@
  - name: Aalto University
    type: school
    description: TUAS building (Automation Systems)
-   latlong: 24.819531,60.187009,0.0
+   long: 24.819531
+   lat: 60.187009
  - name: "Aan: Broekstraat 328, Leuven, Belgi\xEB"
    type: null
-   latlong: 4.943848,50.645977,0.0
+   long: 4.943848
+   lat: 50.645977
  - name: "Albert-Ludwigs-Universit\xE4t Freiburg"
    type: school
-   latlong: 7.848102,47.998778,0.0
+   long: 7.848102
+   lat: 47.998778
  - name: Care-O-Bot
    type: null
-   latlong: 9.151611,48.748945,0.0
+   long: 9.151611
+   lat: 48.748945
    link: http://cbk0.google.com/cbk?output=thumbnail&w=90&h=68&ll=48.755934,9.191480&thumb=0
  - name: ETH Zurich
    type: school
-   latlong: 8.548222,47.376151,0.0
+   long: 8.548222
+   lat: 47.376151
  - name: Eindhoven University Of Technology
    type: school
-   latlong: 5.489841,51.447744,0.0
+   long: 5.489841
+   lat: 51.447744
  - name: Fraunhofer FKIE
    type: null
    address: "Neuenahrer Stra\xDFe 20, 53343 Wachtberg"
-   latlong: 5.097656,39.639538,0.0
+   long: 5.097656
+   lat: 39.639538
  - name: Fraunhofer IPA
    type: null
    address: Nobelstr. 12, 70569 Stuttgart, Germany
-   latlong: 8.569336,48.654686,0.0
+   long: 8.569336
+   lat: 48.654686
  - name: Fundacion Tekniker
    type: null
-   latlong: -1.746826,43.036776,0.0
+   long: -1.746826
+   lat: 43.036776
  - name: Fundacion Tekniker
    type: null
-   latlong: -2.460937,43.149094,0.0
+   long: -2.460937
+   lat: 43.149094
 
  - name: Heriot-Watt University
    type: school
-   latlong: -3.328857,55.899956,0.0
+   long: -3.328857
+   lat: 55.899956
  - name: INRIA
    type: null
-   latlong: 5.806614,45.217673,0.0
+   long: 5.806614
+   lat: 45.217673
  - name: INRIA
    type: null
-   latlong: 10.107422,54.316523,0.0
+   long: 10.107422
+   lat: 54.316523
  - name: IRI - UPC / CSIC
    type: null
    address: Carrer de Llorens i Artigas, 408028 Barcelona, Spain
-   latlong: 2.06543,41.376809,0.0
+   long: 2.06543
+   lat: 41.376809
    link: www.iri.upc.edu
  - name: "Institut des Syst\xE8mes Intelligents et de Robotique"
    type: null
    address: 4, place Jussieu, 75005 Paris
-   latlong: 2.356725,48.845669,0.0
+   long: 2.356725
+   lat: 48.845669
  - name: Instituto Tecnologico de Aragon
    type: null
-   latlong: -0.886867,41.681891,0.0
+   long: -0.886867
+   lat: 41.681891
  - name: KULeuven Universiteit
    type: school
-   latlong: 4.682986,50.865121,0.0
+   long: 4.682986
+   lat: 50.865121
  - name: Merlin Systems Ltd
    type: null
-   latlong: -2.991357,53.069631,0.0
+   long: -2.991357
+   lat: 53.069631
  - name: OFFIS Institute for Information Technology
    type: null
    address: Medical Devices Group, Escherweg 2, 26121 Oldenburg, Germany
-   latlong: 8.199985,53.148739,0.0
+   long: 8.199985
+   lat: 53.148739
    link: http://www.offis.de
  - name: OpenRobotino
    type: null
    address: "85748 Garching bei M\xFCnchen, Germany"
-   latlong: 11.645508,48.261256,0.0
+   long: 11.645508
+   lat: 48.261256
  - name: Ottiolu OT
    type: null
    description: Italy
-   latlong: 9.707941,40.737367,0.0
+   long: 9.707941
+   lat: 40.737367
    link: https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=40.737367,9.707941&thumb=0
  - name: PAL Robotics
    type: company
-   latlong: 2.160187,41.393294,0.0
+   long: 2.160187
+   lat: 41.393294
  - name: RTC Group - University of Seville
    type: school
    description: Robotics and Computer and Architecture Group. Open to collaboration and research!
-   latlong: 36.210938,56.559482,0.0
+   long: 36.210938
+   lat: 56.559482
    link: http://www.ros.org/wiki/rtc-us-ros-pkg
  - name: "Rheinisch-Westf\xE4lische Technische Hochschule Aachen"
    type: null
    address: Templergraben 55, 52062 Aachen, Germany
-   latlong: 6.077302,50.778944,0.0
+   long: 6.077302
+   lat: 50.778944
  - name: "Routebeschrijving voor fietsen naar Broekstraat 328, Leuven, Belgi\xEB"
    type: null
-   latlong: 4.7102106,50.8648806,0.0
+   long: 4.7102106
+   lat: 50.8648806
  - name: TU Darmstadt - FG SIM
    type: null
    address: Hochschulstr. 10 D-64289 Darmstadt
-   latlong: 8.654308,49.877643,0.0
+   long: 8.654308
+   lat: 49.877643
    link: http://www.sim.informatik.tu-darmstadt.de
  - name: TU Warsaw
    type: school
-   latlong: 21.011739,52.218887,0.0
+   long: 21.011739
+   lat: 52.218887
  - name: "Technische Universit\xE4t M\xFCnchen"
    type: school
-   latlong: 11.568197,48.14978,0.0
+   long: 11.568197
+   lat: 48.14978
  - name: "Technische Universit\xE4t M\xFCnchen"
    type: school
-   latlong: 11.535645,48.136767,0.0
+   long: 11.535645
+   lat: 48.136767
  - name: "Technische Universit\xE4t Wien"
    type: school
-   latlong: 16.368586,48.198716,0.0
+   long: 16.368586
+   lat: 48.198716
  - name: Tecnalia
    type: null
-   latlong: -1.977539,43.277205,0.0
+   long: -1.977539
+   lat: 43.277205
  - name: The Shadow Robot Company
    type: company
-   latlong: -0.043945,51.522416,0.0
+   long: -0.043945
+   lat: 51.522416
  - name: Universidad de Zaragoza
    type: school
    description: Robotics, Perception and Real Time Group.
-   latlong: -0.888509,41.683618,0.0
+   long: -0.888509
+   lat: 41.683618
  - name: Universidade de Aveiro
    type: school
-   latlong: -8.635254,40.580585,0.0
+   long: -8.635254
+   lat: 40.580585
  - name: University of Birmingham
    type: school
-   latlong: -1.935836,52.450151,0.0
+   long: -1.935836
+   lat: 52.450151
  - name: University of Bremen
    type: school
-   latlong: 8.920898,53.094024,0.0
+   long: 8.920898
+   lat: 53.094024
  - name: University of Coimbra
    type: school
-   latlong: -3.427734,40.145289,0.0
+   long: -3.427734
+   lat: 40.145289
  - name: University of Edinburgh
    type: school
    address: Crichton Street, Edinburgh, EH8 9AB
    description: Institute of Perception, Action and Behaviour, School of Informatics
-   latlong: -3.187108,55.94473,0.0
+   long: -3.187108
+   lat: 55.94473
  - name: "University of Osnabr\xFCck"
    type: school
    description: Knowledge-Based Systems group |
-   latlong: 8.02525,52.283712,0.0
+   long: 8.02525
+   lat: 52.283712
    link: http://www.inf.uni-osnabrueck.de/kbs/ http://www.ros.org/wiki/uos-ros-pkg
  - name: "University of T\xFCbingen"
    type: school
-   latlong: 9.058651,48.525059,0.0
+   long: 9.058651
+   lat: 48.525059
  - name: University of Ulster
    type: school
-   latlong: -5.95459,54.584797,0.0
+   long: -5.95459
+   lat: 54.584797
  - name: University of Zagreb
    type: school
-   latlong: 15.970126,45.810212,0.0
+   long: 15.970126
+   lat: 45.810212
  - name: 'Van: Drie Eikenstraat'
    type: null
-   latlong: 4.442961,51.156583,0.0
+   long: 4.442961
+   lat: 51.156583
 

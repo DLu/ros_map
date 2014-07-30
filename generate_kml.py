@@ -57,8 +57,9 @@ def create_folder(name, data):
         
         point = dom.createElement('Point')
         p.appendChild(point)
-        if 'latlong' in place:
-            point.appendChild( text_element('coordinates', place['latlong']))
+        if 'lat' in place:
+            coordinates = '%f,%f,0.0'%( place['long'], place['lat'])
+            point.appendChild( text_element('coordinates', coordinates))
 
         f.appendChild(p)
     

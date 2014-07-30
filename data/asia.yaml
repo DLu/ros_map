@@ -1,56 +1,70 @@
  - name: Beijing Jiaotong University
    type: school
    address: No.3 Shang Yuan Cun,Hai Dian District Beijing,China Post-Code 100044
-   latlong: 116.191406,39.97712,0.0
+   long: 116.191406
+   lat: 39.97712
  - name: Cogniteam
    type: null
    address: Shoam 7 Petah Tikva, Israel
-   latlong: 34.858295,32.090508,0.0
+   long: 34.858295
+   lat: 32.090508
    link: https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=32.090508,34.858295&thumb=0
  - name: Intelligent Systems Group, AIST
    type: null
-   latlong: 140.135379,36.061416,0.0
+   long: 140.135379
+   lat: 36.061416
  - name: JSK Lab at U-Tokyo
    type: school
-   latlong: 139.764462,35.712232,0.0
+   long: 139.764462
+   lat: 35.712232
  - name: Kawada Robotics Co.
    type: company
-   latlong: 139.776778,35.691949,0.0
+   long: 139.776778
+   lat: 35.691949
    link: www.kawadarobot.co.jp
  - name: Kyushu University
    type: school
-   latlong: 130.424753,33.626523,0.0
+   long: 130.424753
+   lat: 33.626523
  - name: Middle East Technical University
    type: school
    address: Kovan Research Lab, Computer Engineering Dept, METU Ankara, Turkey
-   latlong: 32.777774,39.894485,0.0
+   long: 32.777774
+   lat: 39.894485
    link: http://kovan.ceng.metu.edu.tr
  - name: Monash University Malaysia
    type: school
    address: 46150 Subang Jaya, Selangor, Malaysia
-   latlong: 101.600758,3.064246,0.0
+   long: 101.600758
+   lat: 3.064246
  - name: OTL
    type: null
-   latlong: 136.757813,35.029996,0.0
+   long: 136.757813
+   lat: 35.029996
  - name: Okuno lab, Kyoto U. (HARK)
    type: school
-   latlong: 135.78067299999998,35.026974,0.0
+   long: 135.78067299999998
+   lat: 35.026974
    link: http://winnie.kuis.kyoto-u.ac.jp/index-e.html
  - name: Taylor Veltrop
    type: null
    address: Japan
-   latlong: 141.679688,35.532226,0.0
+   long: 141.679688
+   lat: 35.532226
    link: http://cbk0.google.com/cbk?output=thumbnail&w=90&h=68&ll=35.741974,139.783696&thumb=0
  - name: Tokyo Opensource Robotics Kyokai Association
    type: null
    address: Bunkyo Ward, Japan
-   latlong: 139.768453,35.706447,0.0
+   long: 139.768453
+   lat: 35.706447
    link: http://opensource-robotics.tokyo.jp/
  - name: Yamazaki Lab, Shinshu U.
    type: school
-   latlong: 138.188245,36.629873,0.0
+   long: 138.188245
+   lat: 36.629873
  - name: Yujin Robot
    type: company
    address: '#601, Namsung-Plaza, 345-30 Gasan-dong, Guemcheon-gu, Seoul, Korea, 153-023.'
-   latlong: 126.874495,37.488548,0.0
+   long: 126.874495
+   lat: 37.488548
 

@@ -1,7 +1,9 @@
  - name: CSIRO
    type: null
-   latlong: 152.910363,-27.529281,0.0
+   long: 152.910363
+   lat: -27.529281
  - name: CSIRO, Hobart
    type: null
-   latlong: 147.338086,-42.886794,0.0
+   long: 147.338086
+   lat: -42.886794
 
