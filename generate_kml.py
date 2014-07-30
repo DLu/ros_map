@@ -3,10 +3,14 @@
 from xml.dom.minidom import parse, Document
 from yaml import load
 from os.path import split, splitext
-import sys
+import sys, urllib2
 dom = Document()
 
 STYLES = {'school': '44AF62', 'company': 'F08641', 'other': '5EDDFF', None: 'FFFFFF'}
+
+REGIONS = ['america', 'asia', 'australia', 'europe']
+PATTERN = 'https://raw.githubusercontent.com/DLu/ros_map/master/data/%s.yaml'
+
 
 def text_element(name, text, cdata=False):
     if text is None:
@@ -79,14 +83,22 @@ document = dom.createElement("Document")
 root.appendChild(document)
 document.appendChild( text_element('name', 'ROS Users of the World') )
 document.appendChild( text_element('description', 'ROS Users of the World', True) )
-for arg in sys.argv[1:]:
-    key = splitext( split(arg)[-1] )[0].capitalize()
-    document.appendChild( create_folder('ROS Users (%s)'%key, load(open(arg))) )
+
+for region in REGIONS:
+    key = region.capitalize()
+    url = PATTERN % region
+    stream = urllib2.urlopen(url)
+    document.appendChild( create_folder('ROS Users (%s)'%key, load(stream)) )
 
 for style, color in STYLES.iteritems():
     document.appendChild( create_style(style, color) )
 
-print "Content-type: text/xml"
-print 
-print dom.toprettyxml()
+if len(sys.argv)>1:
+    f = open(sys.argv[1], 'w')
+    f.write(dom.toprettyxml())
+    f.close()
+else:
+    print "Content-type: text/xml"
+    print 
+    print dom.toprettyxml() 
 
