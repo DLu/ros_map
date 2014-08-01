@@ -11,4 +11,4 @@ You may also add:
  * description
  * address
 
-
+One possible source for lat/long information is here: http://itouchmap.com/latlong.html
