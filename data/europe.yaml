@@ -177,6 +177,12 @@
    long: 8.02525
    lat: 52.283712
    link: http://www.inf.uni-osnabrueck.de/kbs/ http://www.ros.org/wiki/uos-ros-pkg
+ - name: University of Padova
+   type: school
+   address: via Gradenigo 6/B, Padova, Italy
+   description: Intelligent Autonomous Systems Laboratory (IAS-Lab), Department of Information Engineering (DEI)
+   long: 11.896183
+   lat: 45.406561
  - name: "University of T\xFCbingen"
    type: school
    long: 9.058651
