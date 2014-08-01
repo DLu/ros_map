@@ -74,8 +74,8 @@
  - name: Johns Hopkins University
    type: school
    description: Laboratory for Computational Sensing and Robotics
-   long: -77.34375
-   lat: 39.639538
+   long: -76.620939
+   lat: 39.326815
    link: http://www.lcsr.jhu.edu
  - name: Kavraki Lab, Rice University
    type: school
