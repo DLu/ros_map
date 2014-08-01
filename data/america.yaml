@@ -114,6 +114,7 @@
    type: school
    long: -123.275528
    lat: 44.567365
+   link: http://robotics.oregonstate.edu
  - name: RobotAppStore
    type: company
    address: 50 California St. Suite 1500 15th Floor San Francisco, CA USA, 94111
