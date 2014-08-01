@@ -49,8 +49,8 @@
  - name: Prince Sultan University
    type: school
    address: 'Prince Sultan University, Rafhaa Street, Riyadh, Saudi Arabia'
-   long: 24.736410
-   lat: 46.701111
+   long: 46.701111
+   lat: 24.736410
  - name: Taylor Veltrop
    type: null
    address: Japan
