@@ -115,6 +115,12 @@
    long: -123.275528
    lat: 44.567365
    link: http://robotics.oregonstate.edu
+ - name: Rethink Robotics
+   type: company
+   address: 27 Wormwood St, Boston, MA, USA 02210
+   long: -71.049622
+   lat: 42.346910
+   link: http://www.rethinkrobotics.com
  - name: RobotAppStore
    type: company
    address: 50 California St. Suite 1500 15th Floor San Francisco, CA USA, 94111
