@@ -187,6 +187,9 @@
    type: school
    long: 9.058651
    lat: 48.525059
+   link: http://www.cogsys.cs.uni-tuebingen.de/
+   description: Department of Cognitive Systems
+   adress: Sand 1, 72076 T\xFCbingen, Germany
  - name: University of Ulster
    type: school
    long: -5.95459
