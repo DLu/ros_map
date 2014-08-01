@@ -46,6 +46,11 @@
    long: 135.78067299999998
    lat: 35.026974
    link: http://winnie.kuis.kyoto-u.ac.jp/index-e.html
+ - name: Prince Sultan University
+   type: school
+   address: 'Prince Sultan University, Rafhaa Street, Riyadh, Saudi Arabia'
+   long: 24.736410
+   lat: 46.701111
  - name: Taylor Veltrop
    type: null
    address: Japan
@@ -67,8 +72,3 @@
    address: '#601, Namsung-Plaza, 345-30 Gasan-dong, Guemcheon-gu, Seoul, Korea, 153-023.'
    long: 126.874495
    lat: 37.488548
-- name: Prince Sultan University
-   type: school
-   address: 'Prince Sultan University, Rafhaa Street, Riyadh, Saudi Arabia'
-   long: 24.736410
-   lat: 46.701111
