@@ -70,6 +70,11 @@
    type: null
    long: -0.886867
    lat: 41.681891
+ - name: Karlsruhe Institute of Technology
+   type: school
+   long: 49.015139
+   lat: 8.415962
+   link: http://rob.ipr.kit.edu
  - name: KULeuven Universiteit
    type: school
    long: 4.682986
