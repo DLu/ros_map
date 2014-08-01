@@ -182,6 +182,13 @@
    type: school
    long: -118.285128
    lat: 34.022329
+ - name: Universidade Federal do Rio Grande do Sul - Grupo de Controle, Automacao e Robotica
+   type: school
+   lat: -30.032393
+   long: -51.220724
+   link: http://www.ece.ufrgs.br
+   address: Av. Osvaldo Aranha, 103 - Porto Alegre, RS 90035-190, Brazil
+   description: Federal University of Rio Grande do Sul - Control, Automation and Robotics Group
  - name: University At Albany
    type: school
    description: Social Robotics Lab at ILS
