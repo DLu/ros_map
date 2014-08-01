@@ -11,4 +11,6 @@ You may also add:
  * description
  * address
 
-One possible source for lat/long information is here: http://itouchmap.com/latlong.html
+Possible sources for lat/long information are: 
+ * http://itouchmap.com/latlong.html (enter your location manually)
+ * http://locationdetection.mobi/ (use your browser's location)
