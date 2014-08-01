@@ -108,8 +108,8 @@
  - name: Open Source Robotics Foundation
    type: company
    address: 419 N. Shoreline Blvd, Mountain View, CA 94043
-   long: -122.079992
-   lat: 37.399449
+   long: -122.0797833
+   lat: 37.4003593
  - name: Oregon State University
    type: school
    long: -123.275528
