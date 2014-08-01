@@ -2,6 +2,12 @@
    type: company
    long: -71.146265
    lat: 42.508202
+ - name: Arizona State University (Tempe)
+   lat: 33.4172
+   long: -111.9365
+   type: school
+   link: http://faculty.engineering.asu.edu/acs/
+   description: Autonomous Collective Systems Lab
  - name: Auburn University
    type: school
    address: Auburn, AL
