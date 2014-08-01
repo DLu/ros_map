@@ -260,6 +260,13 @@
    address: 68 Willow Rd, Menlo Park, CA 94025
    long: -122.166359
    lat: 37.452291
+ - name: Wunderkammer Laboratory
+   type: company
+   description: Technology research and development company
+   address: "6433 Topanga Canyon Blvd., #543, Canoga Park, CA 91303"
+   link: http://www.wunderkammerlab.com
+   long: -118.606231
+   lat: 34.187783
  - name: iheartengineering
    type: company
    long: -74.008192
