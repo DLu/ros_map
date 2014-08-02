@@ -119,6 +119,11 @@
    type: null
    long: 4.7102106
    lat: 50.8648806
+ - name: Technical University of Delft
+   type: school
+   long: 4.375587
+   lat: 51.998793
+   link: http://robotics.tudelft.nl
  - name: TU Darmstadt - FG SIM
    type: null
    address: Hochschulstr. 10 D-64289 Darmstadt
