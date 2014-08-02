@@ -83,6 +83,13 @@
    type: null
    long: -2.991357
    lat: 53.069631
+ - name: Obuda University
+   type: school
+   description: TekiProject (Turtlebot2), Antal Bejczy Center For Intelligent Robotics (Nao)
+   address: Budapest, Bécsi út 96/B, Hungary
+   long: 19.034586
+   lat: 47.533891
+   link: http://teki.nik.uni-obuda.hu/ , http://irob.uni-obuda.hu/?q=en
  - name: OFFIS Institute for Information Technology
    type: null
    address: Medical Devices Group, Escherweg 2, 26121 Oldenburg, Germany
