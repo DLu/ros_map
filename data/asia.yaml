@@ -72,3 +72,9 @@
    address: '#601, Namsung-Plaza, 345-30 Gasan-dong, Guemcheon-gu, Seoul, Korea, 153-023.'
    long: 126.874495
    lat: 37.488548
+ - name: Sastra Robotics
+   type: company
+   address: India Telecom Innovation Hub, Cochin
+   long: 76.354594
+   lat: 10.055696
+   link: http://sastrarobotics.com/
