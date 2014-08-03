@@ -206,6 +206,12 @@
    description: Intelligent Autonomous Systems Laboratory (IAS-Lab), Department of Information Engineering (DEI)
    long: 11.896183
    lat: 45.406561
+ - name: University of the Balearic Islands
+   type: school
+   description: Escola Politècnica Superior, Universitat de les Illes Balears
+   long: 2.644315
+   lat: 39.636662
+   link: http://uib.cat
  - name: "University of T\xFCbingen"
    type: school
    long: 9.058651
