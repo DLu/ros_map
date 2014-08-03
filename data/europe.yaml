@@ -11,6 +11,12 @@
    type: school
    long: 7.848102
    lat: 47.998778
+ - name: Bonn-Rhein-Sieg University of Applied Sciences
+   type: school
+   address: Grantham-Allee 20, 53757 Sankt Augustin, Germany
+   long: 7.182671
+   lat: 50.779760
+   link: http://www.inf.fh-bonn-rhein-sieg.de/informatik/en/MAS.html
  - name: Care-O-Bot
    type: null
    long: 9.151611
