@@ -27,10 +27,10 @@
    long: 5.489841
    lat: 51.447744
  - name: Fraunhofer FKIE
-   type: null
+   type: other
    address: "Neuenahrer Stra\xDFe 20, 53343 Wachtberg"
-   long: 5.097656
-   lat: 39.639538
+   long: 7.131294
+   lat: 50.617518
  - name: Fraunhofer IPA
    type: null
    address: Nobelstr. 12, 70569 Stuttgart, Germany
