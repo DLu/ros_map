@@ -287,4 +287,10 @@
    long: -76.533852
    link: www.univalle.edu.co, eiee.univalle.edu.co
    address: "Calle 13 # 100-00"
+ - name: Universidade Federal do Rio Grande
+   description: Grupo de Automação e Robótica Inteligente
+   type: school
+   lat: -32.070143
+   long: -52.165715
+   link: www.furg.br
   
