@@ -52,7 +52,7 @@ def create_folder(name, data):
 
         if 'description' in place:
             d = dom.createElement('description')
-            d.appendChild( dom.createCDATASection(place['description']) )
+            d.appendChild( dom.createCDATASection(place['description'].encode('utf-8')) )
             p.appendChild(d)
         
         point = dom.createElement('Point')
@@ -85,17 +85,24 @@ root.appendChild(document)
 document.appendChild( text_element('name', 'ROS Users of the World') )
 document.appendChild( text_element('description', 'ROS Users of the World', True) )
 
-for region in REGIONS:
-    key = region.capitalize()
-    url = PATTERN % region
-    stream = urllib2.urlopen(url)
-    document.appendChild( create_folder('ROS Users (%s)'%key, load(stream)) )
+files = [arg for arg in sys.argv[1:] if 'yaml' in arg]
+kml = [arg for arg in sys.argv[1:] if 'kml' in arg]
+
+if len(files)==0:
+    for region in REGIONS:
+        key = region.capitalize()
+        url = PATTERN % region
+        stream = urllib2.urlopen(url)
+        document.appendChild( create_folder('ROS Users (%s)'%key, load(stream)) )
+else:
+    for fn in files:
+        document.appendChild( create_folder(fn, load(open(fn))))
 
 for style, color in STYLES.iteritems():
     document.appendChild( create_style(style, color) )
 
-if len(sys.argv)>1:
-    f = open(sys.argv[1], 'w')
+if len(kml)>0:
+    f = open(kml[0], 'w')
     f.write(dom.toprettyxml())
     f.close()
 else:
