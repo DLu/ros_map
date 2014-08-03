@@ -3,10 +3,6 @@
    description: TUAS building (Automation Systems)
    long: 24.819531
    lat: 60.187009
- - name: "Aan: Broekstraat 328, Leuven, Belgi\xEB"
-   type: null
-   long: 4.943848
-   lat: 50.645977
  - name: "Albert-Ludwigs-Universit\xE4t Freiburg"
    type: school
    long: 7.848102
@@ -48,7 +44,6 @@
    type: null
    long: -2.460937
    lat: 43.149094
-
  - name: Heriot-Watt University
    type: school
    long: -3.328857
@@ -128,10 +123,6 @@
    address: Templergraben 55, 52062 Aachen, Germany
    long: 6.077302
    lat: 50.778944
- - name: "Routebeschrijving voor fietsen naar Broekstraat 328, Leuven, Belgi\xEB"
-   type: null
-   long: 4.7102106
-   lat: 50.8648806
  - name: Technical University of Delft
    type: school
    long: 4.375587
@@ -227,8 +218,3 @@
    type: school
    long: 15.970126
    lat: 45.810212
- - name: 'Van: Drie Eikenstraat'
-   type: null
-   long: 4.442961
-   lat: 51.156583
-
