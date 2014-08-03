@@ -63,6 +63,10 @@
    type: school
    long: -84.418945
    lat: 33.72434
+ - name: HERE Reality Capture and Processing
+   type: company
+   lat: 37.869
+   long: -122.268
  - name: Intel Labs Seattle
    type: company
    long: -122.316287
