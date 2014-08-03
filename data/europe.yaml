@@ -14,7 +14,7 @@
    lat: 50.779760
    link: http://www.inf.fh-bonn-rhein-sieg.de/informatik/en/MAS.html
  - name: Care-O-Bot
-   type: null
+   type: other
    long: 9.151611
    lat: 48.748945
    link: http://cbk0.google.com/cbk?output=thumbnail&w=90&h=68&ll=48.755934,9.191480&thumb=0
@@ -27,21 +27,21 @@
    long: 5.489841
    lat: 51.447744
  - name: Fraunhofer FKIE
-   type: null
+   type: other
    address: "Neuenahrer Stra\xDFe 20, 53343 Wachtberg"
    long: 5.097656
    lat: 39.639538
  - name: Fraunhofer IPA
-   type: null
+   type: other
    address: Nobelstr. 12, 70569 Stuttgart, Germany
    long: 8.569336
    lat: 48.654686
  - name: Fundacion Tekniker
-   type: null
+   type: other
    long: -1.746826
    lat: 43.036776
  - name: Fundacion Tekniker
-   type: null
+   type: other
    long: -2.460937
    lat: 43.149094
  - name: Heriot-Watt University
@@ -49,26 +49,26 @@
    long: -3.328857
    lat: 55.899956
  - name: INRIA
-   type: null
+   type: other
    long: 5.806614
    lat: 45.217673
  - name: INRIA
-   type: null
+   type: other
    long: 10.107422
    lat: 54.316523
  - name: IRI - UPC / CSIC
-   type: null
+   type: school
    address: Carrer de Llorens i Artigas, 408028 Barcelona, Spain
    long: 2.06543
    lat: 41.376809
    link: www.iri.upc.edu
  - name: "Institut des Syst\xE8mes Intelligents et de Robotique"
-   type: null
+   type: school
    address: 4, place Jussieu, 75005 Paris
    long: 2.356725
    lat: 48.845669
  - name: Instituto Tecnologico de Aragon
-   type: null
+   type: school
    long: -0.886867
    lat: 41.681891
  - name: Karlsruhe Institute of Technology
@@ -81,7 +81,7 @@
    long: 4.682986
    lat: 50.865121
  - name: Merlin Systems Ltd
-   type: null
+   type: company
    long: -2.991357
    lat: 53.069631
  - name: Obuda University
@@ -92,18 +92,18 @@
    lat: 47.533891
    link: http://teki.nik.uni-obuda.hu/ , http://irob.uni-obuda.hu/?q=en
  - name: OFFIS Institute for Information Technology
-   type: null
+   type: other
    address: Medical Devices Group, Escherweg 2, 26121 Oldenburg, Germany
    long: 8.199985
    lat: 53.148739
    link: http://www.offis.de
  - name: OpenRobotino
-   type: null
+   type: other
    address: "85748 Garching bei M\xFCnchen, Germany"
    long: 11.645508
    lat: 48.261256
  - name: Ottiolu OT
-   type: null
+   type: other
    description: Italy
    long: 9.707941
    lat: 40.737367
@@ -119,7 +119,7 @@
    lat: 56.559482
    link: http://www.ros.org/wiki/rtc-us-ros-pkg
  - name: "Rheinisch-Westf\xE4lische Technische Hochschule Aachen"
-   type: null
+   type: school
    address: Templergraben 55, 52062 Aachen, Germany
    long: 6.077302
    lat: 50.778944
@@ -129,7 +129,7 @@
    lat: 51.998793
    link: http://robotics.tudelft.nl
  - name: TU Darmstadt - FG SIM
-   type: null
+   type: school
    address: Hochschulstr. 10 D-64289 Darmstadt
    long: 8.654308
    lat: 49.877643
@@ -151,7 +151,7 @@
    long: 16.368586
    lat: 48.198716
  - name: Tecnalia
-   type: null
+   type: other
    long: -1.977539
    lat: 43.277205
  - name: The Shadow Robot Company
