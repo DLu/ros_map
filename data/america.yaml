@@ -17,8 +17,8 @@
  - name: Bill Mania
    type: other
    description: ROS hobbyist
-   long: -87.670691
-   lat: 42.0136
+   long: -122.318
+   lat: 37.942
  - name: Bosch Research
    type: company
    address: Palo Alto, CA
