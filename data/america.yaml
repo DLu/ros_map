@@ -276,11 +276,11 @@
    address: "1100, rue Notre-Dame Ouest (angle Peel) Montr\xE9al (Qu\xE9bec) H3C 1K3"
    long: -73.562855
    lat: 45.494984
-- name: Universidad del Valle
-  description: School of Electric and Electronics Engineering
-  type: School
-  lat: 3.374412
-  long: -76.533852
-  link: www.univalle.edu.co, eiee.univalle.edu.co
-  address: "Calle 13 # 100-00"
+ - name: Universidad del Valle
+   description: School of Electric and Electronics Engineering
+   type: school
+   lat: 3.374412
+   long: -76.533852
+   link: www.univalle.edu.co, eiee.univalle.edu.co
+   address: "Calle 13 # 100-00"
   
