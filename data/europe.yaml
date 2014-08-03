@@ -29,8 +29,8 @@
  - name: Fraunhofer FKIE
    type: null
    address: "Neuenahrer Stra\xDFe 20, 53343 Wachtberg"
-   long: 5.097656
-   lat: 39.639538
+   long: 7.130650
+   lat: 50.617713
  - name: Fraunhofer IPA
    type: null
    address: Nobelstr. 12, 70569 Stuttgart, Germany
@@ -52,10 +52,6 @@
    type: null
    long: 5.806614
    lat: 45.217673
- - name: INRIA
-   type: null
-   long: 10.107422
-   lat: 54.316523
  - name: IRI - UPC / CSIC
    type: null
    address: Carrer de Llorens i Artigas, 408028 Barcelona, Spain
@@ -73,8 +69,8 @@
    lat: 41.681891
  - name: Karlsruhe Institute of Technology
    type: school
-   long: 49.015139
-   lat: 8.415962
+   long: 8.417019
+   lat: 49.012142
    link: http://rob.ipr.kit.edu
  - name: KULeuven Universiteit
    type: school
@@ -115,8 +111,8 @@
  - name: RTC Group - University of Seville
    type: school
    description: Robotics and Computer and Architecture Group. Open to collaboration and research!
-   long: 36.210938
-   lat: 56.559482
+   long: -5.991210
+   lat: 37.381009
    link: http://www.ros.org/wiki/rtc-us-ros-pkg
  - name: "Rheinisch-Westf\xE4lische Technische Hochschule Aachen"
    type: null
