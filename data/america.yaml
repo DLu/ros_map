@@ -19,6 +19,12 @@
    description: ROS hobbyist
    long: -122.318
    lat: 37.942
+ - name: Blue River Technology
+   type: company
+   address: 355 E Middlefield Rd, Mountain View, CA 94043
+   long: -122.057959
+   lat: 37.396670
+   link: http://www.bluerivert.com/
  - name: Bosch Research
    type: company
    address: Palo Alto, CA
