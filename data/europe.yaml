@@ -218,3 +218,9 @@
    type: school
    long: 15.970126
    lat: 45.810212
+ - name: IXION, Smart Automation
+   type: company
+   address: Julian Camarillo 21B, 28037 Madrid, Spain
+   long: -3.6306218
+   lat: 40.4342401
+   link: http://www.ixion.es
