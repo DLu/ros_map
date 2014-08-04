@@ -48,6 +48,12 @@
    type: school
    long: -3.328857
    lat: 55.899956
+ - name: Hochschule Ravensburg-Weingarten
+   type: school
+   address: "Doggenriedstra\xDFe 38, D-88250 Weingarten"
+   long: 9.650772
+   lat: 47.812744
+   link: http://iki.hs-weingarten.de
  - name: INRIA
    type: null
    long: 5.806614
