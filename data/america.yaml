@@ -41,6 +41,12 @@
    long: -42.890625
    lat: -21.943046
    link: www.fei.edu.br
+ - name: Charles River Analytics
+   type: company
+   address: Cambridge, MA
+   long: -71.146505
+   lat: 42.375299
+   link: www.cra.com
  - name: Clearpath Robotics
    type: company
    address: Waterloo, ON N2L, Canada
