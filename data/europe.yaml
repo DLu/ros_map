@@ -27,7 +27,7 @@
    long: 5.489841
    lat: 51.447744
  - name: Fraunhofer FKIE
-   type: other
+   type: research institute
    address: "Neuenahrer Stra\xDFe 20, 53343 Wachtberg"
    long: 7.130650
    lat: 50.617713
@@ -65,7 +65,7 @@
    long: 5.806614
    lat: 45.217673
  - name: Institut de Robotica i Informatica Industrial IRI (CSIC-UPC)"
-   type: research center
+   type: research institute
    description: Joint Research Center of the Universitat Politecnica de Catalunya and the Consejo Superior de Investigaciones Cientificas.
    address: Carrer de Llorens i Artigas 4,08028 Barcelona, Catalunya, Spain
    long: 2.115509
