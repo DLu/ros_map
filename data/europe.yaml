@@ -48,6 +48,8 @@
    type: school
    desription: Robotics and Autonomous Systems Group
    link: http://www.sc.ehu.es/ccwrobot
+   long: -2.970224 
+   lat: 43.331722
  - name: Heriot-Watt University
    type: school
    long: -3.328857
