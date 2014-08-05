@@ -305,4 +305,9 @@
    lat: -32.070143
    long: -52.165715
    link: www.furg.br
-  
+ - name: Universidad del Valle de Mexico Campus Guadalajara Sur
+   description: School of Mechatronics Engineering
+   type: school
+   lat: 20.607841
+   long: -103.409135
+   link: http://www.uvmmexico.mx/campus/campus-guadalajara-sur/
