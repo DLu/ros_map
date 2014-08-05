@@ -44,6 +44,10 @@
    type: null
    long: -2.460937
    lat: 43.149094
+ - name: University of Basque Country
+   type: school
+   desription: Robotics and Autonomous Systems Group
+   link: http://www.sc.ehu.es/ccwrobot
  - name: Heriot-Watt University
    type: school
    long: -3.328857
