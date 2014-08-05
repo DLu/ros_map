@@ -6,7 +6,7 @@ from os.path import split, splitext
 import sys, urllib2
 dom = Document()
 
-STYLES = {'school': '44AF62', 'company': 'F08641', 'other': '5EDDFF', None: 'FFFFFF'}
+STYLES = {'school': '44AF62', 'company': 'F08641', 'other': '5EDDFF', None: 'FFFFFF', 'research institute': '3644DB'}
 
 REGIONS = ['america', 'asia', 'australia', 'europe']
 PATTERN = 'https://raw.githubusercontent.com/DLu/ros_map/master/data/%s.yaml'
@@ -34,7 +34,7 @@ def create_folder(name, data):
     for place in data:
         p = dom.createElement('Placemark')
         tipo = place.get('type', None)
-        if tipo == 'null':
+        if tipo == 'null' or tipo not in STYLES:
             tipo = None
 
         p.appendChild( text_element('styleUrl', '#%s'%str(tipo)))
