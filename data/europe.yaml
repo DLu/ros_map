@@ -79,6 +79,13 @@
    long: 8.417019
    lat: 49.012142
    link: http://rob.ipr.kit.edu
+ - name: KTH Royal Institute of Technology
+   type: school
+   description: Computer Vision and Active Perception Laboratory at KTH, Stockholm, Sweden
+   long: 18.0752322
+   lat: 59.3463036
+   link: http://wiki.ros.org/kth-ros-pkg
+   address: Teknikringen 14, 114 28 Stockholm, Sweden 
  - name: KULeuven Universiteit
    type: school
    long: 4.682986
