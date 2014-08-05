@@ -58,11 +58,12 @@
    type: null
    long: 5.806614
    lat: 45.217673
- - name: IRI - UPC / CSIC
-   type: null
-   address: Carrer de Llorens i Artigas, 408028 Barcelona, Spain
-   long: 2.06543
-   lat: 41.376809
+ - name: Institut de Robotica i Informatica Industrial IRI (CSIC-UPC)"
+   type: other
+   description: Joint Research Center of the Universitat Politecnica de Catalunya and the Consejo Superior de Investigaciones Cientificas.
+   address: Carrer de Llorens i Artigas 4,08028 Barcelona, Catalunya, Spain
+   long: 2.115509
+   lat: 41.382864
    link: www.iri.upc.edu
  - name: "Institut des Syst\xE8mes Intelligents et de Robotique"
    type: null
@@ -112,8 +113,10 @@
    link: https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=40.737367,9.707941&thumb=0
  - name: PAL Robotics
    type: company
-   long: 2.160187
-   lat: 41.393294
+   address: Carrer Pujades 77-79, 08005 Barcelona, Spain
+   long: 2.194252
+   lat: 41.39694
+   link: http://pal-robotics.com
  - name: RTC Group - University of Seville
    type: school
    description: Robotics and Computer and Architecture Group. Open to collaboration and research!
