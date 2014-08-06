@@ -242,3 +242,9 @@
    long: -3.6306218
    lat: 40.4342401
    link: http://www.ixion.es
+ - name: ICube
+   type: research institute
+   address: 300 bd Sébastien Brant,CS 10413, 67412 Illkirch Cedex, France
+   long: 7.737743
+   lat: 48.525812
+   link: https://icube.unistra.fr/
