@@ -13,11 +13,16 @@
    long: 7.182671
    lat: 50.779760
    link: http://www.inf.fh-bonn-rhein-sieg.de/informatik/en/MAS.html
- - name: Care-O-Bot
+ - name: Fraunhofer IPA
    type: research institute
-   long: 9.151611
-   lat: 48.748945
-   link: http://cbk0.google.com/cbk?output=thumbnail&w=90&h=68&ll=48.755934,9.191480&thumb=0
+   long: 9.0979681
+   lat: 48.741341
+   link: http://care-o-bot.org
+ - name: Care-O-bot
+   type: research institute
+   long: 9.0979681
+   lat: 48.741341
+   link: http://care-o-bot.org
  - name: ETH Zurich
    type: school
    long: 8.548222
