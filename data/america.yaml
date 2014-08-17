@@ -287,6 +287,12 @@
    type: company
    long: -74.008192
    lat: 40.6574837
+ - name: "Universit\xE9 de Sherbrooke"
+   type: school
+   description: IntRoLab Laboratory
+   link: https://introlab.3it.usherbrooke.ca/
+   long: -71.942479
+   lat: 45.378602   
  - name: "\xC9cole de technologie sup\xE9rieure"
    type: school
    address: "1100, rue Notre-Dame Ouest (angle Peel) Montr\xE9al (Qu\xE9bec) H3C 1K3"
