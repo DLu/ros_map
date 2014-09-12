@@ -180,6 +180,11 @@
    type: company
    long: -122.049415
    lat: 37.38905
+- name: Toyota Partner Robot Group (TEMA)
+   type: company
+   long: -121.920166
+   lat: 37.384419
+   Link: http://www.toyota-global.com/innovation/partner_robot/family_2.html
  - name: Trossen Robotics Community
    type: null
    description: TRC ROS Forums!
