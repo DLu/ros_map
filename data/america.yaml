@@ -154,6 +154,7 @@
    lat: 37.3744017
    long: -121.9954814
    address: 2900 Gordon Ave, Santa Clara, CA 95051
+   link: http://www.savioke.com/
  - name: SUNY New Paltz Robotics Club
    type: null
    long: -74.082098
