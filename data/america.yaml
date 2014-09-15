@@ -62,6 +62,12 @@
    type: school
    long: -73.962573
    lat: 40.807536
+ - name: Dataspeed Inc.
+   type: company
+   address: 5800 Crooks Road, Troy, MI 48098
+   long: -83.167906
+   lat: 42.603594
+   link: http://dataspeedinc.com/
  - name: DPRG (Dallas Personal Robotics Group)
    type: other
    long: -96.887569
@@ -132,6 +138,12 @@
    address: 419 N. Shoreline Blvd, Mountain View, CA 94043
    long: -122.0797833
    lat: 37.4003593
+ - name: Oakland University
+   type: school
+   address: 2200 N. Squirrel Road, Rochester, Michigan 48309
+   long: -83.215092
+   lat: 42.671780
+   link: http://secs.oakland.edu/
  - name: Oregon State University
    type: school
    long: -123.275528
