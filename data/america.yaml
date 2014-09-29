@@ -92,8 +92,8 @@
  - name: Intelligrated
    type: company
    description: Alvey Robotics from Intelligrated. We provide integrated robotic material handling systems including system design, fabrication, installation, commissioning, and after-sales customer support.
-   long: -90.197899
-   lat: 38.6273
+   long: -90.368617
+   lat: 38.674264
  - name: James Ronald
    type: null
    description: TurtleBot / ROS
