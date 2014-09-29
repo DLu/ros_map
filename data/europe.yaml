@@ -65,6 +65,10 @@
    long: 9.650772
    lat: 47.812744
    link: http://iki.hs-weingarten.de
+ - name: incubed IT GmbH
+   type: company
+   long: 15.519580
+   lat: 47.045223
  - name: INRIA
    type: research institute
    long: 5.806614
