@@ -346,7 +346,7 @@
    lat: -25.290569
    long: -57.629539
    link: https://github.com/garyservin
-   name: Atom
+ - name: Atom
    description: ROS Junkie
    type: other
    lat: 38.628888
