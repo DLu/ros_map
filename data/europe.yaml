@@ -7,6 +7,12 @@
    type: school
    long: 7.848102
    lat: 47.998778
+ - name: Aristotle University of Thessaloniki
+   description: P.A.N.D.O.R.A. Robotics Team
+   type: school
+   long: 22.960775
+   lat: 40.627491
+   link: http://pandora.ee.auth.gr
  - name: Bonn-Rhein-Sieg University of Applied Sciences
    type: school
    address: Grantham-Allee 20, 53757 Sankt Augustin, Germany
