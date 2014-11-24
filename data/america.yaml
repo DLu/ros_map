@@ -55,9 +55,9 @@
    link: www.cra.com
  - name: Clearpath Robotics
    type: company
-   address: Waterloo, ON N2L, Canada
-   long: -80.529541
-   lat: 43.480838
+   address: 1425 Strasburg Rd. Suite 2A, Kitchener, ON N2R1H2
+   long: -80.4710473
+   lat: 43.4035229
  - name: Columbia University
    type: school
    long: -73.962573
