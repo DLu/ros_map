@@ -164,8 +164,8 @@
  - name: ROS Edmonton
    type: other
    address: 10359 104 St NW, Edmonton, AB T5J 1B9
-   long: 53.545782
-   lat: -113.498983
+   long: -113.498983   
+   lat: 53.545782
    link: http://rosedmonton.org   
  - name: Savioke
    type: company
@@ -248,8 +248,8 @@
    link: http://robotics.ils.albany.edu
  - name: University of Alberta
    type: school
-   long: 53.523200
-   lat: -113.526298   
+   long: -113.526298
+   lat: 53.523200
  - name: University Of British Columbia
    type: school
    long: -123.123962
