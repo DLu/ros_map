@@ -161,6 +161,12 @@
    long: -122.397369
    lat: 37.79406
    link: http://www.RobotAppStore.com
+ - name: ROS Edmonton
+   type: other
+   address: 10359 104 St NW, Edmonton, AB T5J 1B9
+   long: -113.498983   
+   lat: 53.545782
+   link: http://rosedmonton.org   
  - name: Savioke
    type: company
    lat: 37.3744017
@@ -240,6 +246,10 @@
    long: -73.822852
    lat: 42.686744
    link: http://robotics.ils.albany.edu
+ - name: University of Alberta
+   type: school
+   long: -113.526298
+   lat: 53.523200
  - name: University Of British Columbia
    type: school
    long: -123.123962
