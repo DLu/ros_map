@@ -331,7 +331,7 @@
    address: "1100, rue Notre-Dame Ouest (angle Peel) Montr\xE9al (Qu\xE9bec) H3C 1K3"
    long: -73.562855
    lat: 45.494984
-- name: "Laval University"
+ - name: "Laval University"
    type: school
    address: "2325 de l'Universite, Quebec, QC G1V 0A6"
    long: -71.275375
