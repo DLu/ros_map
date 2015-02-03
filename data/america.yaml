@@ -229,7 +229,7 @@
    long: -122.257748
    lat: 37.875045
    link: http://hybrid.eecs.berkeley.edu
-    - name: UC Davis
+ - name: UC Davis
    type: school
    description: Bio-Automation Lab
    long: -121.753083
