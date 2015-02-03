@@ -53,7 +53,6 @@ $(document).ready(function () {
     $("#text li").each(function(index) {
       colors.push($(this).find("span").css('color'));
     });
-    console.log(colors);
 
     // Convert the stats in counts
     var counts = [ stats.school, stats.company, stats['research institute'], stats.other + stats.null ];
