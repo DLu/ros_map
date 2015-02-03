@@ -191,6 +191,12 @@
    type: company
    long: -0.043945
    lat: 51.522416
+ - name: Universidad de Almeria
+   type: school
+   description: ARM research group
+   long: -2.407604
+   lat: 36.828998
+   link: https://github.com/ual-arm-ros-pkg
  - name: Universidad de Zaragoza
    type: school
    description: Robotics, Perception and Real Time Group.
