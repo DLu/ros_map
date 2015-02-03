@@ -1,3 +1,8 @@
+ - name: Adept MobileRobots 
+   type: company
+   lat: 42.806964
+   long: -71.579460
+   link: http://www.mobilerobots.com
  - name: Aptima Inc
    type: company
    long: -71.146265
