@@ -172,6 +172,12 @@
    long: -113.498983   
    lat: 53.545782
    link: http://rosedmonton.org   
+ - name: San Pablo Catholic University
+   type: school
+   lat: -16.4050676
+   long: -71.5398246
+   description: Laboratorio de Robotica y Vision Artificial (LARVIC)
+   link: http://ucsp.edu.pe/robotica/
  - name: Savioke
    type: company
    lat: 37.3744017
