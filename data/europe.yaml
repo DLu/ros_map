@@ -224,6 +224,13 @@
    description: Institute of Perception, Action and Behaviour, School of Informatics
    long: -3.187108
    lat: 55.94473
+ - name: University of Kassel
+   type: school
+   address: Wilhelmshöher Allee 73, 34121 Kassel, Germany
+   description: Distributed Systems Group, Electrical Engineering and Computer Science
+   link: http://www.vs.uni-kassel.de/ http://www.das-lab.net/
+   lat: 51.31131
+   long: 9.47338
  - name: "University of Osnabr\xFCck"
    type: school
    description: Knowledge-Based Systems group |
