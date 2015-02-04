@@ -206,6 +206,10 @@
    type: school
    long: -8.635254
    lat: 40.580585
+ - name: University of Antwerp
+   type: school
+   long: 4.413
+   lat: 51.2247
  - name: University of Birmingham
    type: school
    long: -1.935836
