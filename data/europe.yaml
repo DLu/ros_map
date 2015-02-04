@@ -19,6 +19,11 @@
    long: 7.182671
    lat: 50.779760
    link: http://www.inf.fh-bonn-rhein-sieg.de/informatik/en/MAS.html
+ - name: Danish Technological Institute
+   type: company
+   long: 10.413344
+   lat: 55.369208
+   link: http://dti.dk
  - name: Fraunhofer IPA
    type: research institute
    long: 9.0989681
