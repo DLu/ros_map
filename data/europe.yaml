@@ -276,3 +276,10 @@
    long: 7.737743
    lat: 48.525812
    link: https://icube.unistra.fr/
+ - name: Neurotechnology
+   type: company
+   description: Biometrics and robotics.
+   address: Savanorių pr. 125A, Vilnius, Lithuania
+   long: 25.236242
+   lat: 54.727483
+   link: http://neurotechnology.com
