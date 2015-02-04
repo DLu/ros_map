@@ -276,3 +276,10 @@
    long: 7.737743
    lat: 48.525812
    link: https://icube.unistra.fr/
+ - name: Officine Robotiche
+   type: Robotics Enthusiasts Association
+   address: Rome, Italy
+   long: 12.5359979
+   lat: 41.9100711
+   link: http://www.officinerobotiche.it/
+   
