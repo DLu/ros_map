@@ -26,6 +26,7 @@
    link: http://dti.dk
  - name: Fraunhofer IPA
    type: research institute
+   address: Nobelstr. 12, 70569 Stuttgart, Germany
    long: 9.0989681
    lat: 48.741341
    link: http://care-o-bot.org
@@ -51,11 +52,6 @@
    address: "Neuenahrer Stra\xDFe 20, 53343 Wachtberg"
    long: 7.130650
    lat: 50.617713
- - name: Fraunhofer IPA
-   type: research institute
-   address: Nobelstr. 12, 70569 Stuttgart, Germany
-   long: 8.569336
-   lat: 48.654686
  - name: Fundacion Tekniker
    type: research institute
    long: -1.746826
