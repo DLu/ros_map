@@ -42,6 +42,10 @@
    type: school
    long: 5.489841
    lat: 51.447744
+ - name: Robot Rose B.V.
+   type: company
+   long: 5.494894
+   lat: 51.449715
  - name: Fraunhofer FKIE
    type: research institute
    address: "Neuenahrer Stra\xDFe 20, 53343 Wachtberg"
