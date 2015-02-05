@@ -117,8 +117,8 @@
    long: -95.400124
    lat: 29.718303
  - name: Lunan Design Studio
-   lat 43.899025
-   long -79.248394
+   lat: 43.899025
+   long: -79.248394
    type: other
    description: Turtlebot/ROS/Linux and Arduino based Robotics
  - name: Massachusetts Institute of Technology
