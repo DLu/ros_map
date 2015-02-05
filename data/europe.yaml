@@ -258,6 +258,12 @@
    long: 2.644315
    lat: 39.636662
    link: http://uib.cat
+ - name: University of Southern Denmark
+   type: school
+   description: The Maersk Mc-Kinney Moller Institute perform intense research into robotics and work targeted at developing intelligent, autonomous systems that can solve socially-relevant issues.
+   long: 10.429182
+   lat: 55.366503
+   link: http://www.sdu.dk/Om_SDU/Institutter_centre/Mmmi_maersk_mckinney_moeller/Forskning?sc_lang=en
  - name: "University of T\xFCbingen"
    type: school
    long: 9.058651
