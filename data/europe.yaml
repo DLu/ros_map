@@ -104,6 +104,13 @@
    type: school
    long: -0.886867
    lat: 41.681891
+ - name: Instituto Politécnico de Leiria, ESTG
+   type: school
+   description: Robotics Lab, Department of Electrical Engineering, School of Technology and Management
+   address: Campus 2, Morro do Lena - Alto do Vieiro, Leiria
+   long: -8.821051
+   lat: 39.734430
+   link: http://www.estg.ipleiria.pt/
  - name: iralab, Dept. Informatica, Sistemistica e Comunicazione; Università di Milano - Bicocca
    type: school
    long: 9.219541
