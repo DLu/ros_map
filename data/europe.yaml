@@ -100,6 +100,10 @@
    type: school
    long: -0.886867
    lat: 41.681891
+ - name: iralab, Dept. Informatica, Sistemistica e Comunicazione; Università di Milano - Bicocca
+   type: school
+   long: 9.219541
+   lat: 45.523715
  - name: Karlsruhe Institute of Technology
    type: school
    long: 8.417019
