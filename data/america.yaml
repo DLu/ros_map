@@ -82,10 +82,12 @@
    description: Falkor Systems, Inc.
    long: -71.323242
    lat: 38.85682
- - name: Georgia Tech
+ - name: Georgia Institute of Technology
+   description: The Georgia Institute of Technology is a leading research university committed to improving the human condition through advanced science and technology.
+   link: http://www.gatech.edu
    type: school
-   long: -84.418945
-   lat: 33.72434
+   long: -84.396262
+   lat: 33.775597
  - name: HERE Reality Capture and Processing
    type: company
    lat: 37.869
