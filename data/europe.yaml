@@ -297,3 +297,10 @@
    long: 0.697308
    lat: 52.25214
    link: http://www.vintenradamec.com/
+ - name: University of Hamburg
+   type: research institute
+   address: University of Hamburg, Faculty of Mathematics, Informatics and Natural Sciences, Dep. Informatics, Group TAMS, Vogt-Koelln-Straße 30, Hamburg
+   description: Technical Aspects of Multimodal Systems
+   long: 9.93271
+   lat: 53.59870
+   link: http://tams.informatik.uni-hamburg.de/ https://github.com/TAMS-Group
