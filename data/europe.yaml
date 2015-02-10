@@ -80,6 +80,12 @@
    type: company
    long: 15.519580
    lat: 47.045223
+ - name: INESCTEC
+   lat: 41.178319
+   long: -8.595761
+   type: research institute
+   link: http://www.inesctec.pt
+   description: INESC Technology and Science – INESC TEC is an Associate Laboratory with 30 years of experience in R&D and technology transfer. Present in 6 sites in the cities of Porto, Braga and Vila Real, INESC TEC incorporates 12 R&D Centres and one Associate Unit with complementary competences
  - name: INRIA
    type: research institute
    long: 5.806614
