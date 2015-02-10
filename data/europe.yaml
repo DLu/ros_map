@@ -137,6 +137,12 @@
    type: company
    long: -2.991357
    lat: 53.069631
+ - name: National Technical University of Athens, School of Mechanical Engineering
+   description: Control Systems Laboratory
+   type: school
+   long: 23.784939
+   lat: 37.979119
+   link: http://www.controlsystemslab.gr/main/
  - name: Obuda University
    type: school
    description: TekiProject (Turtlebot2), Antal Bejczy Center For Intelligent Robotics (Nao)
