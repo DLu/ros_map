@@ -82,6 +82,11 @@
    description: Falkor Systems, Inc.
    long: -71.323242
    lat: 38.85682
+ - name: Fetch Robotics
+   type: company
+   long: -121.533867
+   lat: 37.234893
+   link: http://www.fetchrobotics.com
  - name: Georgia Institute of Technology
    description: The Georgia Institute of Technology is a leading research university committed to improving the human condition through advanced science and technology.
    link: http://www.gatech.edu
