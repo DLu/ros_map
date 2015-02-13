@@ -340,3 +340,17 @@
    long: 25.236242
    lat: 54.727483
    link: http://neurotechnology.com
+ - name: University Jaume I
+   type: school
+   long: -0.065271
+   lat: 39.991756
+   link: http://www.irs.uji.es/
+   description: Interactive and Robotic Systems Lab
+   adress: Castellon, Spain
+ - name: University Jaume I
+   type: school
+   long: -0.065271
+   lat: 39.991756
+   link: http://robinlab.uji.es/
+   description: Robotic Intelligence Lab
+   adress: Castellon, Spain
