@@ -340,3 +340,10 @@
    long: 25.236242
    lat: 54.727483
    link: http://neurotechnology.com
+ - name: Robotnik Automation
+   type: company
+   description: Service robotics and product development.
+   address: Valencia, Spain
+   long: -0.37629 
+   lat: 39.46991
+   link: http://www.robotnik.eu
