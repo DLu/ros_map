@@ -347,3 +347,10 @@
    long: -0.37629 
    lat: 39.46991
    link: http://www.robotnik.eu
+ - name: University Jaume I
+   type: school
+   long: -0.065271
+   lat: 39.991756
+   link: http://www.irs.uji.es/ http://robinlab.uji.es/
+   description: Interactive and Robotic Systems Lab, Robotic Intelligence Lab
+   address: Castellon, Spain
