@@ -126,6 +126,12 @@
    long: -79.248394
    type: other
    description: Turtlebot/ROS/Linux and Arduino based Robotics
+ - name: Mark Silliman
+   type: other
+   description: Passionate developer
+   long: -121.30000
+   lat: 44.0500
+   link: http://learn.turtlebot.com
  - name: Massachusetts Institute of Technology
    type: school
    long: -71.09416
