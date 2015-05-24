@@ -7,6 +7,11 @@
    type: school
    long: 7.848102
    lat: 47.998778
+ - name: Aldebaran
+   type: company
+   address: 43, rue du Colonel Pierre Avia,
+   long: 2.27370
+   lat: 48.82860
  - name: Aristotle University of Thessaloniki
    description: P.A.N.D.O.R.A. Robotics Team
    type: school
