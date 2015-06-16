@@ -85,3 +85,9 @@
    long: 103.686300
    lat: 1.542008
    link: http://dfautomation.com/
+ - name: National Taiwan Uniersity
+   type: school
+   address: No. 1, Sec. 4, Roosevelt Rd., Taipei 10617, Taiwan (R.O.C.)
+   long: 121.5398
+   lat: 25.0173
+   link: http://www.iceira.ntu.edu.tw/en/
