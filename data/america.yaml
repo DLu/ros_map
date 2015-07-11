@@ -304,6 +304,10 @@
    type: school
    long: -71.33419
    lat: 42.643866
+ - name: 'University of Nevada, Reno'
+   type: school
+   long: -119.813636
+   lat: 39.539755
  - name: 'University of Pennsylvania'
    type: school
    long: -75.193214
