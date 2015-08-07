@@ -359,3 +359,9 @@
    link: http://www.irs.uji.es/ http://robinlab.uji.es/
    description: Interactive and Robotic Systems Lab, Robotic Intelligence Lab
    address: Castellon, Spain
+ - name: Robosavvy
+   type: company
+   description: Service robots and product development
+   long: -9.453569
+   lat: 38.727888
+   link: http://www.robosavvy.com
