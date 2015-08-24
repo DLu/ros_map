@@ -365,3 +365,10 @@
    long: -9.453569
    lat: 38.727888
    link: http://www.robosavvy.com
+ - name: Milvus Robotics
+   type: company
+   long: 32.770932
+   lat: 39.9130705
+   link: http://www.milvusrobotics.com/
+   description: Milvus Technology, Mobile Robot Base
+   address: Ankara, Turkey
