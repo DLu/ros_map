@@ -91,6 +91,12 @@
    type: research institute
    link: http://www.inesctec.pt
    description: INESC Technology and Science – INESC TEC is an Associate Laboratory with 30 years of experience in R&D and technology transfer. Present in 6 sites in the cities of Porto, Braga and Vila Real, INESC TEC incorporates 12 R&D Centres and one Associate Unit with complementary competences
+ - name: Inovasyon Muhendislik
+   type: company
+   long: 30.474529
+   lat: 39.746763
+   link: http://inovasyonmuhendislik.com
+   description: The evarobot(http://wiki.ros.org/Robots/evarobot/) is a mobile robot platform built by Inovasyon Muhendislik. The evarobot software system is written entirely in ROS.
  - name: INRIA
    type: research institute
    long: 5.806614
