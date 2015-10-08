@@ -65,7 +65,7 @@ def create_folder(name, data):
     
     return f
 
-def create_style(name, color, url='http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png'):
+def create_style(name, color, url='http://maps.google.com/mapfiles/kml/pal2/icon18.png'):
     f = dom.createElement('Style')
     f.setAttribute('id', str(name))
     p = dom.createElement('IconStyle')
