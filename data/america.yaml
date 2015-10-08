@@ -1,3 +1,8 @@
+ - name: Adept MobileRobots 
+   type: company
+   lat: 42.806964
+   long: -71.579460
+   link: http://www.mobilerobots.com
  - name: Aptima Inc
    type: company
    long: -71.146265
@@ -77,10 +82,17 @@
    description: Falkor Systems, Inc.
    long: -71.323242
    lat: 38.85682
- - name: Georgia Tech
+ - name: Fetch Robotics
+   type: company
+   long: -121.533867
+   lat: 37.234893
+   link: http://www.fetchrobotics.com
+ - name: Georgia Institute of Technology
+   description: The Georgia Institute of Technology is a leading research university committed to improving the human condition through advanced science and technology.
+   link: http://www.gatech.edu
    type: school
-   long: -84.418945
-   lat: 33.72434
+   long: -84.396262
+   lat: 33.775597
  - name: HERE Reality Capture and Processing
    type: company
    lat: 37.869
@@ -109,6 +121,17 @@
    type: school
    long: -95.400124
    lat: 29.718303
+ - name: Lunan Design Studio
+   lat: 43.899025
+   long: -79.248394
+   type: other
+   description: Turtlebot/ROS/Linux and Arduino based Robotics
+ - name: Mark Silliman
+   type: other
+   description: Passionate developer
+   long: -121.30000
+   lat: 44.0500
+   link: http://learn.turtlebot.com
  - name: Massachusetts Institute of Technology
    type: school
    long: -71.09416
@@ -167,6 +190,12 @@
    long: -113.498983   
    lat: 53.545782
    link: http://rosedmonton.org   
+ - name: San Pablo Catholic University
+   type: school
+   lat: -16.4050676
+   long: -71.5398246
+   description: Laboratorio de Robotica y Vision Artificial (LARVIC)
+   link: http://ucsp.edu.pe/robotica/
  - name: Savioke
    type: company
    lat: 37.3744017
@@ -229,6 +258,11 @@
    long: -122.257748
    lat: 37.875045
    link: http://hybrid.eecs.berkeley.edu
+ - name: UC Davis
+   type: school
+   description: Bio-Automation Lab
+   long: -121.753083
+   lat: 38.536964
  - name: USC
    type: school
    long: -118.285128
@@ -270,6 +304,10 @@
    type: school
    long: -71.33419
    lat: 42.643866
+ - name: 'University of Nevada, Reno'
+   type: school
+   long: -119.813636
+   lat: 39.539755
  - name: 'University of Pennsylvania'
    type: school
    long: -75.193214
@@ -367,3 +405,7 @@
    lat: 38.628888
    long: -90.270480
    link: https://github.com/Atom-machinerule
+ - name: James Madison University
+   type: school
+   long: -78.863184
+   lat: 38.434082

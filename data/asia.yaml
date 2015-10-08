@@ -72,9 +72,22 @@
    address: '#601, Namsung-Plaza, 345-30 Gasan-dong, Guemcheon-gu, Seoul, Korea, 153-023.'
    long: 126.874495
    lat: 37.488548
+   link: http://www.yujinrobot.com/eng
  - name: Sastra Robotics
    type: company
    address: India Telecom Innovation Hub, Cochin
    long: 76.354594
    lat: 10.055696
    link: http://sastrarobotics.com/
+ - name: DF Automation and Robotics Sdn. Bhd.
+   type: company
+   address: Johor Bahru, Malaysia
+   long: 103.686300
+   lat: 1.542008
+   link: http://dfautomation.com/
+ - name: National Taiwan Uniersity
+   type: school
+   address: No. 1, Sec. 4, Roosevelt Rd., Taipei 10617, Taiwan (R.O.C.)
+   long: 121.5398
+   lat: 25.0173
+   link: http://www.iceira.ntu.edu.tw/en/

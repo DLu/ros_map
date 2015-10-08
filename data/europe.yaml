@@ -7,6 +7,11 @@
    type: school
    long: 7.848102
    lat: 47.998778
+ - name: Aldebaran
+   type: company
+   address: 43, rue du Colonel Pierre Avia,
+   long: 2.27370
+   lat: 48.82860
  - name: Aristotle University of Thessaloniki
    description: P.A.N.D.O.R.A. Robotics Team
    type: school
@@ -19,8 +24,14 @@
    long: 7.182671
    lat: 50.779760
    link: http://www.inf.fh-bonn-rhein-sieg.de/informatik/en/MAS.html
+ - name: Danish Technological Institute
+   type: company
+   long: 10.413344
+   lat: 55.369208
+   link: http://dti.dk
  - name: Fraunhofer IPA
    type: research institute
+   address: Nobelstr. 12, 70569 Stuttgart, Germany
    long: 9.0989681
    lat: 48.741341
    link: http://care-o-bot.org
@@ -37,16 +48,15 @@
    type: school
    long: 5.489841
    lat: 51.447744
+ - name: Robot Rose B.V.
+   type: company
+   long: 5.494894
+   lat: 51.449715
  - name: Fraunhofer FKIE
    type: research institute
    address: "Neuenahrer Stra\xDFe 20, 53343 Wachtberg"
    long: 7.130650
    lat: 50.617713
- - name: Fraunhofer IPA
-   type: research institute
-   address: Nobelstr. 12, 70569 Stuttgart, Germany
-   long: 8.569336
-   lat: 48.654686
  - name: Fundacion Tekniker
    type: research institute
    long: -1.746826
@@ -75,6 +85,18 @@
    type: company
    long: 15.519580
    lat: 47.045223
+ - name: INESCTEC
+   lat: 41.178319
+   long: -8.595761
+   type: research institute
+   link: http://www.inesctec.pt
+   description: INESC Technology and Science – INESC TEC is an Associate Laboratory with 30 years of experience in R&D and technology transfer. Present in 6 sites in the cities of Porto, Braga and Vila Real, INESC TEC incorporates 12 R&D Centres and one Associate Unit with complementary competences
+ - name: Inovasyon Muhendislik
+   type: company
+   long: 30.474529
+   lat: 39.746763
+   link: http://inovasyonmuhendislik.com
+   description: The evarobot(http://wiki.ros.org/Robots/evarobot/) is a mobile robot platform built by Inovasyon Muhendislik. The evarobot software system is written entirely in ROS.
  - name: INRIA
    type: research institute
    long: 5.806614
@@ -95,6 +117,17 @@
    type: school
    long: -0.886867
    lat: 41.681891
+ - name: Instituto Politécnico de Leiria, ESTG
+   type: school
+   description: Robotics Lab, Department of Electrical Engineering, School of Technology and Management
+   address: Campus 2, Morro do Lena - Alto do Vieiro, Leiria
+   long: -8.821051
+   lat: 39.734430
+   link: http://www.estg.ipleiria.pt/
+ - name: iralab, Dept. Informatica, Sistemistica e Comunicazione; Università di Milano - Bicocca
+   type: school
+   long: 9.219541
+   lat: 45.523715
  - name: Karlsruhe Institute of Technology
    type: school
    long: 8.417019
@@ -115,6 +148,12 @@
    type: company
    long: -2.991357
    lat: 53.069631
+ - name: National Technical University of Athens, School of Mechanical Engineering
+   description: Control Systems Laboratory
+   type: school
+   long: 23.784939
+   lat: 37.979119
+   link: http://www.controlsystemslab.gr/main/
  - name: Obuda University
    type: school
    description: TekiProject (Turtlebot2), Antal Bejczy Center For Intelligent Robotics (Nao)
@@ -191,6 +230,12 @@
    type: company
    long: -0.043945
    lat: 51.522416
+ - name: Universidad de Almeria
+   type: school
+   description: ARM research group
+   long: -2.407604
+   lat: 36.828998
+   link: https://github.com/ual-arm-ros-pkg
  - name: Universidad de Zaragoza
    type: school
    description: Robotics, Perception and Real Time Group.
@@ -200,6 +245,10 @@
    type: school
    long: -8.635254
    lat: 40.580585
+ - name: University of Antwerp
+   type: school
+   long: 4.413
+   lat: 51.2247
  - name: University of Birmingham
    type: school
    long: -1.935836
@@ -218,6 +267,13 @@
    description: Institute of Perception, Action and Behaviour, School of Informatics
    long: -3.187108
    lat: 55.94473
+ - name: University of Kassel
+   type: school
+   address: Wilhelmshöher Allee 73, 34121 Kassel, Germany
+   description: Distributed Systems Group, Electrical Engineering and Computer Science
+   link: http://www.vs.uni-kassel.de/ http://www.das-lab.net/
+   lat: 51.31131
+   long: 9.47338
  - name: "University of Osnabr\xFCck"
    type: school
    description: Knowledge-Based Systems group |
@@ -236,6 +292,12 @@
    long: 2.644315
    lat: 39.636662
    link: http://uib.cat
+ - name: University of Southern Denmark
+   type: school
+   description: The Maersk Mc-Kinney Moller Institute perform intense research into robotics and work targeted at developing intelligent, autonomous systems that can solve socially-relevant issues.
+   long: 10.429182
+   lat: 55.366503
+   link: http://www.sdu.dk/Om_SDU/Institutter_centre/Mmmi_maersk_mckinney_moeller/Forskning?sc_lang=en
  - name: "University of T\xFCbingen"
    type: school
    long: 9.058651
@@ -263,3 +325,56 @@
    long: 7.737743
    lat: 48.525812
    link: https://icube.unistra.fr/
+ - name: Vitec Videocom
+   type: company
+   address: Vitec Videocom Ltd, William Vinten Building, Western Way, Bury St Edmunds, Suffolk IP33 3TB, United Kingdom
+   long: 0.697308
+   lat: 52.25214
+   link: http://www.vintenradamec.com/
+ - name: University of Hamburg
+   type: research institute
+   address: University of Hamburg, Faculty of Mathematics, Informatics and Natural Sciences, Dep. Informatics, Group TAMS, Vogt-Koelln-Straße 30, Hamburg
+   description: Technical Aspects of Multimodal Systems
+   long: 9.93271
+   lat: 53.59870
+   link: http://tams.informatik.uni-hamburg.de/ https://github.com/TAMS-Group
+ - name: Officine Robotiche
+   type: Robotics Enthusiasts Association
+   address: Rome, Italy
+   long: 12.5359979
+   lat: 41.9100711
+   link: http://www.officinerobotiche.it/
+ - name: Neurotechnology
+   type: company
+   description: Biometrics and robotics.
+   address: Savanorių pr. 125A, Vilnius, Lithuania
+   long: 25.236242
+   lat: 54.727483
+   link: http://neurotechnology.com
+ - name: Robotnik Automation
+   type: company
+   description: Service robotics and product development.
+   address: Valencia, Spain
+   long: -0.37629 
+   lat: 39.46991
+   link: http://www.robotnik.eu
+ - name: University Jaume I
+   type: school
+   long: -0.065271
+   lat: 39.991756
+   link: http://www.irs.uji.es/ http://robinlab.uji.es/
+   description: Interactive and Robotic Systems Lab, Robotic Intelligence Lab
+   address: Castellon, Spain
+ - name: Robosavvy
+   type: company
+   description: Service robots and product development
+   long: -9.453569
+   lat: 38.727888
+   link: http://www.robosavvy.com
+ - name: Milvus Robotics
+   type: company
+   long: 32.770932
+   lat: 39.9130705
+   link: http://www.milvusrobotics.com/
+   description: Milvus Technology, Mobile Robot Base
+   address: Ankara, Turkey
