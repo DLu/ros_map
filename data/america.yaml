@@ -35,6 +35,12 @@
    address: Palo Alto, CA
    long: -122.136973
    lat: 37.400595
+ - name: Bossa Nova Robotics
+   type: company
+   address: 2740 Smallman St Suite 400, Pittsburgh, PA 15222
+   long: -79.9766498
+   lat: 40.4573096
+   link: http://bnrobotics.com
  - name: Brown University
    type: school
    long: -71.402556
