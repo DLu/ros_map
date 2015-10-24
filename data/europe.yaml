@@ -384,3 +384,10 @@
    link: http://www.milvusrobotics.com/
    description: Milvus Technology, Mobile Robot Base
    address: Ankara, Turkey
+ - name:  Westphalian University of Applied Sciences Gelsenkirchen
+   type: school
+   long: 51.573697
+   lat: 7.028589
+   link: http://homepage.informatik.w-hs.de/HSurmann/
+   description: Autonomous Systems, Computer Vision, Machine Learning, Parallel Computing
+   address: Neidenburgerstr. 43, 45877 Gelsenkirchen, Germany
