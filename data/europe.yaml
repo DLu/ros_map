@@ -391,3 +391,10 @@
    link: http://homepage.informatik.w-hs.de/HSurmann/
    description: Autonomous Systems, Computer Vision, Machine Learning, Parallel Computing
    address: Neidenburgerstr. 43, 45877 Gelsenkirchen, Germany
+ - name:  Robo@FIT (Faculty of Information Technology, BUT)
+   type: school
+   long: 16.59664
+   lat: 49.226616
+   link: http://www.fit.vutbr.cz/research/groups/robo/index.php.en
+   description: Robotic research group at FIT focuses on the development of advanced methods of autonomous intelligent systems and mobile platforms, processing and fusion of sensory data, creating dynamic 3D models of the environment, intelligent decisions and mission planning, knowledge management, multi-agent systems and advanced human-robot interaction systems.
+   address: Brno, Czech Republic
