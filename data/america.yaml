@@ -280,6 +280,12 @@
    link: http://www.ece.ufrgs.br
    address: Av. Osvaldo Aranha, 103 - Porto Alegre, RS 90035-190, Brazil
    description: Federal University of Rio Grande do Sul - Control, Automation and Robotics Group
+ - name: Universidad de Chile - Departamento de Ciencias de la Computación (DCC)
+   type: school
+   lat: -33.457410
+   long: -70.664513
+   link: http://rych.dcc.uchile.cl
+   description: Lab on Robotics and Computation at the Computer Science Department (DCC) of the University of Chile
  - name: University At Albany
    type: school
    description: Social Robotics Lab at ILS
