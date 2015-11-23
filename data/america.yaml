@@ -152,6 +152,11 @@
    address: 255 Potrero Ave, San Francisco, CA 94103
    long: -122.407133
    lat: 37.766384
+ - name: Michael Sprague
+   type: other
+   long: -82.704450
+   lat: 35.542698
+   link: https://github.com/MichaelSprague
  - name: Michigan Tech Robotics Lab
    type: school
    long: -88.544531
