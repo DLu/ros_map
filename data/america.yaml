@@ -1,4 +1,4 @@
- - name: Adept MobileRobots 
+ - name: Adept MobileRobots
    type: company
    lat: 42.806964
    long: -71.579460
@@ -132,6 +132,11 @@
    long: -79.248394
    type: other
    description: Turtlebot/ROS/Linux and Arduino based Robotics
+ - name: Maidbot
+   type: company
+   long: -76.4972668
+   lat: 42.4396969
+   link: http://www.maidbot.co
  - name: Mark Silliman
    type: other
    description: Passionate developer
@@ -198,9 +203,9 @@
  - name: ROS Edmonton
    type: other
    address: 10359 104 St NW, Edmonton, AB T5J 1B9
-   long: -113.498983   
+   long: -113.498983
    lat: 53.545782
-   link: http://rosedmonton.org   
+   link: http://rosedmonton.org
  - name: San Pablo Catholic University
    type: school
    lat: -16.4050676
@@ -380,7 +385,7 @@
    description: IntRoLab Laboratory
    link: https://introlab.3it.usherbrooke.ca/
    long: -71.942479
-   lat: 45.378602   
+   lat: 45.378602
  - name: "\xC9cole de technologie sup\xE9rieure"
    type: school
    address: "1100, rue Notre-Dame Ouest (angle Peel) Montr\xE9al (Qu\xE9bec) H3C 1K3"
