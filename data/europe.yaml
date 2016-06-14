@@ -398,3 +398,10 @@
    link: http://www.fit.vutbr.cz/research/groups/robo/index.php.en
    description: Robotic research group at FIT focuses on the development of advanced methods of autonomous intelligent systems and mobile platforms, processing and fusion of sensory data, creating dynamic 3D models of the environment, intelligent decisions and mission planning, knowledge management, multi-agent systems and advanced human-robot interaction systems.
    address: Brno, Czech Republic
+ - name:  Institut maupertuis
+   type: research institute
+   long: -1.744014
+   lat: 48.046184
+   link: www.institutmaupertuis.fr
+   description: Innovation in production.
+   address: Contour Antoine de St Exupéry, Campus de Ker Lann, France
