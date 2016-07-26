@@ -405,3 +405,10 @@
    link: www.institutmaupertuis.fr
    description: Innovation in production.
    address: Contour Antoine de St Exupéry, Campus de Ker Lann, France
+ - name:  Akcaabat Science High School
+   type: school
+   long: 41.028497
+   lat: 39.559112
+   link: www.kaaninan.net
+   description: Humanoid research robots
+   address: Trabzon, Turkey
