@@ -134,8 +134,8 @@
    description: Turtlebot/ROS/Linux and Arduino based Robotics
  - name: Maidbot
    type: company
-   long: -76.4972668
-   lat: 42.4396969
+   long: -97.7870468
+   lat: 30.1715556
    link: http://www.maidbot.co
  - name: Mark Silliman
    type: other
