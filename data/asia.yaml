@@ -91,3 +91,10 @@
    long: 121.5398
    lat: 25.0173
    link: http://www.iceira.ntu.edu.tw/en/
+ - name: AnR at KLE. B. V. Bhoomaraddi College of Engineering and Technology
+   type: school
+   address: Automation and Robotics Department, BVBCET, Vidyanagar, Hubli, KA. India. 580031
+   long: 75.121555975
+   lat: 15.3690169
+   link: http://makers.kletech.ac.in/
+   description: Department of Automation and Robotics, at BVBCET or KLE Tech University, has added ROS in the curriculum for B.E. course
