@@ -117,6 +117,11 @@
    type: school
    long: -0.886867
    lat: 41.681891
+ - name: Instituto Superior Técnico
+   type: school
+   address: Av. Rovisco Pais 1, 1049-001 Lisboa
+   lat: 38.735349
+   long: -9.138413
  - name: Instituto Politécnico de Leiria, ESTG
    type: school
    description: Robotics Lab, Department of Electrical Engineering, School of Technology and Management
