@@ -20,7 +20,7 @@ $(document).ready(function () {
   // The output is a set of callbacks that will be waited for to get stats
   function getStats() {
     // Go over the data and get some stats about the institutes
-    var REGIONS = ['america', 'asia', 'australia', 'europe']
+    var REGIONS = ['america', 'asia', 'australia', 'europe', 'africa']
     var PATTERN = 'data/'; //%s.yaml'
     // parse each yaml file
     var callbacks = [];
