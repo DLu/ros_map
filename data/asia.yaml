@@ -98,3 +98,17 @@
    lat: 15.3690169
    link: http://makers.kletech.ac.in/
    description: Department of Automation and Robotics, at BVBCET or KLE Tech University, has added ROS in the curriculum for B.E. course
+ - name: Intelligent Mobile Robotics Lab at PAF Karachi Institute of Economics and Technology (KIET)
+   type: school
+   address: IMR LAB, Room 54, College of Engineering Building, PAF KIET, PAF BASE, Korangi Creek, Karachi, Pakistan
+   long: 67.134953
+   lat: 24.794228
+   link: http://pafkiet.edu.pk/main/imr/
+   description: a research Lab focusing on developing Mobile Robots for Disaster Mittigation and Fire Fighting, we have ported all our robot hardware to be ROS compatible and are working towards learning ROS ourselves and teaching it to the local community of ROBOTICISTS.
+ - name: EjaadTech
+   type: company
+   address: Tajurbagah, 453, C.P. Berar Society, Karachi
+   long: 67.080733
+   lat: 24.883874
+   link: http://ejaadtech.com
+   description: a hardware focused research and development firm, working on Robotic Platforms for different applications and use cases and organizations. Our focus is on robots with various sensors and actuators which can be controlled by tele-operation and are able to send back sensed data and form maps of unknown areas. Research is being done on making autonomous robots which move in collaboration with one another with one operator and multiple robots.
