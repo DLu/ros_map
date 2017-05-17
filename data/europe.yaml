@@ -417,3 +417,10 @@
    link: www.kaaninan.net
    description: Humanoid research robots
    address: Trabzon, Turkey
+ - name:  FZI Research Center for Information Technology
+   type: research
+   long: 8.424770
+   lat: 49.012120
+   link: http://www.fzi.de/en/research/research-sectors/anwendungsfelder-en/afeld/automation-und-robotik/
+   description: t the FZI, six work priorities are in the focus of the application area of automation and robotics: conception, development of architectures, security, mobile production robots, user support and knowledge-based diagnosis. In this process, we work closely with partners from the industry.
+   address: Karlsruhe, Germany
