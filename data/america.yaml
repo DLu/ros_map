@@ -431,3 +431,10 @@
    type: school
    long: -78.863184
    lat: 38.434082
+ - name: Ekumen
+   type: company
+   lat: -34.583067
+   long: -58.446311
+   link: http://www.ekumenlabs.com/
+   address: Concepción Arenal 3425, Ciudad Autónoma de Buenos Aires
+   description: International engineering boutique, provider of advanced software development services and technology.
