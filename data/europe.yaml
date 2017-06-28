@@ -24,6 +24,13 @@
    long: 7.182671
    lat: 50.779760
    link: http://www.inf.fh-bonn-rhein-sieg.de/informatik/en/MAS.html
+ - name: Institute of Industrial Technologies and Automation (ITIA)
+   type: research institute
+   long: 9.231571
+   lat: 45.480532
+   link: http://www.itia.cnr.it/en/
+   description: Robotics and Autonomous Systems Group
+   address: Via Corti 12, 20133, Milano
  - name: Danish Technological Institute
    type: company
    long: 10.413344
