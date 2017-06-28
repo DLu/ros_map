@@ -1,0 +1,2 @@
+language: python
+script: ./generate_kml.py data/*
