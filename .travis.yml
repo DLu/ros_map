@@ -1,2 +1,2 @@
 language: python
-script: ./generate_kml.py data/africa.yaml data/america.yaml data/asia.yaml data/australia.yaml data/europe.yaml
+script: python generate_kml.py data/africa.yaml data/america.yaml data/asia.yaml data/australia.yaml data/europe.yaml
