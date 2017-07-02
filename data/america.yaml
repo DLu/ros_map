@@ -438,3 +438,10 @@
    link: http://www.ekumenlabs.com/
    address: Concepción Arenal 3425, Ciudad Autónoma de Buenos Aires
    description: International engineering boutique, provider of advanced software development services and technology.
+ - name: Turing Laboratory, Universidad Galileo
+   type: school
+   lat: 14.609785
+   long: -90.505718
+   link: http://turing.galileo.edu
+   address: Universidad Galileo 7a. Avenida, calle Dr. Eduardo Suger Cofiño, Zona 10, Guatemala, CA
+   description: Turing Laboratory belongs to a new generation of Research and Development laboratories recently inaugurated in Galileo University to promote the development of Science and Technology.
