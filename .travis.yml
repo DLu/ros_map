@@ -11,3 +11,5 @@ script:
   - yamllint data/australia.yaml
   - yamllint data/europe.yaml
   - python generate_kml.py data/africa.yaml data/america.yaml data/asia.yaml data/australia.yaml data/europe.yaml
+notifications:
+  email: false
