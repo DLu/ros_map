@@ -1,2 +1,15 @@
 language: python
-script: python generate_kml.py data/africa.yaml data/america.yaml data/asia.yaml data/australia.yaml data/europe.yaml
+python:
+  - "2.7"
+# command to install dependencies
+install: "pip install -r requirements.txt"
+# command to run tests
+script:
+  - yamllint data/africa.yaml
+  - yamllint data/america.yaml
+  - yamllint data/asia.yaml
+  - yamllint data/australia.yaml
+  - yamllint data/europe.yaml
+  - python generate_kml.py data/africa.yaml data/america.yaml data/asia.yaml data/australia.yaml data/europe.yaml
+notifications:
+  email: false

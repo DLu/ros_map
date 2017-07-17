@@ -151,7 +151,7 @@
    long: 18.0752322
    lat: 59.3463036
    link: http://wiki.ros.org/kth-ros-pkg
-   address: Teknikringen 14, 114 28 Stockholm, Sweden 
+   address: Teknikringen 14, 114 28 Stockholm, Sweden
  - name: KULeuven Universiteit
    type: school
    long: 4.682986
@@ -367,7 +367,7 @@
    type: company
    description: Service robotics and product development.
    address: Valencia, Spain
-   long: -0.37629 
+   long: -0.37629
    lat: 39.46991
    link: http://www.robotnik.eu
  - name: University Jaume I
