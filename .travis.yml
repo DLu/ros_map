@@ -1,15 +1,14 @@
-language: python
-python:
-  - "2.7"
+language: nodejs
+
 # command to install dependencies
-install: "pip install -r requirements.txt"
+install: "npm install jsonlint -g"
 # command to run tests
 script:
-  - yamllint data/africa.yaml
-  - yamllint data/america.yaml
-  - yamllint data/asia.yaml
-  - yamllint data/australia.yaml
-  - yamllint data/europe.yaml
-  - python generate_kml.py data/africa.yaml data/america.yaml data/asia.yaml data/australia.yaml data/europe.yaml
+  - jsonlint -q -V schema.json data/africa.json
+  - jsonlint -q -V schema.json data/america.json
+  - jsonlint -q -V schema.json data/asia.json
+  - jsonlint -q -V schema.json data/australia.json
+  - jsonlint -q -V schema.json data/europe.json
+
 notifications:
   email: false
