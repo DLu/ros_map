@@ -120,7 +120,7 @@
   },
   {
     "name": "Falkor Systems",
-    "type": null,
+    "type": "other",
     "description": "Falkor Systems, Inc.",
     "long": -71.323242,
     "lat": 38.85682
@@ -161,7 +161,7 @@
   },
   {
     "name": "James Ronald",
-    "type": null,
+    "type": "other",
     "description": "TurtleBot / ROS",
     "long": -83.916321,
     "lat": 42.57331
@@ -307,7 +307,7 @@
   },
   {
     "name": "SUNY New Paltz Robotics Club",
-    "type": null,
+    "type": "other",
     "long": -74.082098,
     "lat": 41.74089
   },
@@ -359,7 +359,7 @@
   },
   {
     "name": "Trossen Robotics Community",
-    "type": null,
+    "type": "other",
     "description": "TRC ROS Forums!",
     "long": -88.051423,
     "lat": 41.792409,

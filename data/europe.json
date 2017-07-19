@@ -252,14 +252,14 @@
   },
   {
     "name": "OpenRobotino",
-    "type": null,
+    "type": "other",
     "address": "85748 Garching bei München, Germany",
     "long": 11.645508,
     "lat": 48.261256
   },
   {
     "name": "Ottiolu OT",
-    "type": null,
+    "type": "other",
     "description": "Italy",
     "long": 9.707941,
     "lat": 40.737367,
@@ -329,7 +329,7 @@
   },
   {
     "name": "Tecnalia",
-    "type": null,
+    "type": "other",
     "long": -1.977539,
     "lat": 43.277205
   },
@@ -489,7 +489,7 @@
   },
   {
     "name": "Officine Robotiche",
-    "type": "Robotics Enthusiasts Association",
+    "type": "other",
     "address": "Rome, Italy",
     "long": 12.5359979,
     "lat": 41.9100711,
