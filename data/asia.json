@@ -8,7 +8,7 @@
   },
   {
     "name": "Cogniteam",
-    "type": null,
+    "type": "other",
     "address": "Shoam 7 Petah Tikva, Israel",
     "long": 34.858295,
     "lat": 32.090508,
@@ -16,7 +16,7 @@
   },
   {
     "name": "Intelligent Systems Group, AIST",
-    "type": null,
+    "type": "other",
     "long": 140.135379,
     "lat": 36.061416
   },
@@ -56,7 +56,7 @@
   },
   {
     "name": "OTL",
-    "type": null,
+    "type": "other",
     "long": 136.757813,
     "lat": 35.029996
   },
@@ -76,7 +76,7 @@
   },
   {
     "name": "Taylor Veltrop",
-    "type": null,
+    "type": "other",
     "address": "Japan",
     "long": 141.679688,
     "lat": 35.532226,
@@ -84,7 +84,7 @@
   },
   {
     "name": "Tokyo Opensource Robotics Kyokai Association",
-    "type": null,
+    "type": "other",
     "address": "Bunkyo Ward, Japan",
     "long": 139.768453,
     "lat": 35.706447,
