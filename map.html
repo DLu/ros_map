@@ -1,68 +1,243 @@
 <!DOCTYPE html>
 <html>
+
   <head>
+    <title>ROS Users of the World</title>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
-    <title>ROS Users of the World</title>
-    <link href='http://fonts.googleapis.com/css?family=Titillium+Web' rel='stylesheet' type='text/css'>
-    <style>
-      html, body {
-        font-family: 'Titillium Web', sans-serif
-      }
-      #map-canvas {
-        height: 100%;
-        width: 80%;
-        position: absolute;
-        right: 0%
 
-      }
-      #text {
-        height: 100%;
-        width: 15%;
+    <style media="screen">
+      #preloader {
         position: absolute;
-        left: 0%;
-        padding: 50px;
-
+        z-index: 9999;
+        background-color: #00897b;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
       }
-      table {
-        border: 1px solid LightGray;
-        border-collapse: collapse;
+
+      #spinner {
+        width: 80px;
+        height: 80px;
+
+        position: relative;
+        margin: calc(50vh - 40px) auto;
+      }
+
+      #double-bounce1,
+      #double-bounce2 {
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+        background-color: #fff;
+        opacity: 0.6;
+        position: absolute;
+        top: 0;
+        left: 0;
+
+        -webkit-animation: sk-bounce 2.0s infinite ease-in-out;
+        animation: sk-bounce 2.0s infinite ease-in-out;
+      }
+
+      #double-bounce2 {
+        -webkit-animation-delay: -1.0s;
+        animation-delay: -1.0s;
+      }
+
+      @-webkit-keyframes sk-bounce {
+        0%,
+        100% {
+          -webkit-transform: scale(0.0)
+        }
+        50% {
+          -webkit-transform: scale(1.0)
+        }
+      }
+
+      @keyframes sk-bounce {
+        0%,
+        100% {
+          transform: scale(0.0);
+          -webkit-transform: scale(0.0);
+        }
+        50% {
+          transform: scale(1.0);
+          -webkit-transform: scale(1.0);
+        }
+      }
+
+      html,
+      body {
+        overflow: hidden;
       }
     </style>
-    <script src="http://www.metrorobots.com/analytics.js" ></script>
-    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
-    <script>
-        function initialize() {
-          
-          var map = new google.maps.Map(document.getElementById('map-canvas'));
+  </head>
 
-          var ctaLayer = new google.maps.KmlLayer({
-             url: 'http://metrorobots.com/scripts/generate_kml.py'
-          });
-          ctaLayer.setMap(map);
+  <body>
+    <div id="preloader">
+      <div id="spinner">
+        <div id="double-bounce1"></div>
+        <div id="double-bounce2"></div>
+      </div>
+    </div>
+    <div id="map"></div>
+    <div id="title">
+      <h1>ROS Users of the World</h1>
+    </div>
+
+
+    <link href='//fonts.googleapis.com/css?family=Titillium+Web' rel='stylesheet' type='text/css'>
+    <style>
+      #map {
+        height: 100%;
+      }
+
+      html,
+      body {
+        height: 100%;
+        font-family: 'Titillium Web', sans-serif;
+        margin: 0;
+        padding: 0;
+      }
+
+      #title {
+        background-color: #00897b;
+        color: #eee;
+        text-align: center;
+        border-bottom: 1px solid rgba(100, 100, 100, 0.5);
+        right: 0px;
+        left: 0px;
+        box-shadow: 0px 1px 5px rgba(50, 50, 50, 0.6);
+      }
+    </style>
+
+
+    <script src="//www.metrorobots.com/analytics.js"></script>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+
+    <script>
+      var map
+
+      function removePreloader() {
+        $("#spinner").remove();
+        $("#preloader").animate({
+          "height": "0"
+        }, function() {
+          $("#preloader").remove();
+        });
+      }
+
+
+      function initMap() {
+        map = new google.maps.Map(document.getElementById('map'), {
+          center: {
+            lat: 0,
+            lng: 0
+          },
+          zoom: 1,
+          //  disableDefaultUI: true,
+          zoomControl: true,
+          mapTypeControl: false,
+          scaleControl: false,
+          streetViewControl: false,
+          rotateControl: true,
+          fullscreenControl: false,
+
+        })
+
+        map.controls[google.maps.ControlPosition.TOP_CENTER]
+          .push(document.getElementById('title'))
+
+
+        var icons = {
+          school: './icons/ic1.svg',
+          company: './icons/ic2.svg',
+          research: './icons/ic3.svg',
+          other: './icons/ic4.svg',
+          unknown: './icons/ic5.svg'
         }
 
-        google.maps.event.addDomListener(window, 'load', initialize);
+        var points = []
+        var markers = {
+          school: [],
+          company: [],
+          research: [],
+          other: [],
+          unknown: []
+        }
+
+        $.when(
+          $.getJSON("./data/africa.json"),
+          $.getJSON("./data/america.json"),
+          $.getJSON("./data/asia.json"),
+          $.getJSON("./data/australia.json"),
+          $.getJSON("./data/europe.json")
+        ).done(function(africa, america, asia, australia, europe) {
+          points = points.concat(africa[0], america[0], asia[0], australia[0], europe[0])
+
+
+          var infowindow = new google.maps.InfoWindow();
+          var markerCluster;
+
+          points.forEach(function(point) {
+            if (["school", "company", "research", "other"].indexOf(point.type) == -1) { // To catch all other values as unknown
+              point.type = 'unknown'
+            }
+            var marker = new google.maps.Marker({
+              position: new google.maps.LatLng(point.lat, point.long),
+              icon: icons[point.type],
+              map: map,
+              point: point
+            })
+
+            // infowindow.open(map, this);
+
+            marker.addListener('click', function() {
+              var content = '<div id="content">' +
+                '<h3>' + this.point.name + '</h3>'
+
+              if (this.point.description) {
+                content += '<div id="bodyContent">' +
+                  '<p>' + this.point.description + '</p></div>'
+              }
+              if (this.point.address) {
+                content += '<div id="addressContent"><b>Address:</b>' +
+                  '<p>' + this.point.address + '</p></div>'
+              }
+
+              if (this.point.link) {
+                content += '<div id="linkContent"><i>' +
+                  '<a href="' + this.point.link + '">' + this.point.link + '</a></i></div>'
+              }
+              content += "</div>"
+
+              infowindow.setContent(content);
+              infowindow.open(map, marker);
+            })
+
+            markers[point.type].push(marker)
+          })
+
+          for (var t in markers) {
+            if (markers.hasOwnProperty(t)) {
+              markerCluster = new MarkerClusterer(map, markers[t], {
+                imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'
+              })
+            }
+          }
+
+        })
+
+        //To let the Map tiles be loaded in background first
+        setTimeout(removePreloader, 1000);
+      }
     </script>
-    <!-- add jQuery -->
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-    <!-- add pie chart -->
-    <script src="src/ocanvas-2.7.3.min.js"></script>
-    <script src="src/pie.js"></script>
-  </head>
-  <body>
-    <div id="text"><h1>ROS Users of the World</h1>
-    <ul>
-      <li><span style="color: #62AF44">GREEN </span> - School
-      <li><span style="color: #4186F0">BLUE </span> - Company
-      <li><span style="color: #DB4436">RED </span> - Research Institute
-      <li><span style="color: #FFDD5E">YELLOW </span> - Other
-      <li><span style="font-size: small">(white - unknown)</span>
-    </ul>
-    <!-- Code for the Pie Chart -->
-    <canvas id="pie_chart" style="padding-left: 0; padding-right: 0; margin-left: auto; margin-right: auto; display: block"></canvas>
-    <p>Add to or edit the map by changing the yaml files in <a href="https://github.com/DLu/ros_map/tree/master/data">this repository</a>, or by emailing <a href="mailto:david AT metrorobots DOT COM">the map maintainer</a>.
-    </div>
-    <div id="map-canvas"></div>
+
+    <script src="./src/markerclusterer.js"></script>
+    <script src="//maps.googleapis.com/maps/api/js?callback=initMap&key=AIzaSyCRqGI1ZRVBdv-QmNAKcuPNSE8QfZHD_i8" async defer>
+    </script>
   </body>
+
 </html>
