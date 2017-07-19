@@ -66,6 +66,11 @@
      -webkit-transform: scale(1.0);
     }
    }
+
+   html,
+   body {
+    overflow: hidden;
+   }
   </style>
  </head>
 
@@ -144,6 +149,68 @@
 
     map.controls[google.maps.ControlPosition.TOP_CENTER]
      .push(document.getElementById('title'))
+
+
+    var icons = {
+     school: './icons/ic1.svg',
+     company: './icons/ic2.svg',
+     research: './icons/ic3.svg',
+     other: './icons/ic4.svg',
+     unknown: './icons/ic5.svg'
+    }
+
+    var points = []
+
+    $.when(
+     $.getJSON("./data/africa.json"),
+     $.getJSON("./data/america.json"),
+     $.getJSON("./data/asia.json"),
+     $.getJSON("./data/australia.json"),
+     $.getJSON("./data/europe.json")
+    ).done(function(africa, america, asia, australia, europe) {
+     points = points.concat(africa[0], america[0], asia[0], australia[0], europe[0])
+
+
+     var infowindow = new google.maps.InfoWindow();
+
+     points.forEach(function(point) {
+      if (["school", "company", "research", "other"].indexOf(point.type) == -1) { // To catch all other values as unknown
+       point.type = 'unknown'
+      }
+      var marker = new google.maps.Marker({
+       position: new google.maps.LatLng(point.lat, point.long),
+       icon: icons[point.type],
+       map: map,
+       point: point
+      })
+      /*
+      var infowindow = new google.maps.InfoWindow({
+       content: '<div id="content">' +
+        '<h1 id="firstHeading" class="firstHeading">' + point.name + '</h1>' +
+        '<div id="bodyContent">' +
+        '<p><b>Uluru</b>, also referred to as <b>Ayers Rock</b>, is a large ' +
+        'sandstone rock forma'
+      })
+      */
+
+
+      // infowindow.open(map, this);
+
+      marker.addListener('click', function() {
+       var content = '<div id="content">' +
+        '<h3>' + this.point.name + '</h3>'
+
+       if (this.point.description) {
+        content += '<div id="bodyContent">' +
+         '<p>' + this.point.description + '</p></div>'
+       }
+       content += "</div>"
+
+       infowindow.setContent(content);
+       infowindow.open(map, marker);
+      });
+     })
+    })
 
     /*
     var ctaLayer = new google.maps.KmlLayer({
