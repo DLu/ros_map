@@ -86,6 +86,10 @@
       <h1>ROS Users of the World</h1>
     </div>
 
+    <a href="https://github.com/DLu/ros_map/tree/master/data" id="git" target="_blank">
+      <b>Add yourself to this Map</b>
+      <img src="icons/github.png" alt="Add yourself to this Map">
+    </a>
 
     <div id="dist">
       <span class="dis school">
@@ -122,7 +126,7 @@
 
       #title {
         background-color: #00897b;
-        color: #eee;
+        color: #fff;
         text-align: center;
         border-bottom: 1px solid rgba(100, 100, 100, 0.5);
         right: 0px;
@@ -130,12 +134,41 @@
         box-shadow: 0px 1px 5px rgba(50, 50, 50, 0.6);
       }
 
+      #git {
+        vertical-align: middle;
+        display: flex;
+        text-decoration: none;
+        font-size: 14px;
+      }
+
+      #git:hover {
+        cursor: pointer;
+        background-color: rgba(255, 255, 255, 0.2);
+      }
+
+      #git>b {
+        padding-left: 10px;
+        line-height: 56px;
+        color: #fff;
+        vertical-align: middle;
+      }
+
+      @media (max-width: 720px) {
+        #git>b {
+          display: none;
+        }
+      }
+
+      #git img {
+        height: 40px;
+        padding: 8px;
+      }
+
       #dist {
         left: 0px;
         right: 0px;
         text-align: center;
         margin-bottom: 30px;
-        background-color: red;
         display: -webkit-flex;
         display: -ms-flex;
         display: flex;
@@ -206,6 +239,9 @@
 
         map.controls[google.maps.ControlPosition.TOP_CENTER]
           .push($('#title')[0])
+
+        map.controls[google.maps.ControlPosition.TOP_RIGHT]
+          .push($('#git')[0])
 
         var icons = {
           school: './icons/ic1.svg',
@@ -287,6 +323,7 @@
 
         //markers[i].setMap(map);
         map.controls[google.maps.ControlPosition.BOTTOM_CENTER].push($("#dist")[0])
+
         //To let the Map tiles be loaded in background first
         setTimeout(removePreloader, 1000)
       }
