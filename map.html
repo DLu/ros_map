@@ -87,6 +87,25 @@
     </div>
 
 
+    <div id="dist">
+      <span class="dis school">
+        School-
+        <span>0</span>
+      </span>
+      <span class="dis company">
+        Company-
+        <span>0</span>
+      </span>
+      <span class="dis research">
+        Research-
+        <span>0</span>
+      </span>
+      <span class="dis other">
+        Other-
+        <span>0</span>
+      </span>
+    </div>
+
     <link href='//fonts.googleapis.com/css?family=Titillium+Web' rel='stylesheet' type='text/css'>
     <style>
       #map {
@@ -110,12 +129,51 @@
         left: 0px;
         box-shadow: 0px 1px 5px rgba(50, 50, 50, 0.6);
       }
+
+      #dist {
+        left: 0px;
+        right: 0px;
+        text-align: center;
+        margin-bottom: 30px;
+        background-color: red;
+        display: -webkit-flex;
+        display: -ms-flex;
+        display: flex;
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+      }
+
+      .dis {
+        padding: 10px 4px;
+        -webkit-flex: 1;
+        -ms-flex: 1;
+        flex: 1;
+        font-weight: bolder;
+      }
+
+      .dis.school {
+        background-color: #62AF44;
+      }
+
+      .dis.company {
+        color: #fff;
+        background-color: #4186F0;
+      }
+
+      .dis.research {
+        color: #fff;
+        background-color: #DB4436;
+      }
+
+      .dis.other {
+        background-color: #FFDD5E;
+      }
     </style>
 
 
     <script src="//www.metrorobots.com/analytics.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js">
+    </script>
 
-    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
 
     <script>
       var map
@@ -144,19 +202,16 @@
           streetViewControl: false,
           rotateControl: true,
           fullscreenControl: false,
-
         })
 
         map.controls[google.maps.ControlPosition.TOP_CENTER]
-          .push(document.getElementById('title'))
-
+          .push($('#title')[0])
 
         var icons = {
           school: './icons/ic1.svg',
           company: './icons/ic2.svg',
           research: './icons/ic3.svg',
-          other: './icons/ic4.svg',
-          unknown: './icons/ic5.svg'
+          other: './icons/ic4.svg'
         }
 
         var points = []
@@ -164,9 +219,9 @@
           school: [],
           company: [],
           research: [],
-          other: [],
-          unknown: []
+          other: []
         }
+        var markerClusters = {};
 
         $.when(
           $.getJSON("./data/africa.json"),
@@ -179,11 +234,10 @@
 
 
           var infowindow = new google.maps.InfoWindow();
-          var markerCluster;
 
           points.forEach(function(point) {
-            if (["school", "company", "research", "other"].indexOf(point.type) == -1) { // To catch all other values as unknown
-              point.type = 'unknown'
+            if (["school", "company", "research", "other"].indexOf(point.type) == -1) { // To catch all unknown values as other
+              point.type = 'other'
             }
             var marker = new google.maps.Marker({
               position: new google.maps.LatLng(point.lat, point.long),
@@ -222,21 +276,24 @@
 
           for (var t in markers) {
             if (markers.hasOwnProperty(t)) {
-              markerCluster = new MarkerClusterer(map, markers[t], {
+              markerClusters[t] = new MarkerClusterer(map, markers[t], {
                 imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'
               })
+              $(".dis." + t + " span").html(markers[t].length)
             }
           }
 
         })
 
+        //markers[i].setMap(map);
+        map.controls[google.maps.ControlPosition.BOTTOM_CENTER].push($("#dist")[0])
         //To let the Map tiles be loaded in background first
-        setTimeout(removePreloader, 1000);
+        setTimeout(removePreloader, 1000)
       }
     </script>
 
-    <script src="./src/markerclusterer.js"></script>
-    <script src="//maps.googleapis.com/maps/api/js?callback=initMap&key=AIzaSyCRqGI1ZRVBdv-QmNAKcuPNSE8QfZHD_i8" async defer>
+    <script src="./src/markerclusterer.js" async></script>
+    <script src="//maps.googleapis.com/maps/api/js?callback=initMap&key=AIzaSyCRqGI1ZRVBdv-QmNAKcuPNSE8QfZHD_i8" async>
     </script>
   </body>
 
