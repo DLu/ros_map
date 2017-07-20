@@ -1,0 +1,44 @@
+{
+  "additionalItems": false,
+  "required": true,
+  "items": {
+    "id": "/items",
+    "properties": {
+      "name": {
+        "id": "/items/properties/name",
+        "required": true,
+        "type": "string"
+      },
+      "type": {
+        "id": "/items/properties/type",
+        "required": true,
+        "type": "string",
+        "enum": ["school", "company", "research", "other"]
+      },
+      "lat": {
+        "id": "/items/properties/lat",
+        "required": true,
+        "type": "number"
+      },
+      "long": {
+        "id": "/items/properties/long",
+        "required": true,
+        "type": "number"
+      },
+      "link": {
+        "id": "/items/properties/link",
+        "type": "string"
+      },
+      "desription": {
+        "id": "/items/properties/desription",
+        "type": "string"
+      },
+      "address": {
+        "id": "/items/properties/address",
+        "type": "string"
+      }
+    },
+    "type": "object"
+  },
+  "type": "array"
+}
