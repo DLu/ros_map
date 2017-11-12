@@ -55,6 +55,10 @@
    type: school
    long: 5.489841
    lat: 51.447744
+ - name: RUVU Behavior for Robots
+   type: company
+   long: 5.489828
+   lat: 51.447832
  - name: Robot Rose B.V.
    type: company
    long: 5.494894
