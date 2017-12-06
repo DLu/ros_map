@@ -434,3 +434,17 @@
    lat: 49.012120
    link: http://www.fzi.de/en/research/research-sectors/anwendungsfelder-en/afeld/automation-und-robotik/
    address: Karlsruhe, Germany
+ - name: Intermodalics
+   type: company
+   description: From Software to Robots
+   address: Gaston Geenslaan 9 B2 - Heverlee, Belgium
+   lat: 50.865348
+   long: 4.668766
+   link: http://www.intermodalics.eu/
+ - name: Pick-it N.V.
+   type: company
+   description: Robot Vision Made Easy
+   address: Gaston Geenslaan 9 B2 - Heverlee, Belgium
+   lat: 50.865348
+   long: 4.668832
+   link: https://www.pickit3d.com/
