@@ -302,6 +302,13 @@
    long: -70.664513
    link: http://rych.dcc.uchile.cl
    description: Lab on Robotics and Computation at the Computer Science Department (DCC) of the University of Chile
+ - name: Universidad de Ingeniería y Tecnología - UTEC
+   type: school
+   long: -77.021953
+   lat: -12.135038
+   link: https://www.utec.edu.pe/en
+   address: Jr. Medrano Silva 165, Barranco, Lima, Peru
+   description: Department of Electrical and Mechatronics Engineering
  - name: University At Albany
    type: school
    description: Social Robotics Lab at ILS
