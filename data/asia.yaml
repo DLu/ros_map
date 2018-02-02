@@ -118,3 +118,9 @@
    lat: 24.883874
    link: http://ejaadtech.com
    description: a hardware focused research and development firm, working on Robotic Platforms for different applications and use cases and organizations. Our focus is on robots with various sensors and actuators which can be controlled by tele-operation and are able to send back sensed data and form maps of unknown areas. Research is being done on making autonomous robots which move in collaboration with one another with one operator and multiple robots.
+ - name: ROBOTIS
+   type: company
+   address: No. 1505, 145, Gasan digital 1-ro, Geumcheon-gu, Seoul, Republic of Korea
+   long: 126.8917324
+   lat: 37.4769042
+   link: http://www.robotis.com/
