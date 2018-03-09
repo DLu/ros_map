@@ -458,3 +458,10 @@
    link: http://turing.galileo.edu
    address: Universidad Galileo 7a. Avenida, calle Dr. Eduardo Suger Cofiño, Zona 10, Guatemala, CA
    description: Turing Laboratory belongs to a new generation of Research and Development laboratories recently inaugurated in Galileo University to promote the development of Science and Technology.
+ - name: MetaMorph Inc.
+   type: company
+   lat: 36.148265
+   long: -86.793912
+   link: https://www.metamorphsoftware.com/
+   address: MetaMorph Inc., 49 Music Square West, Suite 210, Nashville, TN 37203
+   description: MetaMorph Inc. builds multi-domain engineering tools for the design and analysis of complex systems.
