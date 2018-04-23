@@ -306,7 +306,7 @@
    type: school
    lat: -12.999634
    long: -38.510301
-   link:http://www.eng.ufba.br/laboratorio-de-robotica-lar
+   link: http://www.eng.ufba.br/laboratorio-de-robotica-lar
    address: R. Prof. Aristídes Novis, 2 - Federação, Salvador - BA, 40210-630
    description: Federal University of Bahia - LAR, Robotics Lab
  - name: Universidad de Chile - Departamento de Ciencias de la Computación (DCC)
