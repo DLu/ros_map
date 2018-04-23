@@ -302,6 +302,13 @@
    link: http://www.ece.ufrgs.br
    address: Av. Osvaldo Aranha, 103 - Porto Alegre, RS 90035-190, Brazil
    description: Federal University of Rio Grande do Sul - Control, Automation and Robotics Group
+ - name: Universidade Federal da Bahia
+   type: school
+   lat: -12.999634
+   long: -38.510301
+   link:http://www.eng.ufba.br/laboratorio-de-robotica-lar
+   address: R. Prof. Aristídes Novis, 2 - Federação, Salvador - BA, 40210-630
+   description: Federal University of Bahia - LAR, Robotics Lab
  - name: Universidad de Chile - Departamento de Ciencias de la Computación (DCC)
    type: school
    lat: -33.457410
