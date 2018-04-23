@@ -24,6 +24,12 @@
    description: ROS hobbyist
    long: -122.318
    lat: 37.942
+ - name: BIR-Senai CIMATEC
+   type: research institute
+   description: Brazilian Institute of Robotics, develp projects in robotcs for industry
+   long: -38.385908
+   lat: -12.937943
+   address: Av. Orlando Gomes, 1845 - Piatã, Salvador - BA, 41650-010
  - name: Blue River Technology
    type: company
    address: 355 E Middlefield Rd, Mountain View, CA 94043
