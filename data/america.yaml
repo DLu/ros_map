@@ -295,6 +295,13 @@
    type: school
    long: -118.285128
    lat: 34.022329
+ - name: Universidade Federal de Uberlandia
+   type: school
+   lat: -18.918222
+   long: -48.258170
+   link: http://www.ufu.br/
+   address: Av. Joao Naves de Avila, 2121 - Santa Monica, Uberlandia - MG, 38400-902, Brazil
+   description: Federal University of Uberlandia - EDROM Robotics Team, Laboratory of Autonomous Aircrafts
  - name: Universidade Federal do Rio Grande do Sul - Grupo de Controle, Automacao e Robotica
    type: school
    lat: -30.032393
