@@ -47,6 +47,13 @@
    long: -79.9766498
    lat: 40.4573096
    link: http://bnrobotics.com
+ - name: Brisa Robotics
+   type: company
+   address: Avenida A, 4165 - Novo Mundo Empresarial, PE, 54522-005
+   long: -8.253074
+   lat: -34.947365
+   link: https://brisa.tech
+   description: Robotics and Autonomous Systems Company. Serving companies worldwide from the Brazilian Northeast
  - name: Brown University
    type: school
    long: -71.402556
