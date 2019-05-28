@@ -14,7 +14,6 @@
         width: 80%;
         position: absolute;
         right: 0%
-
       }
       #text {
         height: 100%;
@@ -30,19 +29,13 @@
       }
     </style>
     <script src="http://www.metrorobots.com/analytics.js" ></script>
-    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAq02Y_R42xhDQa4n4Fr_9H3M_az7XO4gM&callback=initialize"></script>
     <script>
         function initialize() {
-          
-          var map = new google.maps.Map(document.getElementById('map-canvas'));
-
-          var ctaLayer = new google.maps.KmlLayer({
-             url: 'http://metrorobots.com/scripts/generate_kml.py'
-          });
-          ctaLayer.setMap(map);
+          var map = new google.maps.Map(document.getElementById('map-canvas'), {zoom: 2, center: {lat: 0, lng: 140}});
+          new google.maps.KmlLayer('http://metrorobots.com/scripts/generate_kml.py',
+                                   {preserveViewport: true, map: map});
         }
-
-        google.maps.event.addDomListener(window, 'load', initialize);
     </script>
     <!-- add jQuery -->
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
