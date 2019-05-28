@@ -182,9 +182,9 @@
  - name: NFM Robotics
    type: company
    description: Robotics, Automation and Control
-   long: -77.0919606 
+   long: -77.0919606
    lat: -12.0551385
-   link: http://nfmrobotics.com  
+   link: http://nfmrobotics.com
  - name: Northwestern University
    type: school
    description: NxR lab

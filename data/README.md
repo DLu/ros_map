@@ -1,4 +1,4 @@
-To add or edit a location, you can directly edit the corresponding yaml file using the github web interface. Click the pencil icon to edit. 
+To add or edit a location, you can directly edit the corresponding yaml file using the github web interface. Click the pencil icon to edit.
 
 Current required fields are:
  * name
@@ -11,6 +11,6 @@ You may also add:
  * description
  * address
 
-Possible sources for lat/long information are: 
+Possible sources for lat/long information are:
  * http://itouchmap.com/latlong.html (enter your location manually)
  * http://locationdetection.mobi/ (use your browser's location)
