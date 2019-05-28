@@ -78,7 +78,7 @@
    lat: 43.149094
  - name: University of Basque Country
    type: school
-   desription: Robotics and Autonomous Systems Group
+   description: Robotics and Autonomous Systems Group
    link: http://www.sc.ehu.es/ccwrobot
    long: -2.010857
    lat: 43.307137
@@ -184,12 +184,12 @@
    lat: 53.148739
    link: http://www.offis.de
  - name: OpenRobotino
-   type: null
+   type: company
    address: "85748 Garching bei M\xFCnchen, Germany"
    long: 11.645508
    lat: 48.261256
  - name: Ottiolu OT
-   type: null
+   type: other
    description: Italy
    long: 9.707941
    lat: 40.737367
@@ -239,7 +239,7 @@
    long: 16.368586
    lat: 48.198716
  - name: Tecnalia
-   type: null
+   type: company
    long: -1.977539
    lat: 43.277205
  - name: The Shadow Robot Company
@@ -320,7 +320,7 @@
    lat: 48.525059
    link: http://www.cogsys.cs.uni-tuebingen.de/
    description: Department of Cognitive Systems
-   adress: Sand 1, 72076 T\xFCbingen, Germany
+   address: Sand 1, 72076 T\xFCbingen, Germany
  - name: University of Ulster
    type: school
    long: -5.95459
@@ -355,7 +355,7 @@
    lat: 53.59870
    link: http://tams.informatik.uni-hamburg.de/ https://github.com/TAMS-Group
  - name: Officine Robotiche
-   type: Robotics Enthusiasts Association
+   type: other
    address: Rome, Italy
    long: 12.5359979
    lat: 41.9100711

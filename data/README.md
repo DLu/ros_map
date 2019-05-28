@@ -4,7 +4,7 @@ Current required fields are:
  * name
  * lat
  * long
- * type (school, company, or other)
+ * type (`school`, `company`, `research institute`, or `other`)
 
 You may also add:
  * link

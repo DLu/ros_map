@@ -10,13 +10,13 @@
    long: 116.191406
    lat: 39.97712
  - name: Cogniteam
-   type: null
+   type: company
    address: Shoam 7 Petah Tikva, Israel
    long: 34.858295
    lat: 32.090508
    link: https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=32.090508,34.858295&thumb=0
  - name: Intelligent Systems Group, AIST
-   type: null
+   type: research institute
    long: 140.135379
    lat: 36.061416
  - name: JSK Lab at U-Tokyo
@@ -44,7 +44,7 @@
    long: 101.600758
    lat: 3.064246
  - name: OTL
-   type: null
+   type: other
    long: 136.757813
    lat: 35.029996
  - name: Okuno lab, Kyoto U. (HARK)
@@ -58,13 +58,13 @@
    long: 46.701111
    lat: 24.736410
  - name: Taylor Veltrop
-   type: null
+   type: other
    address: Japan
    long: 141.679688
    lat: 35.532226
    link: http://cbk0.google.com/cbk?output=thumbnail&w=90&h=68&ll=35.741974,139.783696&thumb=0
  - name: Tokyo Opensource Robotics Kyokai Association
-   type: null
+   type: other
    address: Bunkyo Ward, Japan
    long: 139.768453
    lat: 35.706447

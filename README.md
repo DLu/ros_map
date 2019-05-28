@@ -4,9 +4,6 @@
 Master branch :
 [![Build Status](https://travis-ci.org/DLu/ros_map.svg?branch=master)](https://travis-ci.org/DLu/ros_map)
 
-Travis branch :
-[![Build Status](https://travis-ci.org/DLu/ros_map.svg?branch=travis)](https://travis-ci.org/DLu/ros_map)
-
 To add to the map, see the [README in the data folder](data/README.md).
 
 You can see the map at [http://metrorobots.com/rosmap.html](http://metrorobots.com/rosmap.html).

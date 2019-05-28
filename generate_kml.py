@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 from xml.dom.minidom import Document
-from yaml import load
+import yaml
 import argparse
 import requests
 dom = Document()
@@ -30,20 +30,38 @@ def data_element(name, value):
     return data
 
 
-def create_folder(name, data):
+def create_folder(name, data, verbose=False):
+    if verbose:
+        print('===== %s =====' % name)
     f = dom.createElement('Folder')
     f.appendChild(text_element('name', name))
     for place in data:
         p = dom.createElement('Placemark')
+        if verbose:
+            if 'name' not in place:
+                print('Field name not defined for the following entry:')
+                print(yaml.dump(place))
+            else:
+                missing_keys = set(['lat', 'long', 'type']) - set(place.keys())
+                if missing_keys:
+                    print('Field(s) %s not defined for %s' % (', '.join(missing_keys), place['name']))
+                elif not place['type'] or place['type'] not in STYLES:
+                    print('Type %s not standard for %s' % (place['type'], place['name']))
+
+                weird_keys = set(place.keys()) - set(['lat', 'long', 'name', 'type', 'link', 'description', 'address'])
+                if weird_keys:
+                    print('Weird key(s) %s for %s' % (', '.join(weird_keys), place['name']))
+
+
         tipo = place.get('type', None)
         if tipo == 'null' or tipo not in STYLES:
             tipo = None
 
         p.appendChild(text_element('styleUrl', '#%s' % str(tipo)))
-        p.appendChild(text_element('name', place['name']))
+        p.appendChild(text_element('name', place.get('name', '')))
 
         edata = dom.createElement('ExtendedData')
-        edata.appendChild(data_element('type', place['type']))
+        edata.appendChild(data_element('type', tipo))
         if 'link' in place:
             edata.appendChild(data_element('gx_media_links', place['link']))
 
@@ -92,16 +110,17 @@ document.appendChild(text_element('description', 'ROS Users of the World', True)
 parser = argparse.ArgumentParser()
 parser.add_argument('input_yaml', nargs='*')
 parser.add_argument('-o', '--output')
+parser.add_argument('-v', '--verbose', action='store_true')
 args = parser.parse_args()
 
 if len(args.input_yaml) == 0:
     for region in REGIONS:
         url = PATTERN % region
         resp = requests.get(url)
-        document.appendChild(create_folder('ROS Users (%s)' % region.capitalize(), load(resp.text)))
+        document.appendChild(create_folder('ROS Users (%s)' % region.capitalize(), yaml.load(resp.text)))
 else:
     for fn in args.input_yaml:
-        document.appendChild(create_folder(fn, load(open(fn))))
+        document.appendChild(create_folder(fn, yaml.load(open(fn)), args.verbose))
 
 for style, color in STYLES.iteritems():
     document.appendChild(create_style(style, color))
