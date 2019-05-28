@@ -1,3 +1,4 @@
 yamllint
 pyyaml
-urllib2
+requests
+argparse
