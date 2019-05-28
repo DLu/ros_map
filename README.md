@@ -1,15 +1,12 @@
 # ROS Map
-___
-### lists all the ROS users arround the globe
+### lists all the ROS users around the globe
 
 Master branch :
 [![Build Status](https://travis-ci.org/DLu/ros_map.svg?branch=master)](https://travis-ci.org/DLu/ros_map)
 
-
-travis branch :
+Travis branch :
 [![Build Status](https://travis-ci.org/DLu/ros_map.svg?branch=travis)](https://travis-ci.org/DLu/ros_map)
 
-
-For doing addition to map, check the README.md in data folder of this repository.
+To add to the map, see the [README in the data folder](data/README.md).
 
 You can see the map at [http://metrorobots.com/rosmap.html](http://metrorobots.com/rosmap.html).

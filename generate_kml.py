@@ -1,10 +1,9 @@
 #!/usr/bin/python
 
-from xml.dom.minidom import parse, Document
+from xml.dom.minidom import Document
 from yaml import load
-from os.path import split, splitext
-import sys
-import urllib2
+import argparse
+import requests
 dom = Document()
 
 STYLES = {'school': '44AF62', 'company': 'F08641', 'other': '5EDDFF', None: 'FFFFFF', 'research institute': '3644DB'}
@@ -90,26 +89,26 @@ root.appendChild(document)
 document.appendChild(text_element('name', 'ROS Users of the World'))
 document.appendChild(text_element('description', 'ROS Users of the World', True))
 
-files = [arg for arg in sys.argv[1:] if 'yaml' in arg]
-kml = [arg for arg in sys.argv[1:] if 'kml' in arg]
+parser = argparse.ArgumentParser()
+parser.add_argument('input_yaml', nargs='*')
+parser.add_argument('-o', '--output')
+args = parser.parse_args()
 
-if len(files) == 0:
+if len(args.input_yaml) == 0:
     for region in REGIONS:
-        key = region.capitalize()
         url = PATTERN % region
-        stream = urllib2.urlopen(url)
-        document.appendChild(create_folder('ROS Users (%s)' % key, load(stream)))
+        resp = requests.get(url)
+        document.appendChild(create_folder('ROS Users (%s)' % region.capitalize(), load(resp.text)))
 else:
-    for fn in files:
+    for fn in args.input_yaml:
         document.appendChild(create_folder(fn, load(open(fn))))
 
 for style, color in STYLES.iteritems():
     document.appendChild(create_style(style, color))
 
-if len(kml) > 0:
-    f = open(kml[0], 'w')
-    f.write(dom.toprettyxml())
-    f.close()
+if args.output:
+    with open(args.output, 'w') as f:
+        f.write(dom.toprettyxml())
 else:
     print("Content-type: text/xml")
     print()
