@@ -124,9 +124,9 @@
    long: 126.8917324
    lat: 37.4769042
    link: http://www.robotis.com/
- - name: Tectus Dreamlab Pte Ltd
+ - name: "Tectus Dreamlab Pte Ltd"
    type: company
-   address: 1 Fusionopolis Way, Connexis South Tower #20-03, Singapore 138632
+   address: "1 Fusionopolis Way, Connexis South Tower #20-03, Singapore 138632"
    long: 103.85007
    lat: 1.28967
    link: https://tectusdreamlab.com
