@@ -265,6 +265,12 @@
    type: school
    long: 4.413
    lat: 51.2247
+ - name: MASCOR Institute at University of Applied Sciences (FH Aachen)
+   type: research institute
+   long: 6.074586
+   lat: 50.761113
+   link: https://www.maskor.fh-aachen.de/en/
+   description: Research in Mobile Autonomous Systems and Cognitive Robotics
  - name: University of Birmingham
    type: school
    long: -1.935836
