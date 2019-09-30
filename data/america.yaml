@@ -1,494 +1,508 @@
- - name: Adept MobileRobots
-   type: company
-   lat: 42.806964
-   long: -71.579460
-   link: http://www.mobilerobots.com
- - name: Aptima Inc
-   type: company
-   long: -71.146265
-   lat: 42.508202
- - name: Arizona State University (Tempe)
-   lat: 33.4172
-   long: -111.9365
-   type: school
-   link: http://faculty.engineering.asu.edu/acs/
-   description: Autonomous Collective Systems Lab
- - name: Auburn University
-   type: school
-   address: Auburn, AL
-   long: -85.385742
-   lat: 32.62087
-   link: http://farm5.static.flickr.com/4056/4656040327_4c6acbd499_z.jpg
- - name: Bill Mania
-   type: other
-   description: ROS hobbyist
-   long: -122.318
-   lat: 37.942
- - name: BIR-Senai CIMATEC
-   type: research institute
-   description: Brazilian Institute of Robotics, develp projects in robotcs for industry
-   long: -38.385908
-   lat: -12.937943
-   address: Av. Orlando Gomes, 1845 - Piatã, Salvador - BA, 41650-010
- - name: Blue River Technology
-   type: company
-   address: 355 E Middlefield Rd, Mountain View, CA 94043
-   long: -122.057959
-   lat: 37.396670
-   link: http://www.bluerivert.com/
- - name: Bosch Research
-   type: company
-   address: Palo Alto, CA
-   long: -122.136973
-   lat: 37.400595
- - name: Bossa Nova Robotics
-   type: company
-   address: 2740 Smallman St Suite 400, Pittsburgh, PA 15222
-   long: -79.9766498
-   lat: 40.4573096
-   link: http://bnrobotics.com
- - name: Brisa Robotics
-   type: company
-   address: Avenida A, 4165 - Novo Mundo Empresarial, PE, 54522-005
-   long: -8.253074
-   lat: -34.947365
-   link: https://brisa.tech
-   description: Robotics and Autonomous Systems Company. Serving companies worldwide from the Brazilian Northeast
- - name: Brown University
-   type: school
-   long: -71.402556
-   lat: 41.826777
- - name: CMU
-   type: school
-   long: -79.942875
-   lat: 40.441852
- - name: Case Western Reserve University
-   type: school
-   long: -81.606004
-   lat: 41.510661
- - name: Centro Universitario da FEI
-   type: school
-   long: -42.890625
-   lat: -21.943046
-   link: www.fei.edu.br
- - name: Charles River Analytics
-   type: company
-   address: Cambridge, MA
-   long: -71.146505
-   lat: 42.375299
-   link: www.cra.com
- - name: Clearpath Robotics
-   type: company
-   address: 1425 Strasburg Rd. Suite 2A, Kitchener, ON N2R1H2
-   long: -80.4710473
-   lat: 43.4035229
- - name: Columbia University
-   type: school
-   long: -73.962573
-   lat: 40.807536
- - name: Dataspeed Inc.
-   type: company
-   address: 5800 Crooks Road, Troy, MI 48098
-   long: -83.167906
-   lat: 42.603594
-   link: http://dataspeedinc.com/
- - name: DPRG (Dallas Personal Robotics Group)
-   type: other
-   long: -96.887569
-   lat: 32.899552
- - name: Falkor Systems
-   type: company
-   description: Falkor Systems, Inc.
-   long: -71.323242
-   lat: 38.85682
- - name: Fetch Robotics
-   type: company
-   long: -121.533867
-   lat: 37.234893
-   link: http://www.fetchrobotics.com
- - name: Georgia Institute of Technology
-   description: The Georgia Institute of Technology is a leading research university committed to improving the human condition through advanced science and technology.
-   link: http://www.gatech.edu
-   type: school
-   long: -84.396262
-   lat: 33.775597
- - name: HERE Reality Capture and Processing
-   type: company
-   lat: 37.869
-   long: -122.268
- - name: Intel Labs Seattle
-   type: company
-   long: -122.316287
-   lat: 47.661516
- - name: Intelligrated
-   type: company
-   description: Alvey Robotics from Intelligrated. We provide integrated robotic material handling systems including system design, fabrication, installation, commissioning, and after-sales customer support.
-   long: -90.368617
-   lat: 38.674264
- - name: James Ronald
-   type: other
-   description: TurtleBot / ROS
-   long: -83.916321
-   lat: 42.57331
- - name: Johns Hopkins University
-   type: school
-   description: Laboratory for Computational Sensing and Robotics
-   long: -76.620939
-   lat: 39.326815
-   link: http://www.lcsr.jhu.edu
- - name: Kavraki Lab, Rice University
-   type: school
-   long: -95.400124
-   lat: 29.718303
- - name: Lunan Design Studio
-   lat: 43.899025
-   long: -79.248394
-   type: other
-   description: Turtlebot/ROS/Linux and Arduino based Robotics
- - name: Maidbot
-   type: company
-   long: -97.7870468
-   lat: 30.1715556
-   link: http://www.maidbot.co
- - name: Mark Silliman
-   type: other
-   description: Passionate developer
-   long: -121.30000
-   lat: 44.0500
-   link: http://learn.turtlebot.com
- - name: Massachusetts Institute of Technology
-   type: school
-   long: -71.09416
-   lat: 42.360091
- - name: Matt Bell
-   type: other
-   long: -127.705078
-   lat: 37.439974
-   link: http://mattishere.wordpress.com/
- - name: Meka Robotics
-   type: company
-   address: 255 Potrero Ave, San Francisco, CA 94103
-   long: -122.407133
-   lat: 37.766384
- - name: Michael Sprague
-   type: other
-   long: -82.704450
-   lat: 35.542698
-   link: https://github.com/MichaelSprague
- - name: Michigan Tech Robotics Lab
-   type: school
-   long: -88.544531
-   lat: 47.117051
- - name: NFM Robotics
-   type: company
-   description: Robotics, Automation and Control
-   long: -77.0919606
-   lat: -12.0551385
-   link: http://nfmrobotics.com
- - name: Northwestern University
-   type: school
-   description: NxR lab
-   long: -87.676156
-   lat: 42.058438
-   link: http://nxr.northwestern.edu/
- - name: Open Source Robotics Foundation
-   type: company
-   address: 170 S Whisman Rd, Building D, Suite A, Mountain View, CA 94041
-   long: -122.065122
-   lat: 37.387777
- - name: Oakland University
-   type: school
-   address: 2200 N. Squirrel Road, Rochester, Michigan 48309
-   long: -83.215092
-   lat: 42.671780
-   link: http://secs.oakland.edu/
- - name: Oregon State University
-   type: school
-   long: -123.275528
-   lat: 44.567365
-   link: http://robotics.oregonstate.edu
- - name: Rethink Robotics
-   type: company
-   address: 27 Wormwood St, Boston, MA, USA 02210
-   long: -71.049622
-   lat: 42.346910
-   link: http://www.rethinkrobotics.com
- - name: RobotAppStore
-   type: company
-   address: 50 California St. Suite 1500 15th Floor San Francisco, CA USA, 94111
-   long: -122.397369
-   lat: 37.79406
-   link: http://www.RobotAppStore.com
- - name: ROS Edmonton
-   type: other
-   address: 10359 104 St NW, Edmonton, AB T5J 1B9
-   long: -113.498983
-   lat: 53.545782
-   link: http://rosedmonton.org
- - name: San Pablo Catholic University
-   type: school
-   lat: -16.4050676
-   long: -71.5398246
-   description: Laboratorio de Robotica y Vision Artificial (LARVIC)
-   link: http://ucsp.edu.pe/robotica/
- - name: Savioke
-   type: company
-   lat: 37.3744017
-   long: -121.9954814
-   address: 2900 Gordon Ave, Santa Clara, CA 95051
-   link: http://www.savioke.com/
- - name: SUNY New Paltz Robotics Club
-   type: school
-   long: -74.082098
-   lat: 41.74089
- - name: Southern Illinois University
-   type: school
-   long: -89.571533
-   lat: 37.709899
- - name: Southern Illinois University Edwardsville
-   type: school
-   address: 1 Hairpin Dr, Edwardsville, IL 62025
-   long: -89.956055
-   lat: 38.822591
-   link: http://cbk0.google.com/cbk?output=thumbnail&w=90&h=68&ll=38.796748,-89.999270&thumb=0
- - name: Southwest Research Institute
-   type: company
-   long: -98.610176
-   lat: 29.452198
-   link: http://www.swri.org
- - name: Stanford University
-   type: school
-   long: -122.1703835
-   lat: 37.4249378
- - name: The City College of New York
-   type: school
-   long: -73.949272
-   lat: 40.820047
- - name: Toyota InfoTech
-   type: company
-   long: -122.049415
-   lat: 37.38905
- - name: Toyota Partner Robot Group (TEMA)
-   type: company
-   long: -121.920166
-   lat: 37.384419
-   link: http://www.toyota-global.com/innovation/partner_robot/family_2.html
- - name: Trossen Robotics Community
-   type: other
-   description: TRC ROS Forums!
-   long: -88.051423
-   lat: 41.792409
-   link: http://forums.trossenrobotics.com/forumdisplay.php?f=137
- - name: U. Texas at Arlington (UTARI, NextGen Lab)
-   type: school
-   long: -97.113562
-   lat: 32.733177
- - name: U. Texas at Dallas
-   type: school
-   long: -96.750154
-   lat: 32.988004
- - name: UC Berkeley
-   type: school
-   description: Hybrid Systems Lab / Robotics Learning Lab
-   long: -122.257748
-   lat: 37.875045
-   link: http://hybrid.eecs.berkeley.edu
- - name: UC Davis
-   type: school
-   description: Bio-Automation Lab
-   long: -121.753083
-   lat: 38.536964
- - name: USC
-   type: school
-   long: -118.285128
-   lat: 34.022329
- - name: Universidade Federal de Uberlandia
-   type: school
-   lat: -18.918222
-   long: -48.258170
-   link: http://www.ufu.br/
-   address: Av. Joao Naves de Avila, 2121 - Santa Monica, Uberlandia - MG, 38400-902, Brazil
-   description: Federal University of Uberlandia - EDROM Robotics Team, Laboratory of Autonomous Aircrafts
- - name: Universidade Federal do Rio Grande do Sul - Grupo de Controle, Automacao e Robotica
-   type: school
-   lat: -30.032393
-   long: -51.220724
-   link: http://www.ece.ufrgs.br
-   address: Av. Osvaldo Aranha, 103 - Porto Alegre, RS 90035-190, Brazil
-   description: Federal University of Rio Grande do Sul - Control, Automation and Robotics Group
- - name: Universidade Federal da Bahia
-   type: school
-   lat: -12.999634
-   long: -38.510301
-   link: http://www.eng.ufba.br/laboratorio-de-robotica-lar
-   address: R. Prof. Aristídes Novis, 2 - Federação, Salvador - BA, 40210-630
-   description: Federal University of Bahia - LAR, Robotics Lab
- - name: Universidad de Chile - Departamento de Ciencias de la Computación (DCC)
-   type: school
-   lat: -33.457410
-   long: -70.664513
-   link: http://rych.dcc.uchile.cl
-   description: Lab on Robotics and Computation at the Computer Science Department (DCC) of the University of Chile
- - name: Universidad de Ingenieria y Tecnologia - UTEC
-   type: school
-   long: -77.021953
-   lat: -12.135038
-   link: https://www.utec.edu.pe/en
-   address: Jr. Medrano Silva 165, Barranco, Lima, Peru
-   description: Department of Electrical and Mechatronics Engineering
- - name: University At Albany
-   type: school
-   description: Social Robotics Lab at ILS
-   long: -73.822852
-   lat: 42.686744
-   link: http://robotics.ils.albany.edu
- - name: University of Alberta
-   type: school
-   long: -113.526298
-   lat: 53.523200
- - name: University Of British Columbia
-   type: school
-   long: -123.123962
-   lat: 49.262304
- - name: University of Arizona
-   type: school
-   long: -110.95639
-   lat: 32.237788
- - name: University of Colorado
-   type: school
-   long: -105.336914
-   lat: 40.010787
- - name: University of Maryland
-   type: school
-   long: -76.959229
-   lat: 38.993572
- - name: University of Massachusetts- Lowell
-   type: school
-   long: -71.33419
-   lat: 42.643866
- - name: 'University of Nevada, Reno'
-   type: school
-   long: -119.813636
-   lat: 39.539755
- - name: 'University of Pennsylvania'
-   type: school
-   long: -75.193214
-   lat: 39.952219
- - name: 'University of Texas At Austin: University of Texas Press'
-   type: school
-   long: -97.733523
-   lat: 30.285028
- - name: University of Texas El Paso
-   type: school
-   address: '500 W University Ave # 210, El Paso, TX 79902'
-   long: -106.490479
-   lat: 31.774878
-   link: http://cbk0.google.com/cbk?output=thumbnail&w=90&h=68&ll=31.774245,-106.501341&thumb=0
- - name: University of Toronto Institute for Aerospace Studies
-   type: school
-   long: -79.365234
-   lat: 43.771094
- - name: University of Waterloo
-   type: school
-   long: -80.540299
-   lat: 43.468992
- - name: Vanderbilt University
-   type: school
-   long: -86.803964
-   lat: 36.144703
- - name: WPI
-   type: school
-   long: -71.805976
-   lat: 42.273856
- - name: Washington University in St. Louis
-   type: school
-   long: -90.3079605102539
-   lat: 38.64878543146582
- - name: Willow Garage
-   type: company
-   address: 68 Willow Rd, Menlo Park, CA 94025
-   long: -122.166359
-   lat: 37.452291
- - name: Wunderkammer Laboratory
-   type: company
-   description: Technology research and development company
-   address: "6433 Topanga Canyon Blvd., #543, Canoga Park, CA 91303"
-   link: http://www.wunderkammerlab.com
-   long: -118.606231
-   lat: 34.187783
- - name: iheartengineering
-   type: company
-   long: -74.008192
-   lat: 40.6574837
- - name: "Universit\xE9 de Sherbrooke"
-   type: school
-   description: IntRoLab Laboratory
-   link: https://introlab.3it.usherbrooke.ca/
-   long: -71.942479
-   lat: 45.378602
- - name: "\xC9cole de technologie sup\xE9rieure"
-   type: school
-   address: "1100, rue Notre-Dame Ouest (angle Peel) Montr\xE9al (Qu\xE9bec) H3C 1K3"
-   long: -73.562855
-   lat: 45.494984
- - name: "Laval University"
-   type: school
-   address: "2325 de l'Universite, Quebec, QC G1V 0A6"
-   long: -71.275375
-   lat: 46.780019
- - name: Universidad del Valle
-   description: School of Electric and Electronics Engineering
-   type: school
-   lat: 3.374412
-   long: -76.533852
-   link: www.univalle.edu.co, eiee.univalle.edu.co
-   address: "Calle 13 # 100-00"
- - name: Universidade Federal do Rio Grande
-   description: Grupo de Automação e Robótica Inteligente
-   type: school
-   lat: -32.070143
-   long: -52.165715
-   link: www.furg.br
- - name: Universidad del Valle de Mexico Campus Guadalajara Sur
-   description: School of Mechatronics Engineering
-   type: school
-   lat: 20.607841
-   long: -103.409135
-   link: http://www.uvmmexico.mx/campus/campus-guadalajara-sur/
- - name: Gary Servin
-   description: ROS padawan
-   type: other
-   lat: -25.290569
-   long: -57.629539
-   link: https://github.com/garyservin
- - name: Atom
-   description: ROS Junkie
-   type: other
-   lat: 38.628888
-   long: -90.270480
-   link: https://github.com/Atom-machinerule
- - name: James Madison University
-   type: school
-   long: -78.863184
-   lat: 38.434082
- - name: Ekumen
-   type: company
-   lat: -34.583067
-   long: -58.446311
-   link: http://www.ekumenlabs.com/
-   address: Concepción Arenal 3425, Ciudad Autónoma de Buenos Aires
-   description: International engineering boutique, provider of advanced software development services and technology.
- - name: Turing Laboratory, Universidad Galileo
-   type: school
-   lat: 14.609785
-   long: -90.505718
-   link: http://turing.galileo.edu
-   address: Universidad Galileo 7a. Avenida, calle Dr. Eduardo Suger Cofiño, Zona 10, Guatemala, CA
-   description: Turing Laboratory belongs to a new generation of Research and Development laboratories recently inaugurated in Galileo University to promote the development of Science and Technology.
- - name: MetaMorph Inc.
-   type: company
-   lat: 36.148265
-   long: -86.793912
-   link: https://www.metamorphsoftware.com/
-   address: MetaMorph Inc., 49 Music Square West, Suite 210, Nashville, TN 37203
-   description: MetaMorph Inc. builds multi-domain engineering tools for the design and analysis of complex systems.
+- name: Adept MobileRobots
+  type: company
+  lat: 42.806964
+  long: -71.57946
+  link: http://www.mobilerobots.com
+- name: Aptima Inc
+  type: company
+  lat: 42.508202
+  long: -71.146265
+- name: Arizona State University (Tempe)
+  type: school
+  lat: 33.4172
+  long: -111.9365
+  description: Autonomous Collective Systems Lab
+  link: http://faculty.engineering.asu.edu/acs/
+- name: Atom
+  type: other
+  lat: 38.628888
+  long: -90.27048
+  description: ROS Junkie
+  link: https://github.com/Atom-machinerule
+- name: Auburn University
+  type: school
+  lat: 32.62087
+  long: -85.385742
+  address: Auburn, AL
+  link: http://farm5.static.flickr.com/4056/4656040327_4c6acbd499_z.jpg
+- name: BIR-Senai CIMATEC
+  type: research institute
+  lat: -12.937943
+  long: -38.385908
+  address: Av. Orlando Gomes, 1845 - Piatã, Salvador - BA, 41650-010
+  description: Brazilian Institute of Robotics, develp projects in robotcs for industry
+- name: Bill Mania
+  type: other
+  lat: 37.942
+  long: -122.318
+  description: ROS hobbyist
+- name: Blue River Technology
+  type: company
+  lat: 37.39667
+  long: -122.057959
+  address: 355 E Middlefield Rd, Mountain View, CA 94043
+  link: http://www.bluerivert.com/
+- name: Bosch Research
+  type: company
+  lat: 37.400595
+  long: -122.136973
+  address: Palo Alto, CA
+- name: Bossa Nova Robotics
+  type: company
+  lat: 40.4573096
+  long: -79.9766498
+  address: 2740 Smallman St Suite 400, Pittsburgh, PA 15222
+  link: http://bnrobotics.com
+- name: Brisa Robotics
+  type: company
+  lat: -34.947365
+  long: -8.253074
+  address: Avenida A, 4165 - Novo Mundo Empresarial, PE, 54522-005
+  description: Robotics and Autonomous Systems Company. Serving companies worldwide
+    from the Brazilian Northeast
+  link: https://brisa.tech
+- name: Brown University
+  type: school
+  lat: 41.826777
+  long: -71.402556
+- name: CMU
+  type: school
+  lat: 40.441852
+  long: -79.942875
+- name: Case Western Reserve University
+  type: school
+  lat: 41.510661
+  long: -81.606004
+- name: Centro Universitario da FEI
+  type: school
+  lat: -21.943046
+  long: -42.890625
+  link: www.fei.edu.br
+- name: Charles River Analytics
+  type: company
+  lat: 42.375299
+  long: -71.146505
+  address: Cambridge, MA
+  link: www.cra.com
+- name: Clearpath Robotics
+  type: company
+  lat: 43.4035229
+  long: -80.4710473
+  address: 1425 Strasburg Rd. Suite 2A, Kitchener, ON N2R1H2
+- name: Columbia University
+  type: school
+  lat: 40.807536
+  long: -73.962573
+- name: DPRG (Dallas Personal Robotics Group)
+  type: other
+  lat: 32.899552
+  long: -96.887569
+- name: Dataspeed Inc.
+  type: company
+  lat: 42.603594
+  long: -83.167906
+  address: 5800 Crooks Road, Troy, MI 48098
+  link: http://dataspeedinc.com/
+- name: Ekumen
+  type: company
+  lat: -34.583067
+  long: -58.446311
+  address: Concepción Arenal 3425, Ciudad Autónoma de Buenos Aires
+  description: International engineering boutique, provider of advanced software development
+    services and technology.
+  link: http://www.ekumenlabs.com/
+- name: Falkor Systems
+  type: company
+  lat: 38.85682
+  long: -71.323242
+  description: Falkor Systems, Inc.
+- name: Fetch Robotics
+  type: company
+  lat: 37.234893
+  long: -121.533867
+  link: http://www.fetchrobotics.com
+- name: Gary Servin
+  type: other
+  lat: -25.290569
+  long: -57.629539
+  description: ROS padawan
+  link: https://github.com/garyservin
+- name: Georgia Institute of Technology
+  type: school
+  lat: 33.775597
+  long: -84.396262
+  description: The Georgia Institute of Technology is a leading research university
+    committed to improving the human condition through advanced science and technology.
+  link: http://www.gatech.edu
+- name: HERE Reality Capture and Processing
+  type: company
+  lat: 37.869
+  long: -122.268
+- name: Intel Labs Seattle
+  type: company
+  lat: 47.661516
+  long: -122.316287
+- name: Intelligrated
+  type: company
+  lat: 38.674264
+  long: -90.368617
+  description: Alvey Robotics from Intelligrated. We provide integrated robotic material
+    handling systems including system design, fabrication, installation, commissioning,
+    and after-sales customer support.
+- name: James Madison University
+  type: school
+  lat: 38.434082
+  long: -78.863184
+- name: James Ronald
+  type: other
+  lat: 42.57331
+  long: -83.916321
+  description: TurtleBot / ROS
+- name: Johns Hopkins University
+  type: school
+  lat: 39.326815
+  long: -76.620939
+  description: Laboratory for Computational Sensing and Robotics
+  link: http://www.lcsr.jhu.edu
+- name: Kavraki Lab, Rice University
+  type: school
+  lat: 29.718303
+  long: -95.400124
+- name: Laval University
+  type: school
+  lat: 46.780019
+  long: -71.275375
+  address: 2325 de l'Universite, Quebec, QC G1V 0A6
+- name: Lunan Design Studio
+  type: other
+  lat: 43.899025
+  long: -79.248394
+  description: Turtlebot/ROS/Linux and Arduino based Robotics
+- name: Maidbot
+  type: company
+  lat: 30.1715556
+  long: -97.7870468
+  link: http://www.maidbot.co
+- name: Mark Silliman
+  type: other
+  lat: 44.05
+  long: -121.3
+  description: Passionate developer
+  link: http://learn.turtlebot.com
+- name: Massachusetts Institute of Technology
+  type: school
+  lat: 42.360091
+  long: -71.09416
+- name: Matt Bell
+  type: other
+  lat: 37.439974
+  long: -127.705078
+  link: http://mattishere.wordpress.com/
+- name: Meka Robotics
+  type: company
+  lat: 37.766384
+  long: -122.407133
+  address: 255 Potrero Ave, San Francisco, CA 94103
+- name: MetaMorph Inc.
+  type: company
+  lat: 36.148265
+  long: -86.793912
+  address: MetaMorph Inc., 49 Music Square West, Suite 210, Nashville, TN 37203
+  description: MetaMorph Inc. builds multi-domain engineering tools for the design
+    and analysis of complex systems.
+  link: https://www.metamorphsoftware.com/
+- name: Michael Sprague
+  type: other
+  lat: 35.542698
+  long: -82.70445
+  link: https://github.com/MichaelSprague
+- name: Michigan Tech Robotics Lab
+  type: school
+  lat: 47.117051
+  long: -88.544531
+- name: NFM Robotics
+  type: company
+  lat: -12.0551385
+  long: -77.0919606
+  description: Robotics, Automation and Control
+  link: http://nfmrobotics.com
+- name: Northwestern University
+  type: school
+  lat: 42.058438
+  long: -87.676156
+  description: NxR lab
+  link: http://nxr.northwestern.edu/
+- name: Oakland University
+  type: school
+  lat: 42.67178
+  long: -83.215092
+  address: 2200 N. Squirrel Road, Rochester, Michigan 48309
+  link: http://secs.oakland.edu/
+- name: Open Source Robotics Foundation
+  type: company
+  lat: 37.387777
+  long: -122.065122
+  address: 170 S Whisman Rd, Building D, Suite A, Mountain View, CA 94041
+- name: Oregon State University
+  type: school
+  lat: 44.567365
+  long: -123.275528
+  link: http://robotics.oregonstate.edu
+- name: ROS Edmonton
+  type: other
+  lat: 53.545782
+  long: -113.498983
+  address: 10359 104 St NW, Edmonton, AB T5J 1B9
+  link: http://rosedmonton.org
+- name: Rethink Robotics
+  type: company
+  lat: 42.34691
+  long: -71.049622
+  address: 27 Wormwood St, Boston, MA, USA 02210
+  link: http://www.rethinkrobotics.com
+- name: RobotAppStore
+  type: company
+  lat: 37.79406
+  long: -122.397369
+  address: 50 California St. Suite 1500 15th Floor San Francisco, CA USA, 94111
+  link: http://www.RobotAppStore.com
+- name: SUNY New Paltz Robotics Club
+  type: school
+  lat: 41.74089
+  long: -74.082098
+- name: San Pablo Catholic University
+  type: school
+  lat: -16.4050676
+  long: -71.5398246
+  description: Laboratorio de Robotica y Vision Artificial (LARVIC)
+  link: http://ucsp.edu.pe/robotica/
+- name: Savioke
+  type: company
+  lat: 37.3744017
+  long: -121.9954814
+  address: 2900 Gordon Ave, Santa Clara, CA 95051
+  link: http://www.savioke.com/
+- name: Southern Illinois University
+  type: school
+  lat: 37.709899
+  long: -89.571533
+- name: Southern Illinois University Edwardsville
+  type: school
+  lat: 38.822591
+  long: -89.956055
+  address: 1 Hairpin Dr, Edwardsville, IL 62025
+  link: http://cbk0.google.com/cbk?output=thumbnail&w=90&h=68&ll=38.796748,-89.999270&thumb=0
+- name: Southwest Research Institute
+  type: company
+  lat: 29.452198
+  long: -98.610176
+  link: http://www.swri.org
+- name: Stanford University
+  type: school
+  lat: 37.4249378
+  long: -122.1703835
+- name: The City College of New York
+  type: school
+  lat: 40.820047
+  long: -73.949272
+- name: Toyota InfoTech
+  type: company
+  lat: 37.38905
+  long: -122.049415
+- name: Toyota Partner Robot Group (TEMA)
+  type: company
+  lat: 37.384419
+  long: -121.920166
+  link: http://www.toyota-global.com/innovation/partner_robot/family_2.html
+- name: Trossen Robotics Community
+  type: other
+  lat: 41.792409
+  long: -88.051423
+  description: TRC ROS Forums!
+  link: http://forums.trossenrobotics.com/forumdisplay.php?f=137
+- name: Turing Laboratory, Universidad Galileo
+  type: school
+  lat: 14.609785
+  long: -90.505718
+  address: Universidad Galileo 7a. Avenida, calle Dr. Eduardo Suger Cofiño, Zona 10,
+    Guatemala, CA
+  description: Turing Laboratory belongs to a new generation of Research and Development
+    laboratories recently inaugurated in Galileo University to promote the development
+    of Science and Technology.
+  link: http://turing.galileo.edu
+- name: U. Texas at Arlington (UTARI, NextGen Lab)
+  type: school
+  lat: 32.733177
+  long: -97.113562
+- name: U. Texas at Dallas
+  type: school
+  lat: 32.988004
+  long: -96.750154
+- name: UC Berkeley
+  type: school
+  lat: 37.875045
+  long: -122.257748
+  description: Hybrid Systems Lab / Robotics Learning Lab
+  link: http://hybrid.eecs.berkeley.edu
+- name: UC Davis
+  type: school
+  lat: 38.536964
+  long: -121.753083
+  description: Bio-Automation Lab
+- name: USC
+  type: school
+  lat: 34.022329
+  long: -118.285128
+- name: Universidad de Chile - Departamento de Ciencias de la Computación (DCC)
+  type: school
+  lat: -33.45741
+  long: -70.664513
+  description: Lab on Robotics and Computation at the Computer Science Department
+    (DCC) of the University of Chile
+  link: http://rych.dcc.uchile.cl
+- name: Universidad de Ingenieria y Tecnologia - UTEC
+  type: school
+  lat: -12.135038
+  long: -77.021953
+  address: Jr. Medrano Silva 165, Barranco, Lima, Peru
+  description: Department of Electrical and Mechatronics Engineering
+  link: https://www.utec.edu.pe/en
+- name: Universidad del Valle
+  type: school
+  lat: 3.374412
+  long: -76.533852
+  address: 'Calle 13 # 100-00'
+  description: School of Electric and Electronics Engineering
+  link: www.univalle.edu.co, eiee.univalle.edu.co
+- name: Universidad del Valle de Mexico Campus Guadalajara Sur
+  type: school
+  lat: 20.607841
+  long: -103.409135
+  description: School of Mechatronics Engineering
+  link: http://www.uvmmexico.mx/campus/campus-guadalajara-sur/
+- name: Universidade Federal da Bahia
+  type: school
+  lat: -12.999634
+  long: -38.510301
+  address: R. Prof. Aristídes Novis, 2 - Federação, Salvador - BA, 40210-630
+  description: Federal University of Bahia - LAR, Robotics Lab
+  link: http://www.eng.ufba.br/laboratorio-de-robotica-lar
+- name: Universidade Federal de Uberlandia
+  type: school
+  lat: -18.918222
+  long: -48.25817
+  address: Av. Joao Naves de Avila, 2121 - Santa Monica, Uberlandia - MG, 38400-902,
+    Brazil
+  description: Federal University of Uberlandia - EDROM Robotics Team, Laboratory
+    of Autonomous Aircrafts
+  link: http://www.ufu.br/
+- name: Universidade Federal do Rio Grande
+  type: school
+  lat: -32.070143
+  long: -52.165715
+  description: Grupo de Automação e Robótica Inteligente
+  link: www.furg.br
+- name: Universidade Federal do Rio Grande do Sul - Grupo de Controle, Automacao e
+    Robotica
+  type: school
+  lat: -30.032393
+  long: -51.220724
+  address: Av. Osvaldo Aranha, 103 - Porto Alegre, RS 90035-190, Brazil
+  description: Federal University of Rio Grande do Sul - Control, Automation and Robotics
+    Group
+  link: http://www.ece.ufrgs.br
+- name: University At Albany
+  type: school
+  lat: 42.686744
+  long: -73.822852
+  description: Social Robotics Lab at ILS
+  link: http://robotics.ils.albany.edu
+- name: University Of British Columbia
+  type: school
+  lat: 49.262304
+  long: -123.123962
+- name: University of Alberta
+  type: school
+  lat: 53.5232
+  long: -113.526298
+- name: University of Arizona
+  type: school
+  lat: 32.237788
+  long: -110.95639
+- name: University of Colorado
+  type: school
+  lat: 40.010787
+  long: -105.336914
+- name: University of Maryland
+  type: school
+  lat: 38.993572
+  long: -76.959229
+- name: University of Massachusetts- Lowell
+  type: school
+  lat: 42.643866
+  long: -71.33419
+- name: University of Nevada, Reno
+  type: school
+  lat: 39.539755
+  long: -119.813636
+- name: University of Pennsylvania
+  type: school
+  lat: 39.952219
+  long: -75.193214
+- name: 'University of Texas At Austin: University of Texas Press'
+  type: school
+  lat: 30.285028
+  long: -97.733523
+- name: University of Texas El Paso
+  type: school
+  lat: 31.774878
+  long: -106.490479
+  address: '500 W University Ave # 210, El Paso, TX 79902'
+  link: http://cbk0.google.com/cbk?output=thumbnail&w=90&h=68&ll=31.774245,-106.501341&thumb=0
+- name: University of Toronto Institute for Aerospace Studies
+  type: school
+  lat: 43.771094
+  long: -79.365234
+- name: University of Waterloo
+  type: school
+  lat: 43.468992
+  long: -80.540299
+- name: Université de Sherbrooke
+  type: school
+  lat: 45.378602
+  long: -71.942479
+  description: IntRoLab Laboratory
+  link: https://introlab.3it.usherbrooke.ca/
+- name: Vanderbilt University
+  type: school
+  lat: 36.144703
+  long: -86.803964
+- name: WPI
+  type: school
+  lat: 42.273856
+  long: -71.805976
+- name: Washington University in St. Louis
+  type: school
+  lat: 38.64878543146582
+  long: -90.3079605102539
+- name: Willow Garage
+  type: company
+  lat: 37.452291
+  long: -122.166359
+  address: 68 Willow Rd, Menlo Park, CA 94025
+- name: Wunderkammer Laboratory
+  type: company
+  lat: 34.187783
+  long: -118.606231
+  address: '6433 Topanga Canyon Blvd., #543, Canoga Park, CA 91303'
+  description: Technology research and development company
+  link: http://www.wunderkammerlab.com
+- name: iheartengineering
+  type: company
+  lat: 40.6574837
+  long: -74.008192
+- name: École de technologie supérieure
+  type: school
+  lat: 45.494984
+  long: -73.562855
+  address: 1100, rue Notre-Dame Ouest (angle Peel) Montréal (Québec) H3C 1K3
