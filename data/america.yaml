@@ -173,6 +173,12 @@
   lat: 46.780019
   long: -71.275375
   address: 2325 de l'Universite, Quebec, QC G1V 0A6
+- name: Locus Robotics
+  type: company
+  lat: 42.59969795627
+  long: -71.1615116591001
+  address: 301 Ballardvale St, Wilmington, MA 01887, United States
+  link: https://locusrobotics.com/
 - name: Lunan Design Studio
   type: other
   lat: 43.899025
