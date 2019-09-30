@@ -2,3 +2,4 @@ yamllint
 pyyaml
 requests
 argparse
+geopy>1.0
