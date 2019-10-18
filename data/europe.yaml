@@ -479,3 +479,14 @@
   type: school
   lat: 45.523715
   long: 9.219541
+- name: Blue Ocean Robotics
+  type: company
+  lat: 55.375476
+  long: 10.443170
+  address: Niels Bohrs Alle 185, 5220 Odense, Denmark
+  link: https://www.blue-ocean-robotics.com/
+- name: Blue Ocean Robotics (Barcelona)
+  type: company
+  lat: 41.400265
+  long: 2.177047
+  link: https://www.blue-ocean-robotics.com/
