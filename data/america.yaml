@@ -1,3 +1,8 @@
+- name: Telemething
+  type: company
+  lat: 47.468751
+  long: -121.767525
+  link: http://www.telemething.com
 - name: Adept MobileRobots
   type: company
   lat: 42.806964
