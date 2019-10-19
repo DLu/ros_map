@@ -127,6 +127,11 @@
   long: -57.629539
   description: ROS padawan
   link: https://github.com/garyservin
+- name: GE Research
+  type: company
+  lat: 42.827510
+  long: -73.877300
+  link: https://www.ge.com/research/technology-domains/robotics-autonomous-systems
 - name: Georgia Institute of Technology
   type: school
   lat: 33.775597
