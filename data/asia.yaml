@@ -142,3 +142,9 @@
   long: 126.874495
   address: '#601, Namsung-Plaza, 345-30 Gasan-dong, Guemcheon-gu, Seoul, Korea, 153-023.'
   link: http://www.yujinrobot.com/eng
+- name: OMRON SINIC X
+  type: company
+  lat: 35.709478
+  long: 139.7607003
+  address: '5-24-25 Hongo, Bunkyo-ku, Tokyo, 113-0033 Japan'
+  link: https://www.omron.com/sinicx/
