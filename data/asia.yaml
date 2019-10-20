@@ -142,3 +142,9 @@
   long: 126.874495
   address: '#601, Namsung-Plaza, 345-30 Gasan-dong, Guemcheon-gu, Seoul, Korea, 153-023.'
   link: http://www.yujinrobot.com/eng
+- name: Woowa Brothers
+  type: company
+  lat: 37.516854
+  long: 127.112637
+  address: 2, Wiryeseong-daero, Songpa-gu, Seoul, Republic of Korea
+  link: http://www.woowahan.com/
