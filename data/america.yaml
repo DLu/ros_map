@@ -522,3 +522,14 @@
   lat: 45.494984
   long: -73.562855
   address: 1100, rue Notre-Dame Ouest (angle Peel) Montréal (Québec) H3C 1K3
+- name: Northeastern University
+  type: school
+  lat: 42.340069
+  long: -71.088891
+  address: 360 Huntington Ave, Boston, MA 02115, USA
+- name: PSG College of Technology
+  type: school
+  lat: 11.024170
+  long: 77.002869
+  address: Avinashi Rd, Peelamedu, Coimbatore, Tamil Nadu 641004, India
+  link: http://www.psgtech.edu/hme.php?var=RAE
