@@ -304,10 +304,6 @@
   long: -0.139864
   description: Custom robots and product development (UK office)
   link: http://www.robosavvy.com
-- name: Robot Rose B.V.
-  type: company
-  lat: 51.449715
-  long: 5.494894
 - name: Robotnik Automation
   type: company
   lat: 39.46991
