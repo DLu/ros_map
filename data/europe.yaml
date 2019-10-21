@@ -490,3 +490,10 @@
   lat: 41.400265
   long: 2.177047
   link: https://www.blue-ocean-robotics.com/
+- name: iXblue Robopec
+  type: company
+  lat: 43.113502
+  lon: 5.848121
+  address: 532 Boulevard de Lery, 83140 Six-Fours-les-Plages, France
+  link: https://www.robopec.com/en/
+  description: Robotics, AI and software development
