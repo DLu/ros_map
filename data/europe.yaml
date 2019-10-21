@@ -202,6 +202,12 @@
   address: Ankara, Turkey
   description: Milvus Technology, Mobile Robot Base
   link: http://www.milvusrobotics.com/
+- name: Mojin Robotics GmbH
+  type: company
+  lat: 48.741610
+  long: 9.097237
+  address: Nobelstr. 12, 70569 Stuttgart, Germany
+  link: http://www.mojin-robotics.de
 - name: National Technical University of Athens, School of Mechanical Engineering
   type: school
   lat: 37.979119
@@ -497,3 +503,15 @@
   address: 532 Boulevard de Lery, 83140 Six-Fours-les-Plages, France
   link: https://www.robopec.com/en/
   description: Robotics, AI and software development
+- name: Aalborg University
+  type: school
+  lat: 57.014578
+  long: 9.981863
+  address: Fredrik Bajers Vej 5, 9100 Aalborg, Denmark
+  link: https://www.robotics.aau.dk/
+- name: Marel (Denmark)
+  type: company
+  lat: 56.208456
+  long: 10.191272
+  address: P. O. Pedersens Vej 18, 8200 Aarhus, Denmark
+  link: https://marel.com/
