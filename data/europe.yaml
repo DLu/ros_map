@@ -496,3 +496,15 @@
   lat: 41.400265
   long: 2.177047
   link: https://www.blue-ocean-robotics.com/
+- name: Aalborg University
+  type: school
+  lat: 57.014578
+  long: 9.981863
+  address: Fredrik Bajers Vej 5, 9100 Aalborg, Denmark
+  link: https://www.robotics.aau.dk/
+- name: Marel (Denmark)
+  type: company
+  lat: 56.208456
+  long: 10.191272
+  address: P. O. Pedersens Vej 18, 8200 Aarhus, Denmark
+  link: https://marel.com/
