@@ -493,7 +493,7 @@
 - name: iXblue Robopec
   type: company
   lat: 43.113502
-  lon: 5.848121
+  long: 5.848121
   address: 532 Boulevard de Lery, 83140 Six-Fours-les-Plages, France
   link: https://www.robopec.com/en/
   description: Robotics, AI and software development
