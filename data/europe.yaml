@@ -202,6 +202,12 @@
   address: Ankara, Turkey
   description: Milvus Technology, Mobile Robot Base
   link: http://www.milvusrobotics.com/
+- name: Mojin Robotics GmbH
+  type: company
+  lat: 48.741610
+  long: 9.097237
+  address: Nobelstr. 12, 70569 Stuttgart, Germany
+  link: http://www.mojin-robotics.de
 - name: National Technical University of Athens, School of Mechanical Engineering
   type: school
   lat: 37.979119
