@@ -163,6 +163,13 @@
   type: school
   lat: 38.434082
   long: -78.863184
+- name: Janelia Research Campus
+  lat: 39.071694
+  long: -77.464131
+  type: research institute
+  link: https://www.janelia.org/
+  description: Scientific research campus of the Howard Hughes Medical Institute.
+  address: 19700 Helix Dr, Ashburn, VA 20147
 - name: James Ronald
   type: other
   lat: 42.57331
