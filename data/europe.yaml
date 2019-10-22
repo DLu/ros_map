@@ -511,3 +511,9 @@
   long: 10.191272
   address: P. O. Pedersens Vej 18, 8200 Aarhus, Denmark
   link: https://marel.com/
+- name: Mobile Industrial Robots (MiR)
+  type: company
+  lat: 55.364061
+  long: 10.492003
+  address: Emil Neckelmanns Vej 15F, 5220 Odense
+  link: https://www.mobile-industrial-robots.com/
