@@ -221,6 +221,13 @@
   address: Savanorių pr. 125A, Vilnius, Lithuania
   description: Biometrics and robotics.
   link: http://neurotechnology.com
+- name: Nobleo Technology B.V.
+  type: company
+  lat: 51.423890
+  long: 5.494260
+  address: Heggeranklaan 1, 5643 BP, Eindhoven
+  description: autonomous | intelligent | systems
+  link: https://nobleo-technology.nl
 - name: OFFIS Institute for Information Technology
   type: research institute
   lat: 53.148739
