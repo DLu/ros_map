@@ -154,3 +154,9 @@
   long: 139.7607003
   address: '5-24-25 Hongo, Bunkyo-ku, Tokyo, 113-0033 Japan'
   link: https://www.omron.com/sinicx/
+- name: Tier IV, Inc.
+  type: company
+  lat: 35.708660
+  long: 139.762819
+  link: https://tier4.jp/
+  description: Autonomous driving solutions built with ROS.
