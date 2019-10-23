@@ -540,3 +540,8 @@
   long: 77.002869
   address: Avinashi Rd, Peelamedu, Coimbatore, Tamil Nadu 641004, India
   link: http://www.psgtech.edu/hme.php?var=RAE
+- name: Hekaton Studio
+  type: company
+  lat: 45.494984
+  long: -73.562855
+  link: https://hekaton.studio
