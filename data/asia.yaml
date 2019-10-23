@@ -160,3 +160,9 @@
   long: 35
   link: https://rosjp.connpass.com/
   description: ROS Japan users group 日本のROSユーザーグループ
+- name: Tier IV, Inc.
+  type: company
+  lat: 35.708660
+  long: 139.762819
+  link: https://tier4.jp/
+  description: Autonomous driving solutions built with ROS.
