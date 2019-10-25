@@ -261,6 +261,12 @@
   long: -83.215092
   address: 2200 N. Squirrel Road, Rochester, Michigan 48309
   link: http://secs.oakland.edu/
+- name: Oceaneering, Mobile Robotics Innovation Lab
+  type: company
+  lat: 39.173225
+  long: -76.723448
+  address: 7001 Dorsey Rd, Hanover, MD 21076
+  link: https://www.oceaneering.com/mobile-robotics-innovation-lab/
 - name: Open Source Robotics Foundation
   type: company
   lat: 37.387777
