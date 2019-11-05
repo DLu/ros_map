@@ -524,3 +524,10 @@
   long: 10.492003
   address: Emil Neckelmanns Vej 15F, 5220 Odense
   link: https://www.mobile-industrial-robots.com/
+- name: Rey Juan Carlos University
+  type: school
+  lat: 40.282609
+  long: -3.819587
+  address: C/ Camino del Molino, s/n Fuenlabrada, 28943 madrid
+  description: Intelligent Robotics Lab
+  link: https://intelligentroboticslabs.github.io
