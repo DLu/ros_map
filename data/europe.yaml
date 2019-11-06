@@ -3,6 +3,12 @@
   lat: 60.187009
   long: 24.819531
   description: TUAS building (Automation Systems)
+- name: Alcalá de Henares University
+  type: school
+  lat: 40.5128
+  long: -3.3496
+  description: Alcalá de Henares University, Polytechnic
+  link: https://www.uah.es/es/
 - name: Akcaabat Science High School
   type: school
   lat: 39.559112
@@ -36,6 +42,11 @@
   lat: 48.741341
   long: 9.0969681
   link: http://care-o-bot.org
+- name: Complubot
+  type: company
+  lat: 40.4903
+  long: -3.3501
+  link: http://complubot.com/inicio/
 - name: Danish Technological Institute
   type: company
   lat: 55.369208
