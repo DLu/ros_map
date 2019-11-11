@@ -42,6 +42,13 @@
   lat: 48.741341
   long: 9.0969681
   link: http://care-o-bot.org
+- name: COEX
+  type: company
+  lat: 55.706755
+  long: 37.725558
+  link: https://coex.tech
+  address: Volgogradskiy Prospekt 42, Moscow, Russia
+  description: Popular educational quadcopters (https://coex.tech/clover) with ROS-powered software platform
 - name: Complubot
   type: company
   lat: 40.4903
