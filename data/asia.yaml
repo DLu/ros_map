@@ -160,3 +160,9 @@
   long: 139.762819
   link: https://tier4.jp/
   description: Autonomous driving solutions built with ROS.
+- name: Clobot
+  type: company
+  lat: 37.363409
+  long: 127.105971
+  link: https://www.clobot.co.kr/
+ 
