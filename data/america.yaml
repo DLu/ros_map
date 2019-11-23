@@ -557,3 +557,9 @@
   long: -71.111465
   description: Master's Student in Northeastern University passionately working on Autonomous Mobile Robotics
   link: https://github.com/veeraragav
+- name: INSPER - Instituto de Pesquisa e Ensino
+  type: school
+  lat: -23.598565
+  long: -46.676705
+  address: R. Quatá, 300 - Vila Olímpia, São Paulo - SP, 04546-042, Brasil
+  link: www.github.com/insper/robot19
