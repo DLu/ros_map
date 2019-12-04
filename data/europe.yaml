@@ -549,3 +549,16 @@
   address: C/ Camino del Molino, s/n Fuenlabrada, 28943 madrid
   description: Intelligent Robotics Lab
   link: https://intelligentroboticslabs.github.io
+- name: Bordeaux INP
+  type: school
+  lat: 44.806040
+  long: -0.605190
+  description: Engineering school in computer science, electronics, mechanics
+  link: http://robot-enseirb-matmeca.fr/
+- name: Inria
+  type: research institute
+  lat: 44.808479
+  long: -0.599851
+  description: Research institute for the digital sciences
+  link: https://www.inria.fr/en/centre/bordeaux
+  
