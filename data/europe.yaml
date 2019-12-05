@@ -1,14 +1,14 @@
+- name: Aalborg University
+  type: school
+  lat: 57.014578
+  long: 9.981863
+  address: Fredrik Bajers Vej 5, 9100 Aalborg, Denmark
+  link: https://www.robotics.aau.dk/
 - name: Aalto University
   type: school
   lat: 60.187009
   long: 24.819531
   description: TUAS building (Automation Systems)
-- name: Alcalá de Henares University
-  type: school
-  lat: 40.5128
-  long: -3.3496
-  description: Alcalá de Henares University, Polytechnic
-  link: https://www.uah.es/es/
 - name: Akcaabat Science High School
   type: school
   lat: 39.559112
@@ -20,6 +20,12 @@
   type: school
   lat: 47.998778
   long: 7.848102
+- name: Alcalá de Henares University
+  type: school
+  lat: 40.5128
+  long: -3.3496
+  description: Alcalá de Henares University, Polytechnic
+  link: https://www.uah.es/es/
 - name: Aldebaran
   type: company
   lat: 48.8286
@@ -31,24 +37,36 @@
   long: 22.960775
   description: P.A.N.D.O.R.A. Robotics Team
   link: http://pandora.ee.auth.gr
+- name: Blue Ocean Robotics
+  type: company
+  lat: 55.375476
+  long: 10.44317
+  address: Niels Bohrs Alle 185, 5220 Odense, Denmark
+  link: https://www.blue-ocean-robotics.com/
+- name: Blue Ocean Robotics (Barcelona)
+  type: company
+  lat: 41.400265
+  long: 2.177047
+  link: https://www.blue-ocean-robotics.com/
 - name: Bonn-Rhein-Sieg University of Applied Sciences
   type: school
   lat: 50.77976
   long: 7.182671
   address: Grantham-Allee 20, 53757 Sankt Augustin, Germany
   link: http://www.inf.fh-bonn-rhein-sieg.de/informatik/en/MAS.html
+- name: COEX
+  type: company
+  lat: 55.706755
+  long: 37.725558
+  address: Volgogradskiy Prospekt 42, Moscow, Russia
+  description: Popular educational quadcopters (https://coex.tech/clover) with ROS-powered
+    software platform
+  link: https://coex.tech
 - name: Care-O-bot
   type: research institute
   lat: 48.741341
   long: 9.0969681
   link: http://care-o-bot.org
-- name: COEX
-  type: company
-  lat: 55.706755
-  long: 37.725558
-  link: https://coex.tech
-  address: Volgogradskiy Prospekt 42, Moscow, Russia
-  description: Popular educational quadcopters (https://coex.tech/clover) with ROS-powered software platform
 - name: Complubot
   type: company
   lat: 40.4903
@@ -209,6 +227,12 @@
   long: 6.074586
   description: Research in Mobile Autonomous Systems and Cognitive Robotics
   link: https://www.maskor.fh-aachen.de/en/
+- name: Marel (Denmark)
+  type: company
+  lat: 56.208456
+  long: 10.191272
+  address: P. O. Pedersens Vej 18, 8200 Aarhus, Denmark
+  link: https://marel.com/
 - name: Merlin Systems Ltd
   type: company
   lat: 53.069631
@@ -220,9 +244,15 @@
   address: Ankara, Turkey
   description: Milvus Technology, Mobile Robot Base
   link: http://www.milvusrobotics.com/
+- name: Mobile Industrial Robots (MiR)
+  type: company
+  lat: 55.364061
+  long: 10.492003
+  address: Emil Neckelmanns Vej 15F, 5220 Odense
+  link: https://www.mobile-industrial-robots.com/
 - name: Mojin Robotics GmbH
   type: company
-  lat: 48.741610
+  lat: 48.74161
   long: 9.097237
   address: Nobelstr. 12, 70569 Stuttgart, Germany
   link: http://www.mojin-robotics.de
@@ -241,8 +271,8 @@
   link: http://neurotechnology.com
 - name: Nobleo Technology B.V.
   type: company
-  lat: 51.423890
-  long: 5.494260
+  lat: 51.42389
+  long: 5.49426
   address: Heggeranklaan 1, 5643 BP, Eindhoven
   description: autonomous | intelligent | systems
   link: https://nobleo-technology.nl
@@ -301,6 +331,13 @@
   type: company
   lat: 51.447832
   long: 5.489828
+- name: Rey Juan Carlos University
+  type: school
+  lat: 40.282609
+  long: -3.819587
+  address: C/ Camino del Molino, s/n Fuenlabrada, 28943 madrid
+  description: Intelligent Robotics Lab
+  link: https://intelligentroboticslabs.github.io
 - name: Rheinisch-Westfälische Technische Hochschule Aachen
   type: school
   lat: 50.778944
@@ -497,6 +534,13 @@
   address: Neidenburgerstr. 43, 45877 Gelsenkirchen, Germany
   description: Autonomous Systems, Computer Vision, Machine Learning, Parallel Computing
   link: http://homepage.informatik.w-hs.de/HSurmann/
+- name: iXblue Robopec
+  type: company
+  lat: 43.113502
+  long: 5.848121
+  address: 532 Boulevard de Lery, 83140 Six-Fours-les-Plages, France
+  description: Robotics, AI and software development
+  link: https://www.robopec.com/en/
 - name: incubed IT GmbH
   type: company
   lat: 47.045223
@@ -506,46 +550,3 @@
   type: school
   lat: 45.523715
   long: 9.219541
-- name: Blue Ocean Robotics
-  type: company
-  lat: 55.375476
-  long: 10.443170
-  address: Niels Bohrs Alle 185, 5220 Odense, Denmark
-  link: https://www.blue-ocean-robotics.com/
-- name: Blue Ocean Robotics (Barcelona)
-  type: company
-  lat: 41.400265
-  long: 2.177047
-  link: https://www.blue-ocean-robotics.com/
-- name: iXblue Robopec
-  type: company
-  lat: 43.113502
-  long: 5.848121
-  address: 532 Boulevard de Lery, 83140 Six-Fours-les-Plages, France
-  link: https://www.robopec.com/en/
-  description: Robotics, AI and software development
-- name: Aalborg University
-  type: school
-  lat: 57.014578
-  long: 9.981863
-  address: Fredrik Bajers Vej 5, 9100 Aalborg, Denmark
-  link: https://www.robotics.aau.dk/
-- name: Marel (Denmark)
-  type: company
-  lat: 56.208456
-  long: 10.191272
-  address: P. O. Pedersens Vej 18, 8200 Aarhus, Denmark
-  link: https://marel.com/
-- name: Mobile Industrial Robots (MiR)
-  type: company
-  lat: 55.364061
-  long: 10.492003
-  address: Emil Neckelmanns Vej 15F, 5220 Odense
-  link: https://www.mobile-industrial-robots.com/
-- name: Rey Juan Carlos University
-  type: school
-  lat: 40.282609
-  long: -3.819587
-  address: C/ Camino del Molino, s/n Fuenlabrada, 28943 madrid
-  description: Intelligent Robotics Lab
-  link: https://intelligentroboticslabs.github.io
