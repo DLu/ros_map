@@ -117,10 +117,12 @@
     in the cities of Porto, Braga and Vila Real, INESC TEC incorporates 12 R&D Centres
     and one Associate Unit with complementary competences
   link: http://www.inesctec.pt
-- name: INRIA
+- name: Inria Grenoble Rhône-Alpes
   type: research institute
   lat: 45.217673
   long: 5.806614
+  description: Research institute for the digital sciences
+  link: https://www.inria.fr/en/centre/grenoble
 - name: IXION, Smart Automation
   type: company
   lat: 40.4342401
