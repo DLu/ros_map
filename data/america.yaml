@@ -1,8 +1,3 @@
-- name: Telemething
-  type: company
-  lat: 47.468751
-  long: -121.767525
-  link: http://www.telemething.com
 - name: Adept MobileRobots
   type: company
   lat: 42.806964
@@ -60,8 +55,8 @@
   link: http://bnrobotics.com
 - name: Brisa Robotics
   type: company
-  lat: -34.947365
-  long: -8.253074
+  lat: -8.253074
+  long: -34.947365
   address: Avenida A, 4165 - Novo Mundo Empresarial, PE, 54522-005
   description: Robotics and Autonomous Systems Company. Serving companies worldwide
     from the Brazilian Northeast
@@ -126,17 +121,17 @@
   lat: 37.234893
   long: -121.533867
   link: http://www.fetchrobotics.com
+- name: GE Research
+  type: company
+  lat: 42.82751
+  long: -73.8773
+  link: https://www.ge.com/research/technology-domains/robotics-autonomous-systems
 - name: Gary Servin
   type: other
   lat: -25.290569
   long: -57.629539
   description: ROS padawan
   link: https://github.com/garyservin
-- name: GE Research
-  type: company
-  lat: 42.827510
-  long: -73.877300
-  link: https://www.ge.com/research/technology-domains/robotics-autonomous-systems
 - name: Georgia Institute of Technology
   type: school
   lat: 33.775597
@@ -148,6 +143,17 @@
   type: company
   lat: 37.869
   long: -122.268
+- name: Hekaton Studio
+  type: company
+  lat: 45.494984
+  long: -73.562855
+  link: https://hekaton.studio
+- name: INSPER - Instituto de Pesquisa e Ensino
+  type: school
+  lat: -23.598565
+  long: -46.676705
+  address: R. Quatá, 300 - Vila Olímpia, São Paulo - SP, 04546-042, Brasil
+  link: www.github.com/insper/robot19
 - name: Intel Labs Seattle
   type: company
   lat: 47.661516
@@ -163,18 +169,18 @@
   type: school
   lat: 38.434082
   long: -78.863184
-- name: Janelia Research Campus
-  lat: 39.071694
-  long: -77.464131
-  type: research institute
-  link: https://www.janelia.org/
-  description: Scientific research campus of the Howard Hughes Medical Institute.
-  address: 19700 Helix Dr, Ashburn, VA 20147
 - name: James Ronald
   type: other
   lat: 42.57331
   long: -83.916321
   description: TurtleBot / ROS
+- name: Janelia Research Campus
+  type: research institute
+  lat: 39.071694
+  long: -77.464131
+  address: 19700 Helix Dr, Ashburn, VA 20147
+  description: Scientific research campus of the Howard Hughes Medical Institute.
+  link: https://www.janelia.org/
 - name: Johns Hopkins University
   type: school
   lat: 39.326815
@@ -249,6 +255,11 @@
   long: -77.0919606
   description: Robotics, Automation and Control
   link: http://nfmrobotics.com
+- name: Northeastern University
+  type: school
+  lat: 42.340069
+  long: -71.088891
+  address: 360 Huntington Ave, Boston, MA 02115, USA
 - name: Northwestern University
   type: school
   lat: 42.058438
@@ -277,6 +288,12 @@
   lat: 44.567365
   long: -123.275528
   link: http://robotics.oregonstate.edu
+- name: PSG College of Technology
+  type: school
+  lat: 11.02417
+  long: 77.002869
+  address: Avinashi Rd, Peelamedu, Coimbatore, Tamil Nadu 641004, India
+  link: http://www.psgtech.edu/hme.php?var=RAE
 - name: ROS Edmonton
   type: other
   lat: 53.545782
@@ -330,6 +347,11 @@
   type: school
   lat: 37.4249378
   long: -122.1703835
+- name: Telemething
+  type: company
+  lat: 47.468751
+  long: -121.767525
+  link: http://www.telemething.com
 - name: The City College of New York
   type: school
   lat: 40.820047
@@ -506,6 +528,13 @@
   type: school
   lat: 36.144703
   long: -86.803964
+- name: Veera Ragav C. V.
+  type: other
+  lat: 42.332675
+  long: -71.111465
+  description: Master's Student in Northeastern University passionately working on
+    Autonomous Mobile Robotics
+  link: https://github.com/veeraragav
 - name: WPI
   type: school
   lat: 42.273856
@@ -535,31 +564,3 @@
   lat: 45.494984
   long: -73.562855
   address: 1100, rue Notre-Dame Ouest (angle Peel) Montréal (Québec) H3C 1K3
-- name: Northeastern University
-  type: school
-  lat: 42.340069
-  long: -71.088891
-  address: 360 Huntington Ave, Boston, MA 02115, USA
-- name: PSG College of Technology
-  type: school
-  lat: 11.024170
-  long: 77.002869
-  address: Avinashi Rd, Peelamedu, Coimbatore, Tamil Nadu 641004, India
-  link: http://www.psgtech.edu/hme.php?var=RAE
-- name: Hekaton Studio
-  type: company
-  lat: 45.494984
-  long: -73.562855
-  link: https://hekaton.studio
-- name: Veera Ragav C. V.
-  type: other
-  lat: 42.332675
-  long: -71.111465
-  description: Master's Student in Northeastern University passionately working on Autonomous Mobile Robotics
-  link: https://github.com/veeraragav
-- name: INSPER - Instituto de Pesquisa e Ensino
-  type: school
-  lat: -23.598565
-  long: -46.676705
-  address: R. Quatá, 300 - Vila Olímpia, São Paulo - SP, 04546-042, Brasil
-  link: www.github.com/insper/robot19
