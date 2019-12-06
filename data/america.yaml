@@ -103,6 +103,13 @@
   long: -83.167906
   address: 5800 Crooks Road, Troy, MI 48098
   link: http://dataspeedinc.com/
+- name: École de technologie supérieure
+  type: school
+  lat: 45.493478
+  long: -73.562666
+  address: 1219 rue William, Montréal, QC H3C 1K3
+  description: French speaking engineering university. Our university has many robotics student clubs.
+  link: https://www.etsmtl.ca/
 - name: Ekumen
   type: company
   lat: -34.583067
