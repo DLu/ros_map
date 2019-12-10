@@ -155,6 +155,11 @@
   lat: 45.494984
   long: -73.562855
   link: https://hekaton.studio
+- name: Houston Mechatronics
+  type: company
+  lat: 29.547417
+  long: -95.122972
+  link: https://www.houstonmechatronics.com
 - name: INSPER - Instituto de Pesquisa e Ensino
   type: school
   lat: -23.598565
