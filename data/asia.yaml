@@ -12,6 +12,11 @@
   lat: 39.97712
   long: 116.191406
   address: No.3 Shang Yuan Cun,Hai Dian District Beijing,China Post-Code 100044
+- name: Clobot
+  type: company
+  lat: 37.363409
+  long: 127.105971
+  link: https://www.clobot.co.kr/
 - name: Cogniteam
   type: company
   lat: 32.090508
@@ -82,6 +87,12 @@
   long: 121.5398
   address: No. 1, Sec. 4, Roosevelt Rd., Taipei 10617, Taiwan (R.O.C.)
   link: http://www.iceira.ntu.edu.tw/en/
+- name: OMRON SINIC X
+  type: company
+  lat: 35.709478
+  long: 139.7607003
+  address: 5-24-25 Hongo, Bunkyo-ku, Tokyo, 113-0033 Japan
+  link: https://www.omron.com/sinicx/
 - name: OTL
   type: other
   lat: 35.029996
@@ -126,12 +137,24 @@
   long: 103.85007
   address: '1 Fusionopolis Way, Connexis South Tower #20-03, Singapore 138632'
   link: https://tectusdreamlab.com
+- name: Tier IV, Inc.
+  type: company
+  lat: 35.70866
+  long: 139.762819
+  description: Autonomous driving solutions built with ROS.
+  link: https://tier4.jp/
 - name: Tokyo Opensource Robotics Kyokai Association
   type: other
   lat: 35.706447
   long: 139.768453
   address: Bunkyo Ward, Japan
   link: http://opensource-robotics.tokyo.jp/
+- name: Woowa Brothers
+  type: company
+  lat: 37.516854
+  long: 127.112637
+  address: 2, Wiryeseong-daero, Songpa-gu, Seoul, Republic of Korea
+  link: http://www.woowahan.com/
 - name: Yamazaki Lab, Shinshu U.
   type: school
   lat: 36.629873
@@ -142,26 +165,3 @@
   long: 126.874495
   address: '#601, Namsung-Plaza, 345-30 Gasan-dong, Guemcheon-gu, Seoul, Korea, 153-023.'
   link: http://www.yujinrobot.com/eng
-- name: Woowa Brothers
-  type: company
-  lat: 37.516854
-  long: 127.112637
-  address: 2, Wiryeseong-daero, Songpa-gu, Seoul, Republic of Korea
-  link: http://www.woowahan.com/
-- name: OMRON SINIC X
-  type: company
-  lat: 35.709478
-  long: 139.7607003
-  address: '5-24-25 Hongo, Bunkyo-ku, Tokyo, 113-0033 Japan'
-  link: https://www.omron.com/sinicx/
-- name: Tier IV, Inc.
-  type: company
-  lat: 35.708660
-  long: 139.762819
-  link: https://tier4.jp/
-  description: Autonomous driving solutions built with ROS.
-- name: Clobot
-  type: company
-  lat: 37.363409
-  long: 127.105971
-  link: https://www.clobot.co.kr/
