@@ -576,3 +576,9 @@
   lat: 45.494984
   long: -73.562855
   address: 1100, rue Notre-Dame Ouest (angle Peel) Montréal (Québec) H3C 1K3
+- name: Object Computing, Inc
+  type: company
+  lat: 38.673867
+  long: -90.453198
+  description: Object Computing, Inc. offers ROS2, DDS, Cloud, AI/ML, blockchain, and other areas.
+  link: https://objectcomputing.com/ 
