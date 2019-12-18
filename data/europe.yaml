@@ -322,6 +322,13 @@
   address: Gaston Geenslaan 9 B2 - Heverlee, Belgium
   description: Robot Vision Made Easy
   link: https://www.pickit3d.com/
+- name: Pilz GmbH & Co. KG
+  type: company
+  lat: 48.713281
+  long: 9.307344
+  address: Felix-Wankel-Straße 2, 73760 Ostfildern
+  description: The Spirit of Safety
+  link: https://www.pilz.com/en-INT/products-solutions/robotics/ros-modules
 - name: RTC Group - University of Seville
   type: school
   lat: 37.381009
