@@ -9,6 +9,11 @@
   lat: 60.187009
   long: 24.819531
   description: TUAS building (Automation Systems)
+- name: Accerion
+  type: company
+  lat: 51.374310
+  long: 6.155680
+  link: www.accerion.tech
 - name: Akcaabat Science High School
   type: school
   lat: 39.559112
@@ -85,6 +90,16 @@
   type: school
   lat: 51.447744
   long: 5.489841
+- name: Eurotec
+  type: company
+  lat: 51.867990
+  long: 4.781090
+  link: https://www.lowpad.com
+- name: ExRobotics
+  type: company
+  lat: 51.554510
+  long: 4.732060
+  link: https://exrobotics.global
 - name: FZI Research Center for Information Technology
   type: research institute
   lat: 49.01212
@@ -258,6 +273,11 @@
   long: 9.097237
   address: Nobelstr. 12, 70569 Stuttgart, Germany
   link: http://www.mojin-robotics.de
+- name: Movigo Robotics
+  type: company
+  lat: 52.392040
+  long: 4.655700
+  link: www.movigorobotics.com
 - name: National Technical University of Athens, School of Mechanical Engineering
   type: school
   lat: 37.979119
@@ -388,6 +408,17 @@
   lat: 52.22085
   long: 6.885674
   link: https://www.saxion.nl/mechatronics
+- name: Smart Robotics
+  type: company
+  lat: 51.488720
+  long: 5.394600
+  link: https://www.smart-robotics.nl/
+- name: TNO Integrated Vehicle Safety
+  type: research institute
+  lat: 51.474398
+  long: 5.623993
+  address: Automotive Campus 30, 5708 JZ Helmond
+  link: https://www.tno.nl/en/focus-areas/traffic-transport/expertise-groups/research-on-integrated-vehicle-safety/
 - name: TU Darmstadt - FG SIM
   type: school
   lat: 49.877643
@@ -530,6 +561,11 @@
   long: 2.644315
   description: Escola Politècnica Superior, Universitat de les Illes Balears
   link: http://uib.cat
+- name: Van den Akker Engineering
+  type: company
+  lat: 51.725710
+  long: 5.397860
+  link: www.cargo180.com
 - name: Vitec Videocom
   type: company
   lat: 52.25214
