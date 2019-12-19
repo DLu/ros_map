@@ -147,6 +147,19 @@
   long: 9.650772
   address: Doggenriedstraße 38, D-88250 Weingarten
   link: http://iki.hs-weingarten.de
+- name: Husarion
+  type: company
+  lat: 50.064918
+  long: 19.938629
+  address: Slawkowska 23/4, 31-016 Krakow, Poland
+  description: Husarion provides hardware and software for autonomous mobile robot
+    development & connectivity. Husarion is a manufacturer of autonomous mobile robots
+    for research & education purposes. It's main hardware products are ROSbot 2.0
+    and Panther ROS-powered platforms. You can manage them online and connect them
+    into fleets with Husarion's internet tools. The company provides also custom mobile
+    robot design services covering electronics, mechanics, ROS software and Internet
+    management systems design.
+  link: https://husarion.com/
 - name: ICube
   type: research institute
   lat: 48.525812
