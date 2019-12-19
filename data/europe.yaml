@@ -338,8 +338,9 @@
   link: http://www.ros.org/wiki/rtc-us-ros-pkg
 - name: RUVU Behavior for Robots
   type: company
-  lat: 51.447832
-  long: 5.489828
+  lat: 51.488720
+  long: 5.394600
+  link: http://www.ruvu.nl
 - name: Rey Juan Carlos University
   type: school
   lat: 40.282609
