@@ -373,6 +373,12 @@
   address: Gaston Geenslaan 9 B2 - Heverlee, Belgium
   description: Robot Vision Made Easy
   link: https://www.pickit3d.com/
+- name: Pilz España
+  type: company
+  lat: 41.5916814356275
+  long: 2.28366374154854
+  address: Camí Ral, 130, 08401 Granollers (Barcelona), Spain, Spain
+  link: pilz.com
 - name: Pilz GmbH & Co. KG
   type: company
   lat: 48.713281
