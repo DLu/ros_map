@@ -564,3 +564,9 @@
   long: -0.599851
   description: Research institute for the digital sciences
   link: https://www.inria.fr/en/centre/bordeaux
+- name: Hochschule Bonn-Rhein-Sieg University of Applied Sciences
+  type: school
+  lat: 50.779746
+  long: 7.182314
+  description: University of Applied Sciences
+  link: https://www.h-brs.de/en
