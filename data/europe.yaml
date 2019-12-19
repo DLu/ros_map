@@ -11,8 +11,8 @@
   description: TUAS building (Automation Systems)
 - name: Accerion
   type: company
-  lat: 51.374310
-  long: 6.155680
+  lat: 51.37431
+  long: 6.15568
   link: www.accerion.tech
 - name: Akcaabat Science High School
   type: school
@@ -59,6 +59,12 @@
   long: 7.182671
   address: Grantham-Allee 20, 53757 Sankt Augustin, Germany
   link: http://www.inf.fh-bonn-rhein-sieg.de/informatik/en/MAS.html
+- name: Bordeaux INP
+  type: school
+  lat: 44.80604
+  long: -0.60519
+  description: Engineering school in computer science, electronics, mechanics
+  link: http://robot-enseirb-matmeca.fr/
 - name: COEX
   type: company
   lat: 55.706755
@@ -92,13 +98,13 @@
   long: 5.489841
 - name: Eurotec
   type: company
-  lat: 51.867990
-  long: 4.781090
+  lat: 51.86799
+  long: 4.78109
   link: https://www.lowpad.com
 - name: ExRobotics
   type: company
-  lat: 51.554510
-  long: 4.732060
+  lat: 51.55451
+  long: 4.73206
   link: https://exrobotics.global
 - name: FZI Research Center for Information Technology
   type: research institute
@@ -129,6 +135,12 @@
   type: school
   lat: 55.899956
   long: -3.328857
+- name: Hochschule Bonn-Rhein-Sieg University of Applied Sciences
+  type: school
+  lat: 50.779746
+  long: 7.182314
+  description: University of Applied Sciences
+  link: https://www.h-brs.de/en
 - name: Hochschule Ravensburg-Weingarten
   type: school
   lat: 47.812744
@@ -150,12 +162,6 @@
     in the cities of Porto, Braga and Vila Real, INESC TEC incorporates 12 R&D Centres
     and one Associate Unit with complementary competences
   link: http://www.inesctec.pt
-- name: Inria Grenoble Rhône-Alpes
-  type: research institute
-  lat: 45.217673
-  long: 5.806614
-  description: Research institute for the digital sciences
-  link: https://www.inria.fr/en/centre/grenoble
 - name: IXION, Smart Automation
   type: company
   lat: 40.4342401
@@ -170,6 +176,18 @@
     platform built by Inovasyon Muhendislik. The evarobot software system is written
     entirely in ROS.
   link: http://inovasyonmuhendislik.com
+- name: Inria Bordeaux Sud-Ouest
+  type: research institute
+  lat: 44.808479
+  long: -0.599851
+  description: Research institute for the digital sciences
+  link: https://www.inria.fr/en/centre/bordeaux
+- name: Inria Grenoble Rhône-Alpes
+  type: research institute
+  lat: 45.217673
+  long: 5.806614
+  description: Research institute for the digital sciences
+  link: https://www.inria.fr/en/centre/grenoble
 - name: Institut de Robotica i Informatica Industrial IRI (CSIC-UPC)"
   type: research institute
   lat: 41.382864
@@ -275,8 +293,8 @@
   link: http://www.mojin-robotics.de
 - name: Movigo Robotics
   type: company
-  lat: 52.392040
-  long: 4.655700
+  lat: 52.39204
+  long: 4.6557
   link: www.movigorobotics.com
 - name: National Technical University of Athens, School of Mechanical Engineering
   type: school
@@ -358,8 +376,8 @@
   link: http://www.ros.org/wiki/rtc-us-ros-pkg
 - name: RUVU Behavior for Robots
   type: company
-  lat: 51.488720
-  long: 5.394600
+  lat: 51.48872
+  long: 5.3946
   link: http://www.ruvu.nl
 - name: Rey Juan Carlos University
   type: school
@@ -410,8 +428,8 @@
   link: https://www.saxion.nl/mechatronics
 - name: Smart Robotics
   type: company
-  lat: 51.488720
-  long: 5.394600
+  lat: 51.48872
+  long: 5.3946
   link: https://www.smart-robotics.nl/
 - name: TNO Integrated Vehicle Safety
   type: research institute
@@ -563,8 +581,8 @@
   link: http://uib.cat
 - name: Van den Akker Engineering
   type: company
-  lat: 51.725710
-  long: 5.397860
+  lat: 51.72571
+  long: 5.39786
   link: www.cargo180.com
 - name: Vitec Videocom
   type: company
@@ -596,21 +614,3 @@
   type: school
   lat: 45.523715
   long: 9.219541
-- name: Bordeaux INP
-  type: school
-  lat: 44.806040
-  long: -0.605190
-  description: Engineering school in computer science, electronics, mechanics
-  link: http://robot-enseirb-matmeca.fr/
-- name: Inria Bordeaux Sud-Ouest
-  type: research institute
-  lat: 44.808479
-  long: -0.599851
-  description: Research institute for the digital sciences
-  link: https://www.inria.fr/en/centre/bordeaux
-- name: Hochschule Bonn-Rhein-Sieg University of Applied Sciences
-  type: school
-  lat: 50.779746
-  long: 7.182314
-  description: University of Applied Sciences
-  link: https://www.h-brs.de/en

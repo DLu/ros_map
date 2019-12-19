@@ -103,13 +103,6 @@
   long: -83.167906
   address: 5800 Crooks Road, Troy, MI 48098
   link: http://dataspeedinc.com/
-- name: École de technologie supérieure
-  type: school
-  lat: 45.493478
-  long: -73.562666
-  address: 1219 rue William, Montréal, QC H3C 1K3
-  description: French speaking engineering university. Our university has many robotics student clubs.
-  link: https://www.etsmtl.ca/
 - name: Ekumen
   type: company
   lat: -34.583067
@@ -284,6 +277,13 @@
   long: -83.215092
   address: 2200 N. Squirrel Road, Rochester, Michigan 48309
   link: http://secs.oakland.edu/
+- name: Object Computing, Inc
+  type: company
+  lat: 38.673867
+  long: -90.453198
+  description: Object Computing, Inc. offers ROS2, DDS, Cloud, AI/ML, blockchain,
+    and other areas.
+  link: https://objectcomputing.com/
 - name: Oceaneering, Mobile Robotics Innovation Lab
   type: company
   lat: 39.173225
@@ -576,9 +576,6 @@
   lat: 45.494984
   long: -73.562855
   address: 1100, rue Notre-Dame Ouest (angle Peel) Montréal (Québec) H3C 1K3
-- name: Object Computing, Inc
-  type: company
-  lat: 38.673867
-  long: -90.453198
-  description: Object Computing, Inc. offers ROS2, DDS, Cloud, AI/ML, blockchain, and other areas.
-  link: https://objectcomputing.com/
+  description: French speaking engineering university. Our university has many robotics
+    student clubs.
+  link: https://www.etsmtl.ca/
