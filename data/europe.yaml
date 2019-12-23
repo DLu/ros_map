@@ -42,6 +42,11 @@
   long: 22.960775
   description: P.A.N.D.O.R.A. Robotics Team
   link: http://pandora.ee.auth.gr
+- name: Beta Robots
+  type: company
+  lat: 41.631967
+  lon: 2.298813
+  link: http://www.beta-robots.com
 - name: Blue Ocean Robotics
   type: company
   lat: 55.375476
