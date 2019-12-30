@@ -45,7 +45,7 @@
 - name: Beta Robots
   type: company
   lat: 41.631967
-  lon: 2.298813
+  long: 2.298813
   link: http://www.beta-robots.com
 - name: Blue Ocean Robotics
   type: company
