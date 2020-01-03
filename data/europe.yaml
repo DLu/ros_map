@@ -426,6 +426,15 @@
     decisions and mission planning, knowledge management, multi-agent systems and
     advanced human-robot interaction systems.
   link: http://www.fit.vutbr.cz/research/groups/robo/index.php.en
+- name: Roboception GmbH
+  type: company
+  lat: 48.149429
+  long: 11.460008
+  address: Kaflerstr. 2, 81241 Munich, Germany
+  description: Roboception GmbH develops software and hardware products for real-time
+    perception and localisation of robotic systems. The name Roboception is comprised
+    of the words Robotics and Perception.
+  link: https://roboception.com
 - name: Robosavvy Lda.
   type: company
   lat: 38.727888
