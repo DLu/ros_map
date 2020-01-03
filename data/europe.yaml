@@ -638,3 +638,10 @@
   type: school
   lat: 45.523715
   long: 9.219541
+- name: Génération Robots
+  type: company
+  lat: 44.855124
+  long: -0.673166
+  address: 10 Rue Joule, 33700 Mérignac, France
+  description: Robotics, software engineering, AI, reseller
+  link: https://www.generationrobots.com
