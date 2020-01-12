@@ -371,6 +371,11 @@
   long: 2.194252
   address: Carrer Pujades 77-79, 08005 Barcelona, Spain
   link: http://pal-robotics.com
+- name: Photoneo
+  type: company
+  lat: 48.147233
+  long: 17.142807
+  link: https://www.photoneo.com/
 - name: Pick-it N.V.
   type: company
   lat: 50.865348
