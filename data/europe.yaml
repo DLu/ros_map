@@ -117,11 +117,13 @@
   long: 8.42477
   address: Karlsruhe, Germany
   link: http://www.fzi.de/en/research/research-sectors/anwendungsfelder-en/afeld/automation-und-robotik/
-- name: Fraunhofer FKIE
+- name: Fraunhofer Institute for Communication, Information Processing and Ergonomics FKIE
   type: research institute
   lat: 50.617713
   long: 7.13065
-  address: Neuenahrer Straße 20, 53343 Wachtberg
+  address: Fraunhoferstraße 20, 53343 Wachtberg, Germany
+  description: Cognitive mobile systems, innovative prototype applications for single- and multi-robot systems, intelligent assistance functions
+  link: https://www.fkie.fraunhofer.de
 - name: Fraunhofer IPA
   type: research institute
   lat: 48.741341
