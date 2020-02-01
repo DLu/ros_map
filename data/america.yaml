@@ -585,3 +585,9 @@
   long: -73.946908
   address: Parque Industrial Gran Sabana Edificio 32.
   link: http://www.colsein.com.co/
+- name: Centro de Investigación en Informática para la Ingeniería CIII - UTN
+  type: school
+  lat: -31.441701
+  long: -64.193287
+  address: Maestro López esq. Cruz Roja Argentina - Edificio CIII
+  link: https://ciii.frc.utn.edu.ar/ciii/
