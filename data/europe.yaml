@@ -259,6 +259,12 @@
   address: Gaston Geenslaan 9 B2 - Heverlee, Belgium
   description: From Software to Robots
   link: http://www.intermodalics.eu/
+- name: Istanbul Technical University
+  type: school
+  lat: 41.102554
+  long: 29.027274
+  address: ITU Autonomous Underwater Vehicle Team, Faculty of Naval Architecture and Design, Istanbul, Turkey
+  link: http://auv.itu.edu.tr/index-eng.html
 - name: KTH Royal Institute of Technology
   type: school
   lat: 59.3463036
