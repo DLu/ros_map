@@ -472,6 +472,12 @@
   lat: 52.22085
   long: 6.885674
   link: https://www.saxion.nl/mechatronics
+- name: Sencer Yazici
+  type: other
+  lat: 41.011243
+  long: 29.082413
+  description: ROS Enthusiastic
+  link: https://senceryazici.github.io
 - name: Smart Robotics
   type: company
   lat: 51.48872
