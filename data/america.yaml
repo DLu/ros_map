@@ -300,6 +300,12 @@
   lat: 44.567365
   long: -123.275528
   link: http://robotics.oregonstate.edu
+- name: Polytechnique Montreal
+  type: school
+  lat: 45.504651
+  long: -73.612862
+  address: 2500, chemin de Polytechnique, Montreal (Quebec) H3T 1J4 Canada
+  link: https://www.polymtl.ca/
 - name: PSG College of Technology
   type: school
   lat: 11.02417
