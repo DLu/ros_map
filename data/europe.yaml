@@ -282,6 +282,13 @@
   lat: 49.012142
   long: 8.417019
   link: http://rob.ipr.kit.edu
+- name: Laboratory for Analysis and Architecture of Systems (LAAS) 
+  type: research institute
+  lat: 43.563836
+  long: 1.476746
+  link: http://www.laas.fr
+  address: 7 Avenue du Colonel Roche, Toulouse, France
+  description: Research in robotics, optimization, control and formal verification (and also in material science)
 - name: MASCOR Institute at University of Applied Sciences (FH Aachen)
   type: research institute
   lat: 50.761113
