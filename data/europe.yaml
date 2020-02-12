@@ -182,6 +182,12 @@
     in the cities of Porto, Braga and Vila Real, INESC TEC incorporates 12 R&D Centres
     and one Associate Unit with complementary competences
   link: http://www.inesctec.pt
+- name: INRIA Nancy
+  type: research institute
+  lat: 48.664011
+  long: 6.155633
+  description: INRIA Nancy, LARSEN Team is focus on robotics R&D.
+  link: https://team.inria.fr/larsen/
 - name: IXION, Smart Automation
   type: company
   lat: 40.4342401
