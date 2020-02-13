@@ -679,3 +679,9 @@
   address: 10 Rue Joule, 33700 Mérignac, France
   description: Robotics, software engineering, AI, reseller
   link: https://www.generationrobots.com
+- name: Laboratory for Manufacturing Systems and Automation (LMS)
+  type: research institute
+  lat: 38.287808
+  long: 21.786494
+  address: Panepistimioupoli Patron, Rio
+  link: http://lms.mech.upatras.gr
