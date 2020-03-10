@@ -597,7 +597,7 @@
   long: -64.193287
   address: Maestro López esq. Cruz Roja Argentina - Edificio CIII
   link: https://ciii.frc.utn.edu.ar/ciii/
-  - name: Instituto Tecnológico y de Estudios Superiores de Monterrey, Campus Querétaro.
+- name: Instituto Tecnológico y de Estudios Superiores de Monterrey, Campus Querétaro.
   type: school
   lat: 20.614615
   long: -100.402977
