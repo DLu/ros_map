@@ -691,3 +691,8 @@
   lat: 48.896378
   long: 2.236371
   description: Engineer School
+- name: Universitatea Titu Maiorescu
+  type: school
+  lat: 44.413634
+  long: 26.115238
+
