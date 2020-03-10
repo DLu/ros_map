@@ -42,6 +42,11 @@
   long: 22.960775
   description: P.A.N.D.O.R.A. Robotics Team
   link: http://pandora.ee.auth.gr
+- name: Beta Robots
+  type: company
+  lat: 41.631967
+  long: 2.298813
+  link: http://www.beta-robots.com
 - name: Blue Ocean Robotics
   type: company
   lat: 55.375476
@@ -112,11 +117,13 @@
   long: 8.42477
   address: Karlsruhe, Germany
   link: http://www.fzi.de/en/research/research-sectors/anwendungsfelder-en/afeld/automation-und-robotik/
-- name: Fraunhofer FKIE
+- name: Fraunhofer Institute for Communication, Information Processing and Ergonomics FKIE
   type: research institute
   lat: 50.617713
   long: 7.13065
-  address: Neuenahrer Straße 20, 53343 Wachtberg
+  address: Fraunhoferstraße 20, 53343 Wachtberg, Germany
+  description: Cognitive mobile systems, innovative prototype applications for single- and multi-robot systems, intelligent assistance functions
+  link: https://www.fkie.fraunhofer.de
 - name: Fraunhofer IPA
   type: research institute
   lat: 48.741341
@@ -175,6 +182,12 @@
     in the cities of Porto, Braga and Vila Real, INESC TEC incorporates 12 R&D Centres
     and one Associate Unit with complementary competences
   link: http://www.inesctec.pt
+- name: INRIA Nancy
+  type: research institute
+  lat: 48.664011
+  long: 6.155633
+  description: INRIA Nancy, LARSEN Team is focus on robotics R&D.
+  link: https://team.inria.fr/larsen/
 - name: IXION, Smart Automation
   type: company
   lat: 40.4342401
@@ -252,6 +265,12 @@
   address: Gaston Geenslaan 9 B2 - Heverlee, Belgium
   description: From Software to Robots
   link: http://www.intermodalics.eu/
+- name: Istanbul Technical University
+  type: school
+  lat: 41.102554
+  long: 29.027274
+  address: ITU Autonomous Underwater Vehicle Team, Faculty of Naval Architecture and Design, Istanbul, Turkey
+  link: http://auv.itu.edu.tr/index-eng.html
 - name: KTH Royal Institute of Technology
   type: school
   lat: 59.3463036
@@ -269,6 +288,13 @@
   lat: 49.012142
   long: 8.417019
   link: http://rob.ipr.kit.edu
+- name: Laboratory for Analysis and Architecture of Systems (LAAS)
+  type: research institute
+  lat: 43.563836
+  long: 1.476746
+  link: http://www.laas.fr
+  address: 7 Avenue du Colonel Roche, Toulouse, France
+  description: Research in robotics, optimization, control and formal verification (and also in material science)
 - name: MASCOR Institute at University of Applied Sciences (FH Aachen)
   type: research institute
   lat: 50.761113
@@ -366,6 +392,11 @@
   long: 2.194252
   address: Carrer Pujades 77-79, 08005 Barcelona, Spain
   link: http://pal-robotics.com
+- name: Photoneo
+  type: company
+  lat: 48.147233
+  long: 17.142807
+  link: https://www.photoneo.com/
 - name: Pick-it N.V.
   type: company
   lat: 50.865348
@@ -421,6 +452,15 @@
     decisions and mission planning, knowledge management, multi-agent systems and
     advanced human-robot interaction systems.
   link: http://www.fit.vutbr.cz/research/groups/robo/index.php.en
+- name: Roboception GmbH
+  type: company
+  lat: 48.149429
+  long: 11.460008
+  address: Kaflerstr. 2, 81241 Munich, Germany
+  description: Roboception GmbH develops software and hardware products for real-time
+    perception and localisation of robotic systems. The name Roboception is comprised
+    of the words Robotics and Perception.
+  link: https://roboception.com
 - name: Robosavvy Lda.
   type: company
   lat: 38.727888
@@ -445,6 +485,12 @@
   lat: 52.22085
   long: 6.885674
   link: https://www.saxion.nl/mechatronics
+- name: Sencer Yazici
+  type: other
+  lat: 41.011243
+  long: 29.082413
+  description: ROS Enthusiastic
+  link: https://senceryazici.github.io
 - name: Smart Robotics
   type: company
   lat: 51.48872
@@ -633,7 +679,20 @@
   type: school
   lat: 45.523715
   long: 9.219541
-  name: Universitatea Titu Maiorescu
+- name: Génération Robots
+  type: company
+  lat: 44.855124
+  long: -0.673166
+  address: 10 Rue Joule, 33700 Mérignac, France
+  description: Robotics, software engineering, AI, reseller
+  link: https://www.generationrobots.com
+- name: ESILV
+  type: school
+  lat: 48.896378
+  long: 2.236371
+  description: Engineer School
+- name: Universitatea Titu Maiorescu
   type: school
   lat: 44.413634
   long: 26.115238
+
