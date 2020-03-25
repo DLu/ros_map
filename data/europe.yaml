@@ -93,6 +93,17 @@
   lat: 55.369208
   long: 10.413344
   link: http://dti.dk/robot
+- name: ENSTA Paris
+  type: school
+  lat: 48.710798070702
+  long: 2.21939363624857
+  address: 828 Boulevard des Maréchaux, 91120 Palaiseau, France, France
+  link: https://www.ensta-paris.fr/
+- name: ESILV
+  type: school
+  lat: 48.896378
+  long: 2.236371
+  description: Engineer School
 - name: ETH Zurich
   type: school
   lat: 47.376151
@@ -117,19 +128,21 @@
   long: 8.42477
   address: Karlsruhe, Germany
   link: http://www.fzi.de/en/research/research-sectors/anwendungsfelder-en/afeld/automation-und-robotik/
-- name: Fraunhofer Institute for Communication, Information Processing and Ergonomics FKIE
-  type: research institute
-  lat: 50.617713
-  long: 7.13065
-  address: Fraunhoferstraße 20, 53343 Wachtberg, Germany
-  description: Cognitive mobile systems, innovative prototype applications for single- and multi-robot systems, intelligent assistance functions
-  link: https://www.fkie.fraunhofer.de
 - name: Fraunhofer IPA
   type: research institute
   lat: 48.741341
   long: 9.0989681
   address: Nobelstr. 12, 70569 Stuttgart, Germany
   link: http://care-o-bot.org
+- name: Fraunhofer Institute for Communication, Information Processing and Ergonomics
+    FKIE
+  type: research institute
+  lat: 50.617713
+  long: 7.13065
+  address: Fraunhoferstraße 20, 53343 Wachtberg, Germany
+  description: Cognitive mobile systems, innovative prototype applications for single-
+    and multi-robot systems, intelligent assistance functions
+  link: https://www.fkie.fraunhofer.de
 - name: Fundacion Tekniker
   type: research institute
   lat: 43.036776
@@ -138,6 +151,13 @@
   type: research institute
   lat: 43.149094
   long: -2.460937
+- name: Génération Robots
+  type: company
+  lat: 44.855124
+  long: -0.673166
+  address: 10 Rue Joule, 33700 Mérignac, France
+  description: Robotics, software engineering, AI, reseller
+  link: https://www.generationrobots.com
 - name: Heriot-Watt University
   type: school
   lat: 55.899956
@@ -269,7 +289,8 @@
   type: school
   lat: 41.102554
   long: 29.027274
-  address: ITU Autonomous Underwater Vehicle Team, Faculty of Naval Architecture and Design, Istanbul, Turkey
+  address: ITU Autonomous Underwater Vehicle Team, Faculty of Naval Architecture and
+    Design, Istanbul, Turkey
   link: http://auv.itu.edu.tr/index-eng.html
 - name: KTH Royal Institute of Technology
   type: school
@@ -292,9 +313,10 @@
   type: research institute
   lat: 43.563836
   long: 1.476746
-  link: http://www.laas.fr
   address: 7 Avenue du Colonel Roche, Toulouse, France
-  description: Research in robotics, optimization, control and formal verification (and also in material science)
+  description: Research in robotics, optimization, control and formal verification
+    (and also in material science)
+  link: http://www.laas.fr
 - name: MASCOR Institute at University of Applied Sciences (FH Aachen)
   type: research institute
   lat: 50.761113
@@ -552,6 +574,10 @@
   type: school
   lat: 40.580585
   long: -8.635254
+- name: Universitatea Titu Maiorescu
+  type: school
+  lat: 44.413634
+  long: 26.115238
 - name: University Jaume I
   type: school
   lat: 39.991756
@@ -679,20 +705,3 @@
   type: school
   lat: 45.523715
   long: 9.219541
-- name: Génération Robots
-  type: company
-  lat: 44.855124
-  long: -0.673166
-  address: 10 Rue Joule, 33700 Mérignac, France
-  description: Robotics, software engineering, AI, reseller
-  link: https://www.generationrobots.com
-- name: ESILV
-  type: school
-  lat: 48.896378
-  long: 2.236371
-  description: Engineer School
-- name: Universitatea Titu Maiorescu
-  type: school
-  lat: 44.413634
-  long: 26.115238
-
