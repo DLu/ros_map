@@ -705,3 +705,9 @@
   type: school
   lat: 45.523715
   long: 9.219541
+- name: Laboratory for Manufacturing Systems and Automation (LMS)
+  type: research institute
+  lat: 38.287808
+  long: 21.786494
+  address: Panepistimioupoli Patron, Rio
+  link: http://lms.mech.upatras.gr
