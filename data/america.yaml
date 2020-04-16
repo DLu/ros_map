@@ -171,13 +171,13 @@
   long: -46.676705
   address: R. Quatá, 300 - Vila Olímpia, São Paulo - SP, 04546-042, Brasil
   link: www.github.com/insper/robot19
-- name: Instituto Tecnológico y de Estudios Superiores de Monterrey, Campus Querétaro.
+- name: Instituto Tecnologico y de Estudios Superiores de Monterrey, Campus Queretaro.
   type: school
   lat: 20.614615
   long: -100.402977
   address: Epigmenio González 500 Fracc. San Pablo 76130 Querétaro, Qro., Mexico.
-  description: We use ROS in the Applied Robotics and Robotics Project classes among
-    others.
+  description: We use ROS in the Applied Robotics, Robotics Project, Semestre-i
+    classes, as well as semana-i.
   link: https://tec.mx/en/queretaro
 - name: Intel Labs Seattle
   type: company
