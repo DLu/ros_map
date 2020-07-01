@@ -377,6 +377,12 @@
   address: Heggeranklaan 1, 5643 BP, Eindhoven
   description: autonomous | intelligent | systems
   link: https://nobleo-technology.nl
+- name: Norwegian University of Science and Technology (NTNU)
+  type: school
+  lat: 63.42284
+  long: 10.43541
+  address: Otto Nielsens Veg 10, 7050, Trondheim, Norway
+  description: Department of Marine Technology
 - name: OFFIS Institute for Information Technology
   type: research institute
   lat: 53.148739
