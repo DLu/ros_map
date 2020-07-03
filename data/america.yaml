@@ -344,6 +344,12 @@
   long: -71.049622
   address: 27 Wormwood St, Boston, MA, USA 02210
   link: http://www.rethinkrobotics.com
+- name: Rhoeby Dynamics
+  type: company
+  lat: 36.969092
+  long: -122.007788
+  address: 610 Seabright Ave, Santa Cruz, CA, 95062
+  link: http://www.rhoeby.com
 - name: RobotAppStore
   type: company
   lat: 37.79406
