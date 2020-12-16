@@ -717,3 +717,9 @@
   long: 21.786494
   address: Panepistimioupoli Patron, Rio
   link: http://lms.mech.upatras.gr
+- name: Szenergy - Autonomous and eco vehicle development team at the Széchenyi University
+  type: school
+  lat: 47.69346873841386
+  long: 17.62871448787809
+  address: Hungary, Győr, Egyetem tér 1.
+  link: https://github.com/szenergy
