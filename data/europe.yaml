@@ -363,6 +363,13 @@
   long: 23.784939
   description: Control Systems Laboratory
   link: http://www.controlsystemslab.gr/main/
+- name: NeoFarm
+  type: company
+  lat: 48.866249
+  long: 1.989379
+  address: Chemin des 40 Arpents, 78860 Saint-Nom-la-Breteche
+  description: Robotics and AI for agroecologic, organic micro-farms.
+  link: http://www.neo.farm
 - name: Neurotechnology
   type: company
   lat: 54.727483
