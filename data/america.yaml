@@ -338,12 +338,6 @@
   long: -113.498983
   address: 10359 104 St NW, Edmonton, AB T5J 1B9
   link: http://rosedmonton.org
-- name: Rethink Robotics
-  type: company
-  lat: 42.34691
-  long: -71.049622
-  address: 27 Wormwood St, Boston, MA, USA 02210
-  link: http://www.rethinkrobotics.com
 - name: Rhoeby Dynamics
   type: company
   lat: 36.969092
