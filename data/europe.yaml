@@ -452,6 +452,12 @@
   address: Felix-Wankel-Straße 2, 73760 Ostfildern
   description: The Spirit of Safety
   link: https://www.pilz.com/en-INT/products-solutions/robotics/ros-modules
+- name: Rethink Robotics GmbH
+  type: company
+  lat: 51.477111
+  long: 7.295245
+  address: Industriestraße 38C, 44894 Bochum, Germany
+  link: http://www.rethinkrobotics.com
 - name: RTC Group - University of Seville
   type: school
   lat: 37.381009
