@@ -36,7 +36,7 @@ if __name__ == '__main__':
     entry['lat'] = location.latitude
     entry['long'] = location.longitude
 
-    if location.longitude < 0:
+    if location.longitude < -28:    # Recife, Brazil @ -34, Reykjavik, Iceland @ -22 - still not correct for eastern Russia!
         datafile = 'america'
     else:
         datafile = choose(datafiles, 'Chose a datafile> ')
@@ -50,7 +50,7 @@ if __name__ == '__main__':
         entry['link'] = link
 
     full_filename = f'data/{datafile}.yaml'
-    data = yaml.load(open(full_filename))
+    data = yaml.safe_load(open(full_filename))
     data.append(entry)
     data = sorted(data, key=lambda d: d['name'])
     yaml.dump(data, open(full_filename, 'w'), allow_unicode=True, default_flow_style=False)
