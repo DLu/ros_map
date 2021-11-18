@@ -736,3 +736,9 @@
   long: 17.62871448787809
   address: Hungary, Győr, Egyetem tér 1.
   link: https://github.com/szenergy
+- name: Alperen Kösem
+  type: other
+  lat: 41.003350
+  long: 28.866062
+  address: Yildiz Technical University, Turkey
+  link: https://github.com/AlperenKosem
