@@ -83,6 +83,13 @@
   lat: 48.741341
   long: 9.0969681
   link: http://care-o-bot.org
+- name: Centrale Nantes
+  type: school
+  lat: 47.2182655334773
+  long: -1.55718100070255
+  address: Nantes, France
+  description: Engineering school, using ROS and ROS 2 in research and education
+  link: https://www.ec-nantes.fr/english-version
 - name: Complubot
   type: company
   lat: 40.4903
