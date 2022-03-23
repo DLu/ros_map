@@ -755,3 +755,9 @@
   long: 30.353908
   link: https://github.com/davutcanakbas
   description: Autonomous systems & Ros developer 
+- name: Vehicle Industry Research Center
+  type: research institute
+  lat: 47.693468
+  long: 17.62871
+  address: Hungary, Győr, Egyetem tér 1.
+  link: https://jkk-web.sze.hu/?lang=en
