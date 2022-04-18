@@ -165,6 +165,15 @@
   lat: 29.547417
   long: -95.122972
   link: https://www.houstonmechatronics.com
+- name: Human Machine Interaction & Innovation Research Group 
+  type: school
+  lat: 37.348928  
+  long: -121.938094
+  address: 500 El Camino Real, Santa Clara, CA 95053
+  description: The Human Machine Interaction & Innovation lab at Santa Clara University
+    is a leading research group focussing on human-robot interaction and assistive robotics.
+    We also teach ROS as an undergraduate lab course.
+  link: https://sites.google.com/view/mariakyrarini/hmi2-research-group
 - name: INSPER - Instituto de Pesquisa e Ensino
   type: school
   lat: -23.598565
