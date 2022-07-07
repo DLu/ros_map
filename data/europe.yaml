@@ -761,3 +761,9 @@
   long: 17.62871
   address: Hungary, Győr, Egyetem tér 1.
   link: https://jkk-web.sze.hu/?lang=en
+- name: Mat Sadowski
+  type: other
+  lat: 50.075539
+  long: 14.437800
+  link: https://msadowski.github.io/
+  description: ROS Consultant
