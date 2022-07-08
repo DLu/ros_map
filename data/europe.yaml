@@ -761,3 +761,9 @@
   long: 17.62871
   address: Hungary, Győr, Egyetem tér 1.
   link: https://jkk-web.sze.hu/?lang=en
+- name: Onur Berk Töre
+  type: other
+  lat: 41.207278
+  long: 29.075144
+  link: https://onurtore.github.io
+  description: Roboticist
