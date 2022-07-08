@@ -619,3 +619,8 @@
   long: -73.574010
   link: https://solidstateofmind.com/
   description: We build artificial brains for the real world.
+- name: Escuela Superior Politécnica del Litoral (ESPOL)
+  type: school
+  lat: -2.1516441
+  long: -79.957254
+  link: https://www.espol.edu.ec/
