@@ -761,3 +761,9 @@
   long: 17.62871
   address: Hungary, Győr, Egyetem tér 1.
   link: https://jkk-web.sze.hu/?lang=en
+- name: Cardiff University
+  type: school
+  lat: 51.4884967
+  long: -3.1795484
+  link: https://www.cardiff.ac.uk/
+  description: Has the Cardiff University Computational Robotics organization doing research on Social Robot Navigation and Virtual Reality with ROS.
