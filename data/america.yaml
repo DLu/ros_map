@@ -115,6 +115,14 @@
   long: -83.167906
   address: 5800 Crooks Road, Troy, MI 48098
   link: http://dataspeedinc.com/
+- name: Equipe ThundeRatz de Robótica da Escola Politécnica da USP
+  type: school
+  lat: -23.5539531
+  long: -46.7289398
+  address: Av. Professor Mello Moraes, 2231 - Butantã, São Paulo - SP, 05508-030 Brazil
+  description: The ThundeRatz Robotics Team is one of the major universitarion robotics team
+    in Latin America, with projects ranging from autonomous exploration robots to combat robots
+  link: https://thunderatz.org/
 - name: Ekumen
   type: company
   lat: -34.583067
