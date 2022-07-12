@@ -785,3 +785,9 @@
   long: 29.075144
   link: https://onurtore.github.io
   description: Roboticist
+- name: Aditya Kamath
+  type: other
+  lat: 51.446181
+  long: 5.479506
+  link: https://adityakamath.github.io/blog
+  description: Robotics/Embedded Systems Engineer
