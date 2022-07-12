@@ -779,3 +779,9 @@
   long: -3.1795484
   link: https://www.cardiff.ac.uk/
   description: Has the Cardiff University Computational Robotics organization doing research on Social Robot Navigation and Virtual Reality with ROS.
+- name: Onur Berk Töre
+  type: other
+  lat: 41.207278
+  long: 29.075144
+  link: https://onurtore.github.io
+  description: Roboticist
