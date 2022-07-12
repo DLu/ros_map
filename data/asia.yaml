@@ -175,3 +175,9 @@
   type: school
   lat: 51.0906848
   long: 71.3972529
+- name: Open Robotics
+  type: company
+  lat: 1.298840
+  long: 103.787860
+  address: '3 Fusionopolis Way, Symbiosis #13-21, Singapore 138633'
+  link: https://www.openrobotics.org/
