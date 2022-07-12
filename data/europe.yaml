@@ -129,6 +129,12 @@
   lat: 51.55451
   long: 4.73206
   link: https://exrobotics.global
+- name: Fraunhofer IOSB
+  type: research institute
+  lat: 49.01599313252165
+  long: 8.426699461660508
+  address: Fraunhoferstr. 1, 76131 Karlsruhe
+  link: https://www.iosb.fraunhofer.de/en/competences/system-technology/systems-measurement-control-diagnosis/research-topics/robotics.html
 - name: FZI Research Center for Information Technology
   type: research institute
   lat: 49.01212
