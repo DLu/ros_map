@@ -761,3 +761,9 @@
   long: 17.62871
   address: Hungary, Győr, Egyetem tér 1.
   link: https://jkk-web.sze.hu/?lang=en
+- name: Palaio Logic
+  type: other
+  lat: 48.809842
+  long: 2.317557
+  description: Autonomous Decision-Making for Interactive Agents
+  link: https://palaio.eu
