@@ -761,6 +761,24 @@
   long: 17.62871
   address: Hungary, Győr, Egyetem tér 1.
   link: https://jkk-web.sze.hu/?lang=en
+- name: Palaio Logic
+  type: other
+  lat: 48.809842
+  long: 2.317557
+  description: Autonomous Decision-Making for Interactive Agents
+  link: https://palaio.eu
+- name: Mat Sadowski
+  type: other
+  lat: 50.075539
+  long: 14.437800
+  link: https://msadowski.github.io/
+  description: ROS Consultant
+- name: Cardiff University
+  type: school
+  lat: 51.4884967
+  long: -3.1795484
+  link: https://www.cardiff.ac.uk/
+  description: Has the Cardiff University Computational Robotics organization doing research on Social Robot Navigation and Virtual Reality with ROS.
 - name: Onur Berk Töre
   type: other
   lat: 41.207278
