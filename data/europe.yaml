@@ -14,6 +14,12 @@
   lat: 51.37431
   long: 6.15568
   link: www.accerion.tech
+- name: Aditya Kamath
+  type: other
+  lat: 51.446181
+  long: 5.479506
+  description: Robotics/Embedded Systems Engineer
+  link: https://adityakamath.github.io/blog
 - name: Akcaabat Science High School
   type: school
   lat: 39.559112
@@ -36,6 +42,12 @@
   lat: 48.8286
   long: 2.2737
   address: 43, rue du Colonel Pierre Avia,
+- name: Alperen Kösem
+  type: other
+  lat: 41.00335
+  long: 28.866062
+  address: Yildiz Technical University, Turkey
+  link: https://github.com/AlperenKosem
 - name: Aristotle University of Thessaloniki
   type: school
   lat: 40.627491
@@ -78,6 +90,13 @@
   description: Popular educational quadcopters (https://coex.tech/clover) with ROS-powered
     software platform
   link: https://coex.tech
+- name: Cardiff University
+  type: school
+  lat: 51.4884967
+  long: -3.1795484
+  description: Has the Cardiff University Computational Robotics organization doing
+    research on Social Robot Navigation and Virtual Reality with ROS.
+  link: https://www.cardiff.ac.uk/
 - name: Care-O-bot
   type: research institute
   lat: 48.741341
@@ -100,6 +119,12 @@
   lat: 55.369208
   long: 10.413344
   link: http://dti.dk/robot
+- name: Davut Can Akbas
+  type: other
+  lat: 40.757471
+  long: 30.353908
+  description: Autonomous systems & Ros developer
+  link: https://github.com/davutcanakbas
 - name: ENSTA Paris
   type: school
   lat: 48.710798070702
@@ -129,18 +154,18 @@
   lat: 51.55451
   long: 4.73206
   link: https://exrobotics.global
-- name: Fraunhofer IOSB
-  type: research institute
-  lat: 49.01599313252165
-  long: 8.426699461660508
-  address: Fraunhoferstr. 1, 76131 Karlsruhe
-  link: https://www.iosb.fraunhofer.de/en/competences/system-technology/systems-measurement-control-diagnosis/research-topics/robotics.html
 - name: FZI Research Center for Information Technology
   type: research institute
   lat: 49.01212
   long: 8.42477
   address: Karlsruhe, Germany
   link: http://www.fzi.de/en/research/research-sectors/anwendungsfelder-en/afeld/automation-und-robotik/
+- name: Fraunhofer IOSB
+  type: research institute
+  lat: 49.01599313252165
+  long: 8.426699461660508
+  address: Fraunhoferstr. 1, 76131 Karlsruhe
+  link: https://www.iosb.fraunhofer.de/en/competences/system-technology/systems-measurement-control-diagnosis/research-topics/robotics.html
 - name: Fraunhofer IPA
   type: research institute
   lat: 48.741341
@@ -330,6 +355,12 @@
   description: Research in robotics, optimization, control and formal verification
     (and also in material science)
   link: http://www.laas.fr
+- name: Laboratory for Manufacturing Systems and Automation (LMS)
+  type: research institute
+  lat: 38.287808
+  long: 21.786494
+  address: Panepistimioupoli Patron, Rio
+  link: http://lms.mech.upatras.gr
 - name: MASCOR Institute at University of Applied Sciences (FH Aachen)
   type: research institute
   lat: 50.761113
@@ -342,6 +373,12 @@
   long: 10.191272
   address: P. O. Pedersens Vej 18, 8200 Aarhus, Denmark
   link: https://marel.com/
+- name: Mat Sadowski
+  type: other
+  lat: 50.075539
+  long: 14.4378
+  description: ROS Consultant
+  link: https://msadowski.github.io/
 - name: Merlin Systems Ltd
   type: company
   lat: 53.069631
@@ -423,6 +460,12 @@
   long: 12.5359979
   address: Rome, Italy
   link: http://www.officinerobotiche.it/
+- name: Onur Berk Töre
+  type: other
+  lat: 41.207278
+  long: 29.075144
+  description: Roboticist
+  link: https://onurtore.github.io
 - name: OpenRobotino
   type: company
   lat: 48.261256
@@ -440,6 +483,12 @@
   long: 2.194252
   address: Carrer Pujades 77-79, 08005 Barcelona, Spain
   link: http://pal-robotics.com
+- name: Palaio Logic
+  type: other
+  lat: 48.809842
+  long: 2.317557
+  description: Autonomous Decision-Making for Interactive Agents
+  link: https://palaio.eu
 - name: Photoneo
   type: company
   lat: 48.147233
@@ -465,12 +514,6 @@
   address: Felix-Wankel-Straße 2, 73760 Ostfildern
   description: The Spirit of Safety
   link: https://www.pilz.com/en-INT/products-solutions/robotics/ros-modules
-- name: Rethink Robotics GmbH
-  type: company
-  lat: 51.477111
-  long: 7.295245
-  address: Industriestraße 38C, 44894 Bochum, Germany
-  link: http://www.rethinkrobotics.com
 - name: RTC Group - University of Seville
   type: school
   lat: 37.381009
@@ -483,6 +526,12 @@
   lat: 51.48872
   long: 5.3946
   link: http://www.ruvu.nl
+- name: Rethink Robotics GmbH
+  type: company
+  lat: 51.477111
+  long: 7.295245
+  address: Industriestraße 38C, 44894 Bochum, Germany
+  link: http://www.rethinkrobotics.com
 - name: Rey Juan Carlos University
   type: school
   lat: 40.282609
@@ -550,6 +599,12 @@
   lat: 51.48872
   long: 5.3946
   link: https://www.smart-robotics.nl/
+- name: Szenergy - Autonomous and eco vehicle development team at the Széchenyi University
+  type: school
+  lat: 47.69346873841386
+  long: 17.62871448787809
+  address: Hungary, Győr, Egyetem tér 1.
+  link: https://github.com/szenergy
 - name: TNO Integrated Vehicle Safety
   type: research institute
   lat: 51.474398
@@ -707,6 +762,12 @@
   lat: 51.72571
   long: 5.39786
   link: www.cargo180.com
+- name: Vehicle Industry Research Center
+  type: research institute
+  lat: 47.693468
+  long: 17.62871
+  address: Hungary, Győr, Egyetem tér 1.
+  link: https://jkk-web.sze.hu/?lang=en
 - name: Vitec Videocom
   type: company
   lat: 52.25214
@@ -737,63 +798,3 @@
   type: school
   lat: 45.523715
   long: 9.219541
-- name: Laboratory for Manufacturing Systems and Automation (LMS)
-  type: research institute
-  lat: 38.287808
-  long: 21.786494
-  address: Panepistimioupoli Patron, Rio
-  link: http://lms.mech.upatras.gr
-- name: Szenergy - Autonomous and eco vehicle development team at the Széchenyi University
-  type: school
-  lat: 47.69346873841386
-  long: 17.62871448787809
-  address: Hungary, Győr, Egyetem tér 1.
-  link: https://github.com/szenergy
-- name: Alperen Kösem
-  type: other
-  lat: 41.003350
-  long: 28.866062
-  address: Yildiz Technical University, Turkey
-  link: https://github.com/AlperenKosem
-- name: Davut Can Akbas
-  type: other
-  lat: 40.757471
-  long: 30.353908
-  link: https://github.com/davutcanakbas
-  description: Autonomous systems & Ros developer 
-- name: Vehicle Industry Research Center
-  type: research institute
-  lat: 47.693468
-  long: 17.62871
-  address: Hungary, Győr, Egyetem tér 1.
-  link: https://jkk-web.sze.hu/?lang=en
-- name: Palaio Logic
-  type: other
-  lat: 48.809842
-  long: 2.317557
-  description: Autonomous Decision-Making for Interactive Agents
-  link: https://palaio.eu
-- name: Mat Sadowski
-  type: other
-  lat: 50.075539
-  long: 14.437800
-  link: https://msadowski.github.io/
-  description: ROS Consultant
-- name: Cardiff University
-  type: school
-  lat: 51.4884967
-  long: -3.1795484
-  link: https://www.cardiff.ac.uk/
-  description: Has the Cardiff University Computational Robotics organization doing research on Social Robot Navigation and Virtual Reality with ROS.
-- name: Onur Berk Töre
-  type: other
-  lat: 41.207278
-  long: 29.075144
-  link: https://onurtore.github.io
-  description: Roboticist
-- name: Aditya Kamath
-  type: other
-  lat: 51.446181
-  long: 5.479506
-  link: https://adityakamath.github.io/blog
-  description: Robotics/Embedded Systems Engineer

@@ -115,14 +115,6 @@
   long: -83.167906
   address: 5800 Crooks Road, Troy, MI 48098
   link: http://dataspeedinc.com/
-- name: Equipe ThundeRatz de Robótica da Escola Politécnica da USP
-  type: school
-  lat: -23.5539531
-  long: -46.7289398
-  address: Av. Professor Mello Moraes, 2231 - Butantã, São Paulo - SP, 05508-030 Brazil
-  description: The ThundeRatz Robotics Team is one of the major universitarion robotics team
-    in Latin America, with projects ranging from autonomous exploration robots to combat robots
-  link: https://thunderatz.org/
 - name: Ekumen
   type: company
   lat: -34.583067
@@ -131,6 +123,20 @@
   description: International engineering boutique, provider of advanced software development
     services and technology.
   link: http://www.ekumenlabs.com/
+- name: Equipe ThundeRatz de Robótica da Escola Politécnica da USP
+  type: school
+  lat: -23.5539531
+  long: -46.7289398
+  address: Av. Professor Mello Moraes, 2231 - Butantã, São Paulo - SP, 05508-030 Brazil
+  description: The ThundeRatz Robotics Team is one of the major universitarion robotics
+    team in Latin America, with projects ranging from autonomous exploration robots
+    to combat robots
+  link: https://thunderatz.org/
+- name: Escuela Superior Politécnica del Litoral (ESPOL)
+  type: school
+  lat: -2.1516441
+  long: -79.957254
+  link: https://www.espol.edu.ec/
 - name: Falkor Systems
   type: company
   lat: 38.85682
@@ -173,14 +179,14 @@
   lat: 29.547417
   long: -95.122972
   link: https://www.houstonmechatronics.com
-- name: Human Machine Interaction & Innovation Research Group 
+- name: Human Machine Interaction & Innovation Research Group
   type: school
-  lat: 37.348928  
+  lat: 37.348928
   long: -121.938094
   address: 500 El Camino Real, Santa Clara, CA 95053
   description: The Human Machine Interaction & Innovation lab at Santa Clara University
-    is a leading research group focussing on human-robot interaction and assistive robotics.
-    We also teach ROS as an undergraduate lab course.
+    is a leading research group focussing on human-robot interaction and assistive
+    robotics. We also teach ROS as an undergraduate lab course.
   link: https://sites.google.com/view/mariakyrarini/hmi2-research-group
 - name: INSPER - Instituto de Pesquisa e Ensino
   type: school
@@ -193,8 +199,8 @@
   lat: 20.614615
   long: -100.402977
   address: Epigmenio González 500 Fracc. San Pablo 76130 Querétaro, Qro., Mexico.
-  description: We use ROS in the Applied Robotics, Robotics Project, Semestre-i
-    classes, as well as semana-i.
+  description: We use ROS in the Applied Robotics, Robotics Project, Semestre-i classes,
+    as well as semana-i.
   link: https://tec.mx/en/queretaro
 - name: Intel Labs Seattle
   type: company
@@ -383,6 +389,12 @@
   long: -121.9954814
   address: 2900 Gordon Ave, Santa Clara, CA 95051
   link: http://www.savioke.com/
+- name: Solid State of Mind inc.
+  type: company
+  lat: 45.499369
+  long: -73.57401
+  description: We build artificial brains for the real world.
+  link: https://solidstateofmind.com/
 - name: Southern Illinois University
   type: school
   lat: 37.709899
@@ -619,16 +631,6 @@
   lat: 45.493617
   long: -73.562328
   address: 1219 rue William, Montréal, Quebec H3C 1R1
-  description: French speaking engineering university. Our university has many robotics student clubs.
+  description: French speaking engineering university. Our university has many robotics
+    student clubs.
   link: https://www.etsmtl.ca/
-- name: Solid State of Mind inc.
-  type: company
-  lat: 45.499369
-  long: -73.574010
-  link: https://solidstateofmind.com/
-  description: We build artificial brains for the real world.
-- name: Escuela Superior Politécnica del Litoral (ESPOL)
-  type: school
-  lat: -2.1516441
-  long: -79.957254
-  link: https://www.espol.edu.ec/

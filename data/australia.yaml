@@ -11,14 +11,14 @@
   lat: -43.524167
   long: 172.582726
   link: http://nz.linkedin.com/in/chrismeaclem/
+- name: Greenroom Robotics, Sydney
+  type: company
+  lat: -33.893092
+  long: 151.179326
+  link: https://greenroomrobotics.com/
 - name: Robots & Dinosuaurs, Sydney Makerspace
   type: other
   lat: -33.815556
   long: 151.089237
   description: Sydney Makerspace, Home of the Sydney ROS Users group
   link: http://robodino.org
-- name: Greenroom Robotics, Sydney
-  type: company
-  lat: -33.893092
-  long: 151.179326
-  link: https://greenroomrobotics.com/

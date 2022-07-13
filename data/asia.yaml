@@ -93,6 +93,10 @@
   long: 121.5398
   address: No. 1, Sec. 4, Roosevelt Rd., Taipei 10617, Taiwan (R.O.C.)
   link: http://www.iceira.ntu.edu.tw/en/
+- name: Nazarbayev University
+  type: school
+  lat: 51.0906848
+  long: 71.3972529
 - name: OMRON SINIC X
   type: company
   lat: 35.709478
@@ -108,6 +112,12 @@
   lat: 35.026974
   long: 135.78067299999998
   link: http://winnie.kuis.kyoto-u.ac.jp/index-e.html
+- name: Open Robotics
+  type: company
+  lat: 1.29884
+  long: 103.78786
+  address: '3 Fusionopolis Way, Symbiosis #13-21, Singapore 138633'
+  link: https://www.openrobotics.org/
 - name: Prince Sultan University
   type: school
   lat: 24.73641
@@ -171,13 +181,3 @@
   long: 126.874495
   address: '#601, Namsung-Plaza, 345-30 Gasan-dong, Guemcheon-gu, Seoul, Korea, 153-023.'
   link: http://www.yujinrobot.com/eng
-- name: Nazarbayev University
-  type: school
-  lat: 51.0906848
-  long: 71.3972529
-- name: Open Robotics
-  type: company
-  lat: 1.298840
-  long: 103.787860
-  address: '3 Fusionopolis Way, Symbiosis #13-21, Singapore 138633'
-  link: https://www.openrobotics.org/
