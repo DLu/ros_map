@@ -1,4 +1,4 @@
-from geopy.geocoders import GeocodeFarm
+from geopy.geocoders import get_geocoder_for_service
 import yaml
 from location_data import datafiles
 
@@ -27,7 +27,7 @@ if __name__ == '__main__':
 
     address = input('Address> ')
 
-    geolocator = GeocodeFarm()
+    geolocator = get_geocoder_for_service('photon')()
     location = geolocator.geocode(address, timeout=15)
     if location is None:
         print('Geocoder failed')
@@ -43,7 +43,7 @@ if __name__ == '__main__':
 
     include_address = choose(['yes', 'no'], 'Include address in entry?> ')
     if include_address == 'yes':
-        entry['address'] = location.raw['formatted_address']
+        entry['address'] = address
 
     link = input('URL Link (optional)> ')
     if link:
