@@ -52,7 +52,6 @@ def create_folder(name, data, verbose=False):
                 if weird_keys:
                     print('Weird key(s) %s for %s' % (', '.join(weird_keys), place['name']))
 
-
         tipo = place.get('type', None)
         if tipo == 'null' or tipo not in STYLES:
             tipo = None
@@ -129,6 +128,5 @@ if args.output:
     with open(args.output, 'w') as f:
         f.write(dom.toprettyxml())
 else:
-    print("Content-type: text/xml")
-    print()
+    print("Content-type: text/xml\n")
     print(dom.toprettyxml())

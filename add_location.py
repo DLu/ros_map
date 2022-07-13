@@ -36,10 +36,7 @@ if __name__ == '__main__':
     entry['lat'] = location.latitude
     entry['long'] = location.longitude
 
-    if location.longitude < -28:    # Recife, Brazil @ -34, Reykjavik, Iceland @ -22 - still not correct for eastern Russia!
-        datafile = 'america'
-    else:
-        datafile = choose(datafiles, 'Chose a datafile> ')
+    datafile = choose(datafiles, 'Chose a datafile> ')
 
     include_address = choose(['yes', 'no'], 'Include address in entry?> ')
     if include_address == 'yes':
