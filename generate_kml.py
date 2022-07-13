@@ -9,7 +9,7 @@ dom = Document()
 STYLES = {'school': '44AF62', 'company': 'F08641', 'other': '5EDDFF', None: 'FFFFFF', 'research institute': '3644DB'}
 
 REGIONS = ['america', 'asia', 'australia', 'europe', 'africa']
-PATTERN = 'https://raw.githubusercontent.com/DLu/ros_map/master/data/%s.yaml'
+PATTERN = 'https://raw.githubusercontent.com/DLu/ros_map/main/data/%s.yaml'
 
 
 def text_element(name, text, cdata=False):
