@@ -646,6 +646,18 @@
   type: company
   lat: 51.522416
   long: -0.043945
+- name: United Robots HQ
+  type: company
+  lat: 51.6418932
+  long: -0.4662761
+  address: 1 Park Road Rickmansworth WD3 1RE, London, United Kingdom
+  link: http://www.unitedrobots.co/
+- name: United Robots R&D Office
+  type: company
+  lat: 52.22318855
+  long: 20.95927374806449
+  address: Aleja Prymasa Tysiąclecia 46, 01-242 Warsaw, Poland
+  link: http://www.unitedrobots.co/
 - name: Universidad de Almeria
   type: school
   lat: 36.828998
