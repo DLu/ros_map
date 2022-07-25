@@ -810,3 +810,10 @@
   type: school
   lat: 45.523715
   long: 9.219541
+- name: University of Leeds
+  type: school
+  lat: 53.8102609221425
+  long: -1.5554069999995128
+  address: Woodhouse Lane, Woodhouse, Leeds LS2 9JT
+  description: Institute of Design, Robotics and Optimisation, School of Mechanical Engineering
+  
