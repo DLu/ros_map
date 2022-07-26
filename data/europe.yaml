@@ -816,4 +816,10 @@
   long: -1.5554069999995128
   address: Woodhouse Lane, Woodhouse, Leeds LS2 9JT
   description: Institute of Design, Robotics and Optimisation, School of Mechanical Engineering
-  
+- name: matom.ai
+  type: company
+  lat: 54.9034677
+  long: 23.9602542
+  link: matom.ai
+  description: We are experts in 3D/2D Computer Vision, Artificial Intelligence, Robotics
+  address: Studentų g. 65, Kaunas 51369
