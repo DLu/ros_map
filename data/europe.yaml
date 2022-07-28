@@ -330,6 +330,14 @@
   address: ITU Autonomous Underwater Vehicle Team, Faculty of Naval Architecture and
     Design, Istanbul, Turkey
   link: http://auv.itu.edu.tr/index-eng.html
+- name: Jacobs
+  type: company
+  lat: 53.4236275
+  long: -2.5210192
+  description: Multi-national consultancy firm providing technology solutions for the 
+  infrastructure, energy, environment, space and other markets.
+  ROS is used in Engineering Development in Warrington, UK
+  link: https://www.jacobs.com
 - name: KTH Royal Institute of Technology
   type: school
   lat: 59.3463036
