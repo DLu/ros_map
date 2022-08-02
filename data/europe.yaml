@@ -334,9 +334,9 @@
   type: company
   lat: 53.4236275
   long: -2.5210192
-  description: Multi-national consultancy firm providing technology solutions for the 
-  infrastructure, energy, environment, space and other markets.
-  ROS is used in Engineering Development in Warrington, UK
+  description: Multi-national consultancy firm providing technology solutions for
+    the infrastructure, energy, environment, space and other markets. ROS is used
+    in Engineering Development in Warrington, UK
   link: https://www.jacobs.com
 - name: KTH Royal Institute of Technology
   type: school
@@ -735,6 +735,13 @@
   address: Wilhelmshöher Allee 73, 34121 Kassel, Germany
   description: Distributed Systems Group, Electrical Engineering and Computer Science
   link: http://www.vs.uni-kassel.de/ http://www.das-lab.net/
+- name: University of Leeds
+  type: school
+  lat: 53.8102609221425
+  long: -1.5554069999995128
+  address: Woodhouse Lane, Woodhouse, Leeds LS2 9JT
+  description: Institute of Design, Robotics and Optimisation, School of Mechanical
+    Engineering
 - name: University of Osnabrück
   type: school
   lat: 52.283712
@@ -818,16 +825,10 @@
   type: school
   lat: 45.523715
   long: 9.219541
-- name: University of Leeds
-  type: school
-  lat: 53.8102609221425
-  long: -1.5554069999995128
-  address: Woodhouse Lane, Woodhouse, Leeds LS2 9JT
-  description: Institute of Design, Robotics and Optimisation, School of Mechanical Engineering
 - name: matom.ai
   type: company
   lat: 54.9034677
   long: 23.9602542
-  link: matom.ai
-  description: We are experts in 3D/2D Computer Vision, Artificial Intelligence, Robotics
   address: Studentų g. 65, Kaunas 51369
+  description: We are experts in 3D/2D Computer Vision, Artificial Intelligence, Robotics
+  link: matom.ai
