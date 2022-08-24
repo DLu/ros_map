@@ -114,6 +114,11 @@
   lat: 40.4903
   long: -3.3501
   link: http://complubot.com/inicio/
+- name: Czech Technical University in Prague
+  type: school
+  lat: 50.0770022
+  long: 14.4180256
+  link: https://fel.cvut.cz
 - name: Danish Technological Institute
   type: company
   lat: 55.369208
@@ -350,12 +355,13 @@
   type: school
   lat: 50.865121
   long: 4.682986
-- name: Karlsruhe Institute of Technology - Institute for Anthropomatics and Robotics (IAR) - Intelligent Process Control and Robotics (IPR)
+- name: Karlsruhe Institute of Technology - Institute for Anthropomatics and Robotics
+    (IAR) - Intelligent Process Control and Robotics (IPR)
   type: school
   lat: 49.012142
   long: 8.417019
+  address: Building 40.28, Engler-Bunte-Ring 8, 76131 Karlsruhe
   link: http://ipr.kit.edu
-  address: Building 40.28, Engler-Bunte-Ring 8, 76131 Karlsruhe 
 - name: Laboratory for Analysis and Architecture of Systems (LAAS)
   type: research institute
   lat: 43.563836
@@ -382,6 +388,13 @@
   long: 10.191272
   address: P. O. Pedersens Vej 18, 8200 Aarhus, Denmark
   link: https://marel.com/
+- name: Martin Pecka
+  type: other
+  lat: 50.0770022
+  long: 14.4180256
+  description: Core ROS contributor, maintainer of a few packages, mobile robotics
+    researcher
+  link: https://cmp.felk.cvut.cz/~peckama2/
 - name: Mat Sadowski
   type: other
   lat: 50.075539
@@ -612,12 +625,14 @@
   type: company
   lat: 49.04658
   long: 8.46186
-  link: https://www.stoglrobotics.de
   address: Belchenstr. 19, 76297 Stutensee
-  description: Stogl Robotics supports robot manufacturers, integrators, and end-users to realize their robotics applications. 
-    The focus is on open technologies that minimize project risks and effort for our customers while providing easy access to the latest research and technology. 
-    Our mission is to publish all non-customer-specific developments as open-source software to advance the field of robotics faster. 
+  description: Stogl Robotics supports robot manufacturers, integrators, and end-users
+    to realize their robotics applications. The focus is on open technologies that
+    minimize project risks and effort for our customers while providing easy access
+    to the latest research and technology. Our mission is to publish all non-customer-specific
+    developments as open-source software to advance the field of robotics faster.
     Our vision is ROS-driven production!
+  link: https://www.stoglrobotics.de
 - name: Szenergy - Autonomous and eco vehicle development team at the Széchenyi University
   type: school
   lat: 47.69346873841386
@@ -843,14 +858,3 @@
   address: Studentų g. 65, Kaunas 51369
   description: We are experts in 3D/2D Computer Vision, Artificial Intelligence, Robotics
   link: matom.ai
-- name: Czech Technical University in Prague
-  type: school
-  lat: 50.0770022
-  long: 14.4180256
-  link: https://fel.cvut.cz
-- name: Martin Pecka
-  type: other
-  lat: 50.0770022
-  long: 14.4180256
-  description: Core ROS contributor, maintainer of a few packages, mobile robotics researcher
-  link: https://cmp.felk.cvut.cz/~peckama2/
