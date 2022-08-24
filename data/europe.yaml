@@ -350,11 +350,12 @@
   type: school
   lat: 50.865121
   long: 4.682986
-- name: Karlsruhe Institute of Technology
+- name: Karlsruhe Institute of Technology - Institute for Anthropomatics and Robotics (IAR) - Intelligent Process Control and Robotics (IPR)
   type: school
   lat: 49.012142
   long: 8.417019
-  link: http://rob.ipr.kit.edu
+  link: http://ipr.kit.edu
+  address: Building 40.28, Engler-Bunte-Ring 8, 76131 Karlsruhe 
 - name: Laboratory for Analysis and Architecture of Systems (LAAS)
   type: research institute
   lat: 43.563836
