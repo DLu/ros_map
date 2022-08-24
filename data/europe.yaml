@@ -608,6 +608,16 @@
   lat: 51.48872
   long: 5.3946
   link: https://www.smart-robotics.nl/
+- name: Stogl Robotics Consulting
+  type: company
+  lat: 49.04658
+  long: 8.46186
+  link: https://www.stoglrobotics.de
+  address: Belchenstr. 19, 76297 Stutensee
+  description: Stogl Robotics supports robot manufacturers, integrators, and end-users to realize their robotics applications. 
+    The focus is on open technologies that minimize project risks and effort for our customers while providing easy access to the latest research and technology. 
+    Our mission is to publish all non-customer-specific developments as open-source software to advance the field of robotics faster. 
+    Our vision is ROS-driven production!
 - name: Szenergy - Autonomous and eco vehicle development team at the Széchenyi University
   type: school
   lat: 47.69346873841386
