@@ -493,6 +493,12 @@
   lat: 48.261256
   long: 11.645508
   address: 85748 Garching bei München, Germany
+- name: Optonic
+  type: company
+  lat: 48.0117423
+  long: 7.8475599
+  description: Manufacturer of Ensenso stereo cameras and Mikado bin picking software
+  link: https://www.optonic.com
 - name: Ottiolu OT
   type: other
   lat: 40.737367
