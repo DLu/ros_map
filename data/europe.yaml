@@ -1,3 +1,9 @@
+- name: Robotec.ai
+  type: company
+  lat: 52.21779
+  long: 21.01619
+  address: Mokotowska 1, 00558 Warsaw, Poland
+  link: https://www.robotec.ai
 - name: Aalborg University
   type: school
   lat: 57.014578
