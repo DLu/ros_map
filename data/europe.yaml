@@ -1,9 +1,3 @@
-- name: Robotec.ai
-  type: company
-  lat: 52.21779
-  long: 21.01619
-  address: Mokotowska 1, 00558 Warsaw, Poland
-  link: https://www.robotec.ai
 - name: Aalborg University
   type: school
   lat: 57.014578
@@ -242,12 +236,6 @@
   long: 7.737743
   address: 300 bd Sébastien Brant,CS 10413, 67412 Illkirch Cedex, France
   link: https://icube.unistra.fr/
-- name: Ikerlan
-  type: research institute
-  lat: 43.06055953132168
-  long: -2.4995940137268997
-  address: José María Arizmendiarrieta Pasealekua, 2, 20500 Arrasate, Gipuzkoa, Spain
-  link: https://www.ikerlan.es/en/
 - name: INESCTEC
   type: research institute
   lat: 41.178319
@@ -269,6 +257,12 @@
   long: -3.6306218
   address: Julian Camarillo 21B, 28037 Madrid, Spain
   link: http://www.ixion.es
+- name: Ikerlan
+  type: research institute
+  lat: 43.06055953132168
+  long: -2.4995940137268997
+  address: José María Arizmendiarrieta Pasealekua, 2, 20500 Arrasate, Gipuzkoa, Spain
+  link: https://www.ikerlan.es/en/
 - name: Inovasyon Muhendislik
   type: company
   lat: 39.746763
@@ -616,6 +610,12 @@
   long: -0.139864
   description: Custom robots and product development (UK office)
   link: http://www.robosavvy.com
+- name: Robotec.ai
+  type: company
+  lat: 52.21779
+  long: 21.01619
+  address: Mokotowska 1, 00558 Warsaw, Poland
+  link: https://www.robotec.ai
 - name: Robotnik Automation
   type: company
   lat: 39.46991
