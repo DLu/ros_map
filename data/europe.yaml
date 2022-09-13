@@ -242,6 +242,12 @@
   long: 7.737743
   address: 300 bd Sébastien Brant,CS 10413, 67412 Illkirch Cedex, France
   link: https://icube.unistra.fr/
+- name: Ikerlan
+  type: research institute
+  lat: 43.06055953132168
+  long: -2.4995940137268997
+  address: José María Arizmendiarrieta Pasealekua, 2, 20500 Arrasate, Gipuzkoa, Spain
+  link: https://www.ikerlan.es/en/
 - name: INESCTEC
   type: research institute
   lat: 41.178319
