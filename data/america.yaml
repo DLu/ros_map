@@ -634,3 +634,12 @@
   description: French speaking engineering university. Our university has many robotics
     student clubs.
   link: https://www.etsmtl.ca/
+
+- name: Hydrogen Research Institute, Université du Québec à Trois-Rivières
+  type: school
+  lat: 46.3467017
+  long: -72.5779338
+  address: Pavillon Tapan-k.Bose, 3351 Boulevard des Forges, Trois-Rivières QC G9A 5H7
+  description: leaders in Energy Transition in Québec and Canada
+  link: https://www.uqtr.ca   
+  
