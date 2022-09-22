@@ -876,3 +876,9 @@
   address: Studentų g. 65, Kaunas 51369
   description: We are experts in 3D/2D Computer Vision, Artificial Intelligence, Robotics
   link: matom.ai
+- name: Fatih BAYGÜL
+  type: other
+  lat: 41.034261
+  long: 28.856085
+  address: Bağcılar İstanbul, Turkey
+  link: https://github.com/fbaygul
