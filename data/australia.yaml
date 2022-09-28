@@ -1,3 +1,9 @@
+- name: Articulated Robotics (Josh Newans)
+  type: other
+  lat: -32.8873526
+  long: 151.6952179
+  description: Mechatronics Engineer, educational content in robotics
+  link: https://articulatedrobotics.xyz/
 - name: CSIRO
   type: research institute
   lat: -27.529281
