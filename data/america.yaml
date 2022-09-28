@@ -432,12 +432,14 @@
   lat: 37.384419
   long: -121.920166
   link: http://www.toyota-global.com/innovation/partner_robot/family_2.html
-- name: Trossen Robotics Community
-  type: other
+- name: Trossen Robotics
+  type: company
   lat: 41.792409
   long: -88.051423
-  description: TRC ROS Forums!
-  link: http://forums.trossenrobotics.com/forumdisplay.php?f=137
+  address: 2854 Hitchcock Ave, Downers Grove, IL 60515
+  description: Trossen Robotics provides open source robotic hardware and software
+    for educational, hobbyist, and professional use.
+  link: http://trossenrobotics.com/
 - name: Turing Laboratory, Universidad Galileo
   type: school
   lat: 14.609785
