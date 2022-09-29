@@ -251,6 +251,11 @@
   long: 6.155633
   description: INRIA Nancy, LARSEN Team is focus on robotics R&D.
   link: https://team.inria.fr/larsen/
+- name: INRAE TSCF
+  type: research institute
+  lat: 45.76256
+  long: 3.11048
+  link: https://www6.clermont.inrae.fr/tscf/
 - name: IXION, Smart Automation
   type: company
   lat: 40.4342401
@@ -623,6 +628,12 @@
   address: Valencia, Spain
   description: Service robotics and product development.
   link: http://www.robotnik.eu
+- name: Sabi Agri
+  type: company
+  lat: 45.85047
+  long: 3.16568
+  address: 4 rue Marie Curie, 63360 Saint Beauzire, France
+  link: https://www.sabi-agri.com
 - name: Saxion University of Applied Sciences
   type: school
   lat: 52.22085
