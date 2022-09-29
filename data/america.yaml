@@ -551,6 +551,12 @@
   type: school
   lat: 40.010787
   long: -105.336914
+- name: University of Florida
+  type: school
+  lat: 29.647253
+  long: -82.349221
+  address: Gainesville, FL
+  link: https://mil.ufl.edu
 - name: University of Maryland
   type: school
   lat: 38.993572
