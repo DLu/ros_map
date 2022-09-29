@@ -165,6 +165,12 @@
   long: 8.42477
   address: Karlsruhe, Germany
   link: http://www.fzi.de/en/research/research-sectors/anwendungsfelder-en/afeld/automation-und-robotik/
+- name: Fatih BAYGÜL
+  type: other
+  lat: 41.034261
+  long: 28.856085
+  address: Bağcılar İstanbul, Turkey
+  link: https://github.com/fbaygul
 - name: Fraunhofer IOSB
   type: research institute
   lat: 49.01599313252165
@@ -245,17 +251,17 @@
     in the cities of Porto, Braga and Vila Real, INESC TEC incorporates 12 R&D Centres
     and one Associate Unit with complementary competences
   link: http://www.inesctec.pt
+- name: INRAE TSCF
+  type: research institute
+  lat: 45.76256
+  long: 3.11048
+  link: https://www6.clermont.inrae.fr/tscf/
 - name: INRIA Nancy
   type: research institute
   lat: 48.664011
   long: 6.155633
   description: INRIA Nancy, LARSEN Team is focus on robotics R&D.
   link: https://team.inria.fr/larsen/
-- name: INRAE TSCF
-  type: research institute
-  lat: 45.76256
-  long: 3.11048
-  link: https://www6.clermont.inrae.fr/tscf/
 - name: IXION, Smart Automation
   type: company
   lat: 40.4342401
@@ -887,9 +893,3 @@
   address: Studentų g. 65, Kaunas 51369
   description: We are experts in 3D/2D Computer Vision, Artificial Intelligence, Robotics
   link: matom.ai
-- name: Fatih BAYGÜL
-  type: other
-  lat: 41.034261
-  long: 28.856085
-  address: Bağcılar İstanbul, Turkey
-  link: https://github.com/fbaygul
