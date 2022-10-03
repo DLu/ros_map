@@ -3,6 +3,12 @@
   lat: 42.806964
   long: -71.57946
   link: http://www.mobilerobots.com
+- name: Apex.AI
+  type: company
+  lat: 37.421569
+  long: -122.103327
+  address: 844 E Charleston Rd, Palo Alto, CA 94303 USA
+  link: https://www.apex.ai/
 - name: Aptima Inc
   type: company
   lat: 42.508202
