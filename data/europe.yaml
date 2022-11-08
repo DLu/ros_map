@@ -893,3 +893,10 @@
   address: Studentų g. 65, Kaunas 51369
   description: We are experts in 3D/2D Computer Vision, Artificial Intelligence, Robotics
   link: matom.ai
+- name: Unmanned Life
+  type: company
+  lat: 41.410608
+  long: 2.209149
+  address: C/ del Treball, 58B, 08019 Barcelona, Spain
+  description: Unmanned Life is a multi-award winning company enabling the seamless orchestration of autonomous robotics.
+  link: https://unmanned.life
