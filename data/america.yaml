@@ -656,3 +656,8 @@
   description: French speaking engineering university. Our university has many robotics
     student clubs.
   link: https://www.etsmtl.ca/
+- name: Perfect Security LLC
+  type: company
+  lat: 40.586258
+  long: -98.389870
+  
