@@ -452,6 +452,12 @@
   long: 23.784939
   description: Control Systems Laboratory
   link: http://www.controlsystemslab.gr/main/
+- name: Neobotix GmbH
+  type: company
+  lat: 49.141935
+  long: 9.162190
+  address: Hahnstraße 2, 74080 Heilbronn, Germany
+  link: https://www.neobotix-robots.com/
 - name: NeoFarm
   type: company
   lat: 48.866249
