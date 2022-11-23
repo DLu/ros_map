@@ -660,4 +660,10 @@
   type: company
   lat: 40.586258
   long: -98.389870
-  
+- name: Phi Robotics Research Lab
+  type: school
+  lat: -30.068527
+  long: -51.120463
+  address: Av. Bento Gonçalves, 9500, Agronomia, Instituto de Informática
+  description: Research group in mobile robotics
+  link: https://www.inf.ufrgs.br/phi-group/site/
