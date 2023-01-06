@@ -906,3 +906,9 @@
   address: C/ del Treball, 58B, 08019 Barcelona, Spain
   description: Unmanned Life is a multi-award winning company enabling the seamless orchestration of autonomous robotics.
   link: https://unmanned.life
+- name: Ahmet Ceyhun Bilir
+  type: other
+  lat: 40.747070
+  long: 30.330233
+  description: ROS Developer
+  link: https://www.linkedin.com/in/cyhunblr
