@@ -572,6 +572,12 @@
   description: Robotics and Computer and Architecture Group. Open to collaboration
     and research!
   link: http://www.ros.org/wiki/rtc-us-ros-pkg
+- name: Roboskel Lab - IIT, NCSR Demokritos
+  type: research institute
+  lat: 37.99639547
+  long: 23.81836923
+  description: Robotics research lab in the Institute of Informatics and Telecommunications, NCSR Demokritos
+  link: https://roboskel.iit.demokritos.gr/
 - name: RUVU Behavior for Robots
   type: company
   lat: 51.48872
