@@ -363,6 +363,17 @@
   long: 77.002869
   address: Avinashi Rd, Peelamedu, Coimbatore, Tamil Nadu 641004, India
   link: http://www.psgtech.edu/hme.php?var=RAE
+- name: Perfect Security LLC
+  type: company
+  lat: 40.586258
+  long: -98.38987
+- name: Phi Robotics Research Lab
+  type: school
+  lat: -30.068527
+  long: -51.120463
+  address: Av. Bento Gonçalves, 9500, Agronomia, Instituto de Informática
+  description: Research group in mobile robotics
+  link: https://www.inf.ufrgs.br/phi-group/site/
 - name: Polytechnique Montreal
   type: school
   lat: 45.504651
@@ -656,14 +667,3 @@
   description: French speaking engineering university. Our university has many robotics
     student clubs.
   link: https://www.etsmtl.ca/
-- name: Perfect Security LLC
-  type: company
-  lat: 40.586258
-  long: -98.389870
-- name: Phi Robotics Research Lab
-  type: school
-  lat: -30.068527
-  long: -51.120463
-  address: Av. Bento Gonçalves, 9500, Agronomia, Instituto de Informática
-  description: Research group in mobile robotics
-  link: https://www.inf.ufrgs.br/phi-group/site/

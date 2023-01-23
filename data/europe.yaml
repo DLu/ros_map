@@ -452,12 +452,6 @@
   long: 23.784939
   description: Control Systems Laboratory
   link: http://www.controlsystemslab.gr/main/
-- name: Neobotix GmbH
-  type: company
-  lat: 49.141935
-  long: 9.162190
-  address: Hahnstraße 2, 74080 Heilbronn, Germany
-  link: https://www.neobotix-robots.com/
 - name: NeoFarm
   type: company
   lat: 48.866249
@@ -465,6 +459,12 @@
   address: Chemin des 40 Arpents, 78860 Saint-Nom-la-Breteche
   description: Robotics and AI for agroecologic, organic micro-farms.
   link: http://www.neo.farm
+- name: Neobotix GmbH
+  type: company
+  lat: 49.141935
+  long: 9.16219
+  address: Hahnstraße 2, 74080 Heilbronn, Germany
+  link: https://www.neobotix-robots.com/
 - name: Neurotechnology
   type: company
   lat: 54.727483
@@ -572,12 +572,6 @@
   description: Robotics and Computer and Architecture Group. Open to collaboration
     and research!
   link: http://www.ros.org/wiki/rtc-us-ros-pkg
-- name: Roboskel Lab - IIT, NCSR Demokritos
-  type: research institute
-  lat: 37.99639547
-  long: 23.81836923
-  description: Robotics research lab in the Institute of Informatics and Telecommunications, NCSR Demokritos
-  link: https://roboskel.iit.demokritos.gr/
 - name: RUVU Behavior for Robots
   type: company
   lat: 51.48872
@@ -633,6 +627,13 @@
   long: -0.139864
   description: Custom robots and product development (UK office)
   link: http://www.robosavvy.com
+- name: Roboskel Lab - IIT, NCSR Demokritos
+  type: research institute
+  lat: 37.99639547
+  long: 23.81836923
+  description: Robotics research lab in the Institute of Informatics and Telecommunications,
+    NCSR Demokritos
+  link: https://roboskel.iit.demokritos.gr/
 - name: Robotec.ai
   type: company
   lat: 52.21779
@@ -857,6 +858,14 @@
   long: 2.644315
   description: Escola Politècnica Superior, Universitat de les Illes Balears
   link: http://uib.cat
+- name: Unmanned Life
+  type: company
+  lat: 41.410608
+  long: 2.209149
+  address: C/ del Treball, 58B, 08019 Barcelona, Spain
+  description: Unmanned Life is a multi-award winning company enabling the seamless
+    orchestration of autonomous robotics.
+  link: https://unmanned.life
 - name: Van den Akker Engineering
   type: company
   lat: 51.72571
@@ -905,10 +914,3 @@
   address: Studentų g. 65, Kaunas 51369
   description: We are experts in 3D/2D Computer Vision, Artificial Intelligence, Robotics
   link: matom.ai
-- name: Unmanned Life
-  type: company
-  lat: 41.410608
-  long: 2.209149
-  address: C/ del Treball, 58B, 08019 Barcelona, Spain
-  description: Unmanned Life is a multi-award winning company enabling the seamless orchestration of autonomous robotics.
-  link: https://unmanned.life
