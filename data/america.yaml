@@ -202,6 +202,12 @@
     5H7
   description: leaders in Energy Transition in Québec and Canada
   link: https://www.uqtr.ca
+- name: Instituto Colombiano de Robotica Avanzada SAS - ICRA
+  type: company
+  lat: 6.177423
+  long: -75.585766
+  address: Cl. 30 Sur, Zona 2, Envigado, Antioquia
+  description: Robotics as a service for a better world.
 - name: INSPER - Instituto de Pesquisa e Ensino
   type: school
   lat: -23.598565
