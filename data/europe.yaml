@@ -658,6 +658,27 @@
   lat: 52.22085
   long: 6.885674
   link: https://www.saxion.nl/mechatronics
+- name: SberAutoTech
+  type: company
+  lat: 55.735673
+  long: 37.531336
+  address: Russia, Moscow
+  description: AutoTech company (autonomous cars)
+  link: http://www.sberautotech.ru 
+- name: SberDevices
+  type: company
+  lat: 55.740765
+  long: 37.532283
+  address: Russia, Moscow
+  description: Consumer electronics 
+  link: http://www.sberdevices.ru   
+- name: WayRay
+  type: company
+  lat: 55.808297 
+  long: 37.626200
+  address: Russia, Moscow
+  description: Develop augmented HUD for cars
+  link: http://www.wayray.com
 - name: Sencer Yazici
   type: other
   lat: 41.011243
