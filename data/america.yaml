@@ -673,7 +673,7 @@
   description: French speaking engineering university. Our university has many robotics
     student clubs.
   link: https://www.etsmtl.ca/
-  - name: Cibotica
+ - name: Cibotica
   type: company
   lat: 49.285716
   long: -123.117423
