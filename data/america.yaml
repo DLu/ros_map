@@ -679,5 +679,15 @@
   long: -123.117423
   description: Food Tech
   link: https://www.cibotica.com/
-  
+- name: O PROJETO (THE PROJECT)
+  type: school
+  lat: -25.43953
+  long: -49.26808
+  address: Av. Sete de Setembro, 3165, Rebouças, Curitiba - PR, 80230-901 Brazil
+  description: 'O PROJETO' is one of the major universitarion robotics
+    team in Latin America, the only one in a Technological University (UTFPR - CT),
+     with projects ranging from autonomous exploration robots, trough artbots,
+    to autonomus combat robots.
+  link: https://www.instagram.com/o.projeto.utfpr
+
   
