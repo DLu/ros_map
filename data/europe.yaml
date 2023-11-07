@@ -935,3 +935,9 @@
   address: Studentų g. 65, Kaunas 51369
   description: We are experts in 3D/2D Computer Vision, Artificial Intelligence, Robotics
   link: matom.ai
+- name: Institute for Robotics and Autonomous Systems (IRAS) of the Karlsruhe University of Applied Sciences (HKA)
+  type: research institute
+  lat: 49.022745
+  long: 8.439634
+  address: Wilhelm-Schickard-Straße 9, 76131 Karlsruhe
+  link: https://www.h-ka.de/iras
