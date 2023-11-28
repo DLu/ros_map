@@ -96,6 +96,12 @@
   long: -71.146505
   address: Cambridge, MA
   link: www.cra.com
+- name: Cibotica
+  type: company
+  lat: 49.285716
+  long: -123.117423
+  description: Food Tech
+  link: https://www.cibotica.com/
 - name: Clearpath Robotics
   type: company
   lat: 43.4035229
@@ -202,18 +208,18 @@
     5H7
   description: leaders in Energy Transition in Québec and Canada
   link: https://www.uqtr.ca
-- name: Instituto Colombiano de Robotica Avanzada SAS - ICRA
-  type: company
-  lat: 6.177423
-  long: -75.585766
-  address: Cl. 30 Sur, Zona 2, Envigado, Antioquia
-  description: Robotics as a service for a better world.
 - name: INSPER - Instituto de Pesquisa e Ensino
   type: school
   lat: -23.598565
   long: -46.676705
   address: R. Quatá, 300 - Vila Olímpia, São Paulo - SP, 04546-042, Brasil
   link: www.github.com/insper/robot19
+- name: Instituto Colombiano de Robotica Avanzada SAS - ICRA
+  type: company
+  lat: 6.177423
+  long: -75.585766
+  address: Cl. 30 Sur, Zona 2, Envigado, Antioquia
+  description: Robotics as a service for a better world.
 - name: Instituto Tecnologico y de Estudios Superiores de Monterrey, Campus Queretaro.
   type: school
   lat: 20.614615
@@ -334,6 +340,16 @@
   long: -87.676156
   description: NxR lab
   link: http://nxr.northwestern.edu/
+- name: O PROJETO (THE PROJECT)
+  type: school
+  lat: -25.43953
+  long: -49.26808
+  address: Av. Sete de Setembro, 3165, Rebouças, Curitiba - PR, 80230-901 Brazil
+  description: '''O PROJETO'' is one of the major universitarion robotics team in
+    Latin America, the only one in a Technological University (UTFPR - CT), with projects
+    ranging from autonomous exploration robots, trough artbots, to autonomus combat
+    robots.'
+  link: https://www.instagram.com/o.projeto.utfpr
 - name: Oakland University
   type: school
   lat: 42.67178
@@ -673,21 +689,3 @@
   description: French speaking engineering university. Our university has many robotics
     student clubs.
   link: https://www.etsmtl.ca/
-- name: Cibotica
-  type: company
-  lat: 49.285716
-  long: -123.117423
-  description: Food Tech
-  link: https://www.cibotica.com/
-- name: O PROJETO (THE PROJECT)
-  type: school
-  lat: -25.43953
-  long: -49.26808
-  address: Av. Sete de Setembro, 3165, Rebouças, Curitiba - PR, 80230-901 Brazil
-  description: 'O PROJETO' is one of the major universitarion robotics
-    team in Latin America, the only one in a Technological University (UTFPR - CT),
-     with projects ranging from autonomous exploration robots, trough artbots,
-    to autonomus combat robots.
-  link: https://www.instagram.com/o.projeto.utfpr
-
-  

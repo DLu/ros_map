@@ -16,6 +16,16 @@
   lat: 39.97712
   long: 116.191406
   address: No.3 Shang Yuan Cun,Hai Dian District Beijing,China Post-Code 100044
+- name: Birla Institute of Technology and Science - Pilani
+  type: school
+  lat: 28.36449
+  long: 75.588152
+  link: https://www.sally-robotics.co.in/
+- name: CSIR-CEERI, Pilani
+  type: research institute
+  lat: 28.365224
+  long: 75.582706
+  link: https://www.ceeri.res.in/profiles/kaushal-kishore/
 - name: Clobot
   type: company
   lat: 37.363409
@@ -185,13 +195,3 @@
   long: 126.874495
   address: '#601, Namsung-Plaza, 345-30 Gasan-dong, Guemcheon-gu, Seoul, Korea, 153-023.'
   link: http://www.yujinrobot.com/eng
-- name: Birla Institute of Technology and Science - Pilani
-  type: school
-  lat: 28.364490
-  long: 75.588152
-  link: https://www.sally-robotics.co.in/
-- name: CSIR-CEERI, Pilani
-  type: research institute
-  lat: 28.365224
-  long: 75.582706
-  link: https://www.ceeri.res.in/profiles/kaushal-kishore/

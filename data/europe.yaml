@@ -314,6 +314,13 @@
   address: Contour Antoine de St Exupéry, Campus de Ker Lann, France
   description: Innovation in production.
   link: www.institutmaupertuis.fr
+- name: Institute for Robotics and Autonomous Systems (IRAS) of the Karlsruhe University
+    of Applied Sciences (HKA)
+  type: research institute
+  lat: 49.022745
+  long: 8.439634
+  address: Wilhelm-Schickard-Straße 9, 76131 Karlsruhe
+  link: https://www.h-ka.de/iras
 - name: Institute of Industrial Technologies and Automation (ITIA)
   type: research institute
   lat: 45.480532
@@ -664,21 +671,14 @@
   long: 37.531336
   address: Russia, Moscow
   description: AutoTech company (autonomous cars)
-  link: http://www.sberautotech.ru 
+  link: http://www.sberautotech.ru
 - name: SberDevices
   type: company
   lat: 55.740765
   long: 37.532283
   address: Russia, Moscow
-  description: Consumer electronics 
-  link: http://www.sberdevices.ru   
-- name: WayRay
-  type: company
-  lat: 55.808297 
-  long: 37.626200
-  address: Russia, Moscow
-  description: Develop augmented HUD for cars
-  link: http://www.wayray.com
+  description: Consumer electronics
+  link: http://www.sberdevices.ru
 - name: Sencer Yazici
   type: other
   lat: 41.011243
@@ -905,6 +905,13 @@
   address: Vitec Videocom Ltd, William Vinten Building, Western Way, Bury St Edmunds,
     Suffolk IP33 3TB, United Kingdom
   link: http://www.vintenradamec.com/
+- name: WayRay
+  type: company
+  lat: 55.808297
+  long: 37.6262
+  address: Russia, Moscow
+  description: Develop augmented HUD for cars
+  link: http://www.wayray.com
 - name: Westphalian University of Applied Sciences Gelsenkirchen
   type: school
   lat: 51.573697
@@ -935,9 +942,3 @@
   address: Studentų g. 65, Kaunas 51369
   description: We are experts in 3D/2D Computer Vision, Artificial Intelligence, Robotics
   link: matom.ai
-- name: Institute for Robotics and Autonomous Systems (IRAS) of the Karlsruhe University of Applied Sciences (HKA)
-  type: research institute
-  lat: 49.022745
-  long: 8.439634
-  address: Wilhelm-Schickard-Straße 9, 76131 Karlsruhe
-  link: https://www.h-ka.de/iras
