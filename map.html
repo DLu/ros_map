@@ -4,50 +4,20 @@
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
     <meta charset="utf-8" />
     <title>ROS Users of the World</title>
-    <link href="http://fonts.googleapis.com/css?family=Titillium+Web" rel="stylesheet" type="text/css" />
-    <style>
-      html,
-      body {
-        font-family: "Titillium Web", sans-serif;
-      }
-      #map-canvas {
-        height: 100%;
-        width: 80%;
-        position: absolute;
-        right: 0%;
-      }
-      #text {
-        height: 100%;
-        width: 15%;
-        position: absolute;
-        left: 0%;
-        padding: 50px;
-      }
-      table {
-        border: 1px solid LightGray;
-        border-collapse: collapse;
-      }
-    </style>
-    <script src="http://www.metrorobots.com/analytics.js"></script>
+    <link href="http://fonts.googleapis.com/css?family=Overpass" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="rosmap.css" />
+    <script src="https://kit.fontawesome.com/bf045d01fa.js"></script>
     <script
-      async
-      defer
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAq02Y_R42xhDQa4n4Fr_9H3M_az7XO4gM&callback=initialize"
+      src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"
+      integrity="sha512-CSBhVREyzHAjAFfBlIBakjoRUKp5h7VSweP0InR/pAJyptH7peuhCsqAI/snV+TwZmXZqoUklpXp6R6wMnYf5Q=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
     ></script>
-    <script>
-      function initialize() {
-        var map = new google.maps.Map(document.getElementById("map-canvas"), { zoom: 2, center: { lat: 0, lng: 140 } });
-        new google.maps.KmlLayer("http://www.metrorobots.com/scripts/generate_kml.py", {
-          preserveViewport: true,
-          map: map,
-        });
-      }
-    </script>
-    <!-- add jQuery -->
+    <script src="https://unpkg.com/@googlemaps/markerclusterer/dist/index.min.js"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-    <!-- add pie chart -->
     <script src="src/ocanvas-2.7.3.min.js"></script>
     <script src="src/pie.js"></script>
+    <script src="rosmap.js" type="module"></script>
   </head>
   <body>
     <div id="text">
@@ -71,5 +41,8 @@
       </p>
     </div>
     <div id="map-canvas"></div>
+    <!-- prettier-ignore -->
+    <script>(g=>{var h,a,k,p="The Google Maps JavaScript API",c="google",l="importLibrary",q="__ib__",m=document,b=window;b=b[c]||(b[c]={});var d=b.maps||(b.maps={}),r=new Set,e=new URLSearchParams,u=()=>h||(h=new Promise(async(f,n)=>{await (a=m.createElement("script"));e.set("libraries",[...r]+"");for(k in g)e.set(k.replace(/[A-Z]/g,t=>"_"+t[0].toLowerCase()),g[k]);e.set("callback",c+".maps."+q);a.src=`https://maps.${c}apis.com/maps/api/js?`+e;d[q]=f;a.onerror=()=>h=n(Error(p+" could not load."));a.nonce=m.querySelector("script[nonce]")?.nonce||"";m.head.append(a)}));d[l]?console.warn(p+" only loads once. Ignoring:",g):d[l]=(f,...n)=>r.add(f)&&u().then(()=>d[l](f,...n))})
+        ({key: "AIzaSyAq02Y_R42xhDQa4n4Fr_9H3M_az7XO4gM", v: "weekly"});</script>
   </body>
 </html>
