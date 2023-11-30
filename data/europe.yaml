@@ -87,15 +87,14 @@
   lat: 55.706755
   long: 37.725558
   address: Volgogradskiy Prospekt 42, Moscow, Russia
-  description: Popular educational quadcopters (https://coex.tech/clover) with ROS-powered
-    software platform
+  description: Popular educational quadcopters (https://coex.tech/clover) with ROS-powered software platform
   link: https://coex.tech
 - name: Cardiff University
   type: school
   lat: 51.4884967
   long: -3.1795484
-  description: Has the Cardiff University Computational Robotics organization doing
-    research on Social Robot Navigation and Virtual Reality with ROS.
+  description: Has the Cardiff University Computational Robotics organization doing research on Social
+    Robot Navigation and Virtual Reality with ROS.
   link: https://www.cardiff.ac.uk/
 - name: Care-O-bot
   type: research institute
@@ -176,21 +175,20 @@
   lat: 49.01599313252165
   long: 8.426699461660508
   address: Fraunhoferstr. 1, 76131 Karlsruhe
-  link: https://www.iosb.fraunhofer.de/en/competences/system-technology/systems-measurement-control-diagnosis/research-topics/robotics.html
+  link: https://www.iosb.fraunhofer.de/en/
 - name: Fraunhofer IPA
   type: research institute
   lat: 48.741341
   long: 9.0989681
   address: Nobelstr. 12, 70569 Stuttgart, Germany
   link: http://care-o-bot.org
-- name: Fraunhofer Institute for Communication, Information Processing and Ergonomics
-    FKIE
+- name: Fraunhofer Institute for Communication, Information Processing and Ergonomics FKIE
   type: research institute
   lat: 50.617713
   long: 7.13065
   address: Fraunhoferstraße 20, 53343 Wachtberg, Germany
-  description: Cognitive mobile systems, innovative prototype applications for single-
-    and multi-robot systems, intelligent assistance functions
+  description: Cognitive mobile systems, innovative prototype applications for single- and multi-robot
+    systems, intelligent assistance functions
   link: https://www.fkie.fraunhofer.de
 - name: Fundacion Tekniker
   type: research institute
@@ -228,13 +226,11 @@
   lat: 50.064918
   long: 19.938629
   address: Slawkowska 23/4, 31-016 Krakow, Poland
-  description: Husarion provides hardware and software for autonomous mobile robot
-    development & connectivity. Husarion is a manufacturer of autonomous mobile robots
-    for research & education purposes. It's main hardware products are ROSbot 2.0
-    and Panther ROS-powered platforms. You can manage them online and connect them
-    into fleets with Husarion's internet tools. The company provides also custom mobile
-    robot design services covering electronics, mechanics, ROS software and Internet
-    management systems design.
+  description: Husarion provides hardware and software for autonomous mobile robot development & connectivity.
+    Husarion is a manufacturer of autonomous mobile robots for research & education purposes. It's main
+    hardware products are ROSbot 2.0 and Panther ROS-powered platforms. You can manage them online and
+    connect them into fleets with Husarion's internet tools. The company provides also custom mobile robot
+    design services covering electronics, mechanics, ROS software and Internet management systems design.
   link: https://husarion.com/
 - name: ICube
   type: research institute
@@ -246,10 +242,9 @@
   type: research institute
   lat: 41.178319
   long: -8.595761
-  description: INESC Technology and Science – INESC TEC is an Associate Laboratory
-    with 30 years of experience in R&D and technology transfer. Present in 6 sites
-    in the cities of Porto, Braga and Vila Real, INESC TEC incorporates 12 R&D Centres
-    and one Associate Unit with complementary competences
+  description: INESC Technology and Science – INESC TEC is an Associate Laboratory with 30 years of experience
+    in R&D and technology transfer. Present in 6 sites in the cities of Porto, Braga and Vila Real, INESC
+    TEC incorporates 12 R&D Centres and one Associate Unit with complementary competences
   link: http://www.inesctec.pt
 - name: INRAE TSCF
   type: research institute
@@ -278,9 +273,8 @@
   type: company
   lat: 39.746763
   long: 30.474529
-  description: The evarobot(http://wiki.ros.org/Robots/evarobot/) is a mobile robot
-    platform built by Inovasyon Muhendislik. The evarobot software system is written
-    entirely in ROS.
+  description: The evarobot(http://wiki.ros.org/Robots/evarobot/) is a mobile robot platform built by
+    Inovasyon Muhendislik. The evarobot software system is written entirely in ROS.
   link: http://inovasyonmuhendislik.com
 - name: Inria Bordeaux Sud-Ouest
   type: research institute
@@ -299,8 +293,8 @@
   lat: 41.382864
   long: 2.115509
   address: Carrer de Llorens i Artigas 4,08028 Barcelona, Catalunya, Spain
-  description: Joint Research Center of the Universitat Politecnica de Catalunya and
-    the Consejo Superior de Investigaciones Cientificas.
+  description: Joint Research Center of the Universitat Politecnica de Catalunya and the Consejo Superior
+    de Investigaciones Cientificas.
   link: www.iri.upc.edu
 - name: Institut des Systèmes Intelligents et de Robotique
   type: school
@@ -314,8 +308,8 @@
   address: Contour Antoine de St Exupéry, Campus de Ker Lann, France
   description: Innovation in production.
   link: www.institutmaupertuis.fr
-- name: Institute for Robotics and Autonomous Systems (IRAS) of the Karlsruhe University
-    of Applied Sciences (HKA)
+- name: Institute for Robotics and Autonomous Systems (IRAS) of the Karlsruhe University of Applied Sciences
+    (HKA)
   type: research institute
   lat: 49.022745
   long: 8.439634
@@ -333,8 +327,7 @@
   lat: 39.73443
   long: -8.821051
   address: Campus 2, Morro do Lena - Alto do Vieiro, Leiria
-  description: Robotics Lab, Department of Electrical Engineering, School of Technology
-    and Management
+  description: Robotics Lab, Department of Electrical Engineering, School of Technology and Management
   link: http://www.estg.ipleiria.pt/
 - name: Instituto Superior Técnico
   type: school
@@ -356,31 +349,30 @@
   type: school
   lat: 41.102554
   long: 29.027274
-  address: ITU Autonomous Underwater Vehicle Team, Faculty of Naval Architecture and
-    Design, Istanbul, Turkey
+  address: ITU Autonomous Underwater Vehicle Team, Faculty of Naval Architecture and Design, Istanbul,
+    Turkey
   link: http://auv.itu.edu.tr/index-eng.html
 - name: Jacobs
   type: company
   lat: 53.4236275
   long: -2.5210192
-  description: Multi-national consultancy firm providing technology solutions for
-    the infrastructure, energy, environment, space and other markets. ROS is used
-    in Engineering Development in Warrington, UK
+  description: Multi-national consultancy firm providing technology solutions for the infrastructure,
+    energy, environment, space and other markets. ROS is used in Engineering Development in Warrington,
+    UK
   link: https://www.jacobs.com
 - name: KTH Royal Institute of Technology
   type: school
   lat: 59.3463036
   long: 18.0752322
   address: Teknikringen 14, 114 28 Stockholm, Sweden
-  description: Computer Vision and Active Perception Laboratory at KTH, Stockholm,
-    Sweden
+  description: Computer Vision and Active Perception Laboratory at KTH, Stockholm, Sweden
   link: http://wiki.ros.org/kth-ros-pkg
 - name: KULeuven Universiteit
   type: school
   lat: 50.865121
   long: 4.682986
-- name: Karlsruhe Institute of Technology - Institute for Anthropomatics and Robotics
-    (IAR) - Intelligent Process Control and Robotics (IPR)
+- name: Karlsruhe Institute of Technology - Institute for Anthropomatics and Robotics (IAR) - Intelligent
+    Process Control and Robotics (IPR)
   type: school
   lat: 49.012142
   long: 8.417019
@@ -391,8 +383,8 @@
   lat: 43.563836
   long: 1.476746
   address: 7 Avenue du Colonel Roche, Toulouse, France
-  description: Research in robotics, optimization, control and formal verification
-    (and also in material science)
+  description: Research in robotics, optimization, control and formal verification (and also in material
+    science)
   link: http://www.laas.fr
 - name: Laboratory for Manufacturing Systems and Automation (LMS)
   type: research institute
@@ -416,8 +408,7 @@
   type: other
   lat: 50.0770022
   long: 14.4180256
-  description: Core ROS contributor, maintainer of a few packages, mobile robotics
-    researcher
+  description: Core ROS contributor, maintainer of a few packages, mobile robotics researcher
   link: https://cmp.felk.cvut.cz/~peckama2/
 - name: Mat Sadowski
   type: other
@@ -503,8 +494,7 @@
   lat: 47.533891
   long: 19.034586
   address: Budapest, Bécsi út 96/B, Hungary
-  description: TekiProject (Turtlebot2), Antal Bejczy Center For Intelligent Robotics
-    (Nao)
+  description: TekiProject (Turtlebot2), Antal Bejczy Center For Intelligent Robotics (Nao)
   link: http://teki.nik.uni-obuda.hu/ , http://irob.uni-obuda.hu/?q=en
 - name: Officine Robotiche
   type: other
@@ -576,8 +566,7 @@
   type: school
   lat: 37.381009
   long: -5.99121
-  description: Robotics and Computer and Architecture Group. Open to collaboration
-    and research!
+  description: Robotics and Computer and Architecture Group. Open to collaboration and research!
   link: http://www.ros.org/wiki/rtc-us-ros-pkg
 - name: RUVU Behavior for Robots
   type: company
@@ -607,20 +596,18 @@
   lat: 49.226616
   long: 16.59664
   address: Brno, Czech Republic
-  description: Robotic research group at FIT focuses on the development of advanced
-    methods of autonomous intelligent systems and mobile platforms, processing and
-    fusion of sensory data, creating dynamic 3D models of the environment, intelligent
-    decisions and mission planning, knowledge management, multi-agent systems and
-    advanced human-robot interaction systems.
+  description: Robotic research group at FIT focuses on the development of advanced methods of autonomous
+    intelligent systems and mobile platforms, processing and fusion of sensory data, creating dynamic
+    3D models of the environment, intelligent decisions and mission planning, knowledge management, multi-agent
+    systems and advanced human-robot interaction systems.
   link: http://www.fit.vutbr.cz/research/groups/robo/index.php.en
 - name: Roboception GmbH
   type: company
   lat: 48.149429
   long: 11.460008
   address: Kaflerstr. 2, 81241 Munich, Germany
-  description: Roboception GmbH develops software and hardware products for real-time
-    perception and localisation of robotic systems. The name Roboception is comprised
-    of the words Robotics and Perception.
+  description: Roboception GmbH develops software and hardware products for real-time perception and localisation
+    of robotic systems. The name Roboception is comprised of the words Robotics and Perception.
   link: https://roboception.com
 - name: Robosavvy Lda.
   type: company
@@ -638,8 +625,7 @@
   type: research institute
   lat: 37.99639547
   long: 23.81836923
-  description: Robotics research lab in the Institute of Informatics and Telecommunications,
-    NCSR Demokritos
+  description: Robotics research lab in the Institute of Informatics and Telecommunications, NCSR Demokritos
   link: https://roboskel.iit.demokritos.gr/
 - name: Robotec.ai
   type: company
@@ -695,12 +681,11 @@
   lat: 49.04658
   long: 8.46186
   address: Belchenstr. 19, 76297 Stutensee
-  description: Stogl Robotics supports robot manufacturers, integrators, and end-users
-    to realize their robotics applications. The focus is on open technologies that
-    minimize project risks and effort for our customers while providing easy access
-    to the latest research and technology. Our mission is to publish all non-customer-specific
-    developments as open-source software to advance the field of robotics faster.
-    Our vision is ROS-driven production!
+  description: Stogl Robotics supports robot manufacturers, integrators, and end-users to realize their
+    robotics applications. The focus is on open technologies that minimize project risks and effort for
+    our customers while providing easy access to the latest research and technology. Our mission is to
+    publish all non-customer-specific developments as open-source software to advance the field of robotics
+    faster. Our vision is ROS-driven production!
   link: https://www.stoglrobotics.de
 - name: Szenergy - Autonomous and eco vehicle development team at the Széchenyi University
   type: school
@@ -819,8 +804,8 @@
   type: research institute
   lat: 53.5987
   long: 9.93271
-  address: University of Hamburg, Faculty of Mathematics, Informatics and Natural
-    Sciences, Dep. Informatics, Group TAMS, Vogt-Koelln-Straße 30, Hamburg
+  address: University of Hamburg, Faculty of Mathematics, Informatics and Natural Sciences, Dep. Informatics,
+    Group TAMS, Vogt-Koelln-Straße 30, Hamburg
   description: Technical Aspects of Multimodal Systems
   link: http://tams.informatik.uni-hamburg.de/ https://github.com/TAMS-Group
 - name: University of Kassel
@@ -835,8 +820,7 @@
   lat: 53.8102609221425
   long: -1.5554069999995128
   address: Woodhouse Lane, Woodhouse, Leeds LS2 9JT
-  description: Institute of Design, Robotics and Optimisation, School of Mechanical
-    Engineering
+  description: Institute of Design, Robotics and Optimisation, School of Mechanical Engineering
 - name: University of Osnabrück
   type: school
   lat: 52.283712
@@ -848,15 +832,14 @@
   lat: 45.406561
   long: 11.896183
   address: via Gradenigo 6/B, Padova, Italy
-  description: Intelligent Autonomous Systems Laboratory (IAS-Lab), Department of
-    Information Engineering (DEI)
+  description: Intelligent Autonomous Systems Laboratory (IAS-Lab), Department of Information Engineering
+    (DEI)
 - name: University of Southern Denmark
   type: school
   lat: 55.366503
   long: 10.429182
-  description: The Maersk Mc-Kinney Moller Institute perform intense research into
-    robotics and work targeted at developing intelligent, autonomous systems that
-    can solve socially-relevant issues.
+  description: The Maersk Mc-Kinney Moller Institute perform intense research into robotics and work targeted
+    at developing intelligent, autonomous systems that can solve socially-relevant issues.
   link: http://www.sdu.dk/Om_SDU/Institutter_centre/Mmmi_maersk_mckinney_moeller/Forskning?sc_lang=en
 - name: University of Tübingen
   type: school
@@ -884,8 +867,8 @@
   lat: 41.410608
   long: 2.209149
   address: C/ del Treball, 58B, 08019 Barcelona, Spain
-  description: Unmanned Life is a multi-award winning company enabling the seamless
-    orchestration of autonomous robotics.
+  description: Unmanned Life is a multi-award winning company enabling the seamless orchestration of autonomous
+    robotics.
   link: https://unmanned.life
 - name: Van den Akker Engineering
   type: company
@@ -902,8 +885,8 @@
   type: company
   lat: 52.25214
   long: 0.697308
-  address: Vitec Videocom Ltd, William Vinten Building, Western Way, Bury St Edmunds,
-    Suffolk IP33 3TB, United Kingdom
+  address: Vitec Videocom Ltd, William Vinten Building, Western Way, Bury St Edmunds, Suffolk IP33 3TB,
+    United Kingdom
   link: http://www.vintenradamec.com/
 - name: WayRay
   type: company
@@ -930,8 +913,7 @@
   type: company
   lat: 47.045223
   long: 15.51958
-- name: iralab, Dept. Informatica, Sistemistica e Comunicazione; Università di Milano
-    - Bicocca
+- name: iralab, Dept. Informatica, Sistemistica e Comunicazione; Università di Milano - Bicocca
   type: school
   lat: 45.523715
   long: 9.219541

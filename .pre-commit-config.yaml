@@ -1,0 +1,65 @@
+repos:
+- repo: https://github.com/pre-commit/pre-commit-hooks
+  hooks:
+  - id: end-of-file-fixer
+    exclude: ^src/.*$
+  - id: trailing-whitespace
+  - id: check-merge-conflict
+  - id: mixed-line-ending
+  - id: check-executables-have-shebangs
+  - id: check-shebang-scripts-are-executable
+  - id: detect-private-key
+  - id: destroyed-symlinks
+  - id: check-symlinks
+  - id: check-case-conflict
+  - id: check-ast
+  - id: double-quote-string-fixer
+  - id: requirements-txt-fixer
+  - id: check-xml
+  - id: check-yaml
+  rev: v4.4.0
+- repo: https://github.com/hhatto/autopep8
+  hooks:
+  - id: autopep8
+  rev: v2.0.4
+- repo: https://github.com/PyCQA/flake8
+  hooks:
+  - id: flake8
+  rev: 6.1.0
+- repo: https://github.com/pre-commit/mirrors-prettier
+  hooks:
+  - id: prettier
+    exclude: ^src/.*|.*\.md|.*\.yaml$
+  rev: v3.0.3
+- repo: https://github.com/Lucas-C/pre-commit-hooks-lxml
+  hooks:
+  - id: forbid-html-img-without-alt-text
+  - id: html-tags-blacklist
+  - id: html-attributes-blacklist
+  rev: v1.1.0
+- repo: https://github.com/jumanjihouse/pre-commit-hook-yamlfmt
+  hooks:
+  - id: yamlfmt
+    args:
+    - --implicit_start
+    - --implicit_end
+    - --mapping
+    - '2'
+    - --sequence
+    - '2'
+    - --offset
+    - '0'
+    - --width
+    - '100'
+  rev: 0.2.3
+- repo: https://github.com/adrienverge/yamllint
+  hooks:
+  - id: yamllint
+    args:
+    - --format
+    - parsable
+    - --strict
+  rev: v1.32.0
+
+ci:
+  autoupdate_schedule: quarterly
