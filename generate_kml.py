@@ -98,10 +98,10 @@ def create_style(name, color, url='http://maps.google.com/mapfiles/kml/pal2/icon
     return f
 
 
-root = dom.createElement("kml")
+root = dom.createElement('kml')
 root.setAttribute('xmlns', 'http://www.opengis.net/kml/2.2')
 dom.appendChild(root)
-document = dom.createElement("Document")
+document = dom.createElement('Document')
 root.appendChild(document)
 document.appendChild(text_element('name', 'ROS Users of the World'))
 document.appendChild(text_element('description', 'ROS Users of the World', True))
@@ -128,5 +128,5 @@ if args.output:
     with open(args.output, 'w') as f:
         f.write(dom.toprettyxml())
 else:
-    print("Content-type: text/xml\n")
+    print('Content-type: text/xml\n')
     print(dom.toprettyxml())

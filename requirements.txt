@@ -1,5 +1,5 @@
-yamllint
-pyyaml
-requests
 argparse
 geopy>1.0
+pyyaml
+requests
+yamllint

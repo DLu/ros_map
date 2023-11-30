@@ -1,19 +1,20 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
-    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
-    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <meta charset="utf-8" />
     <title>ROS Users of the World</title>
-    <link href='http://fonts.googleapis.com/css?family=Titillium+Web' rel='stylesheet' type='text/css'>
+    <link href="http://fonts.googleapis.com/css?family=Titillium+Web" rel="stylesheet" type="text/css" />
     <style>
-      html, body {
-        font-family: 'Titillium Web', sans-serif
+      html,
+      body {
+        font-family: "Titillium Web", sans-serif;
       }
       #map-canvas {
         height: 100%;
         width: 80%;
         position: absolute;
-        right: 0%
+        right: 0%;
       }
       #text {
         height: 100%;
@@ -21,21 +22,26 @@
         position: absolute;
         left: 0%;
         padding: 50px;
-
       }
       table {
         border: 1px solid LightGray;
         border-collapse: collapse;
       }
     </style>
-    <script src="http://www.metrorobots.com/analytics.js" ></script>
-    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAq02Y_R42xhDQa4n4Fr_9H3M_az7XO4gM&callback=initialize"></script>
+    <script src="http://www.metrorobots.com/analytics.js"></script>
+    <script
+      async
+      defer
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAq02Y_R42xhDQa4n4Fr_9H3M_az7XO4gM&callback=initialize"
+    ></script>
     <script>
-        function initialize() {
-          var map = new google.maps.Map(document.getElementById('map-canvas'), {zoom: 2, center: {lat: 0, lng: 140}});
-          new google.maps.KmlLayer('http://www.metrorobots.com/scripts/generate_kml.py',
-                                   {preserveViewport: true, map: map});
-        }
+      function initialize() {
+        var map = new google.maps.Map(document.getElementById("map-canvas"), { zoom: 2, center: { lat: 0, lng: 140 } });
+        new google.maps.KmlLayer("http://www.metrorobots.com/scripts/generate_kml.py", {
+          preserveViewport: true,
+          map: map,
+        });
+      }
     </script>
     <!-- add jQuery -->
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
@@ -44,17 +50,25 @@
     <script src="src/pie.js"></script>
   </head>
   <body>
-    <div id="text"><h1>ROS Users of the World</h1>
-    <ul>
-      <li><span style="color: #62AF44">GREEN </span> - School
-      <li><span style="color: #4186F0">BLUE </span> - Company
-      <li><span style="color: #DB4436">RED </span> - Research Institute
-      <li><span style="color: #FFDD5E">YELLOW </span> - Other
-      <li><span style="font-size: small">(white - unknown)</span>
-    </ul>
-    <!-- Code for the Pie Chart -->
-    <canvas id="pie_chart" style="padding-left: 0; padding-right: 0; margin-left: auto; margin-right: auto; display: block"></canvas>
-    <p>Add to or edit the map by changing the yaml files in <a href="https://github.com/DLu/ros_map/tree/main/data">this repository</a>, or by emailing <a href="mailto:david AT metrorobots DOT COM">the map maintainer</a>.
+    <div id="text">
+      <h1>ROS Users of the World</h1>
+      <ul>
+        <li><span style="color: #62af44">GREEN </span> - School</li>
+        <li><span style="color: #4186f0">BLUE </span> - Company</li>
+        <li><span style="color: #db4436">RED </span> - Research Institute</li>
+        <li><span style="color: #ffdd5e">YELLOW </span> - Other</li>
+        <li><span style="font-size: small">(white - unknown)</span></li>
+      </ul>
+      <!-- Code for the Pie Chart -->
+      <canvas
+        id="pie_chart"
+        style="padding-left: 0; padding-right: 0; margin-left: auto; margin-right: auto; display: block"
+      ></canvas>
+      <p>
+        Add to or edit the map by changing the yaml files in
+        <a href="https://github.com/DLu/ros_map/tree/main/data">this repository</a>, or by emailing
+        <a href="mailto:david AT metrorobots DOT COM">the map maintainer</a>.
+      </p>
     </div>
     <div id="map-canvas"></div>
   </body>

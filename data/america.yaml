@@ -64,8 +64,8 @@
   lat: -8.253074
   long: -34.947365
   address: Avenida A, 4165 - Novo Mundo Empresarial, PE, 54522-005
-  description: Robotics and Autonomous Systems Company. Serving companies worldwide
-    from the Brazilian Northeast
+  description: Robotics and Autonomous Systems Company. Serving companies worldwide from the Brazilian
+    Northeast
   link: https://brisa.tech
 - name: Brown University
   type: school
@@ -132,17 +132,16 @@
   lat: -34.583067
   long: -58.446311
   address: Concepción Arenal 3425, Ciudad Autónoma de Buenos Aires
-  description: International engineering boutique, provider of advanced software development
-    services and technology.
+  description: International engineering boutique, provider of advanced software development services
+    and technology.
   link: http://www.ekumenlabs.com/
 - name: Equipe ThundeRatz de Robótica da Escola Politécnica da USP
   type: school
   lat: -23.5539531
   long: -46.7289398
   address: Av. Professor Mello Moraes, 2231 - Butantã, São Paulo - SP, 05508-030 Brazil
-  description: The ThundeRatz Robotics Team is one of the major universitarion robotics
-    team in Latin America, with projects ranging from autonomous exploration robots
-    to combat robots
+  description: The ThundeRatz Robotics Team is one of the major universitarion robotics team in Latin
+    America, with projects ranging from autonomous exploration robots to combat robots
   link: https://thunderatz.org/
 - name: Escuela Superior Politécnica del Litoral (ESPOL)
   type: school
@@ -174,8 +173,8 @@
   type: school
   lat: 33.775597
   long: -84.396262
-  description: The Georgia Institute of Technology is a leading research university
-    committed to improving the human condition through advanced science and technology.
+  description: The Georgia Institute of Technology is a leading research university committed to improving
+    the human condition through advanced science and technology.
   link: http://www.gatech.edu
 - name: HERE Reality Capture and Processing
   type: company
@@ -196,16 +195,15 @@
   lat: 37.348928
   long: -121.938094
   address: 500 El Camino Real, Santa Clara, CA 95053
-  description: The Human Machine Interaction & Innovation lab at Santa Clara University
-    is a leading research group focussing on human-robot interaction and assistive
-    robotics. We also teach ROS as an undergraduate lab course.
+  description: The Human Machine Interaction & Innovation lab at Santa Clara University is a leading research
+    group focussing on human-robot interaction and assistive robotics. We also teach ROS as an undergraduate
+    lab course.
   link: https://sites.google.com/view/mariakyrarini/hmi2-research-group
 - name: Hydrogen Research Institute, Université du Québec à Trois-Rivières
   type: school
   lat: 46.3467017
   long: -72.5779338
-  address: Pavillon Tapan-k.Bose, 3351 Boulevard des Forges, Trois-Rivières QC G9A
-    5H7
+  address: Pavillon Tapan-k.Bose, 3351 Boulevard des Forges, Trois-Rivières QC G9A 5H7
   description: leaders in Energy Transition in Québec and Canada
   link: https://www.uqtr.ca
 - name: INSPER - Instituto de Pesquisa e Ensino
@@ -225,8 +223,7 @@
   lat: 20.614615
   long: -100.402977
   address: Epigmenio González 500 Fracc. San Pablo 76130 Querétaro, Qro., Mexico.
-  description: We use ROS in the Applied Robotics, Robotics Project, Semestre-i classes,
-    as well as semana-i.
+  description: We use ROS in the Applied Robotics, Robotics Project, Semestre-i classes, as well as semana-i.
   link: https://tec.mx/en/queretaro
 - name: Intel Labs Seattle
   type: company
@@ -236,9 +233,8 @@
   type: company
   lat: 38.674264
   long: -90.368617
-  description: Alvey Robotics from Intelligrated. We provide integrated robotic material
-    handling systems including system design, fabrication, installation, commissioning,
-    and after-sales customer support.
+  description: Alvey Robotics from Intelligrated. We provide integrated robotic material handling systems
+    including system design, fabrication, installation, commissioning, and after-sales customer support.
 - name: James Madison University
   type: school
   lat: 38.434082
@@ -311,8 +307,8 @@
   lat: 36.148265
   long: -86.793912
   address: MetaMorph Inc., 49 Music Square West, Suite 210, Nashville, TN 37203
-  description: MetaMorph Inc. builds multi-domain engineering tools for the design
-    and analysis of complex systems.
+  description: MetaMorph Inc. builds multi-domain engineering tools for the design and analysis of complex
+    systems.
   link: https://www.metamorphsoftware.com/
 - name: Michael Sprague
   type: other
@@ -345,10 +341,9 @@
   lat: -25.43953
   long: -49.26808
   address: Av. Sete de Setembro, 3165, Rebouças, Curitiba - PR, 80230-901 Brazil
-  description: '''O PROJETO'' is one of the major universitarion robotics team in
-    Latin America, the only one in a Technological University (UTFPR - CT), with projects
-    ranging from autonomous exploration robots, trough artbots, to autonomus combat
-    robots.'
+  description: "'O PROJETO' is one of the major universitarion robotics team in Latin America, the only\
+    \ one in a Technological University (UTFPR - CT), with projects ranging from autonomous exploration\
+    \ robots, trough artbots, to autonomus combat robots."
   link: https://www.instagram.com/o.projeto.utfpr
 - name: Oakland University
   type: school
@@ -360,8 +355,7 @@
   type: company
   lat: 38.673867
   long: -90.453198
-  description: Object Computing, Inc. offers ROS2, DDS, Cloud, AI/ML, blockchain,
-    and other areas.
+  description: Object Computing, Inc. offers ROS2, DDS, Cloud, AI/ML, blockchain, and other areas.
   link: https://objectcomputing.com/
 - name: Oceaneering, Mobile Robotics Innovation Lab
   type: company
@@ -484,18 +478,16 @@
   lat: 41.792409
   long: -88.051423
   address: 2854 Hitchcock Ave, Downers Grove, IL 60515
-  description: Trossen Robotics provides open source robotic hardware and software
-    for educational, hobbyist, and professional use.
+  description: Trossen Robotics provides open source robotic hardware and software for educational, hobbyist,
+    and professional use.
   link: http://trossenrobotics.com/
 - name: Turing Laboratory, Universidad Galileo
   type: school
   lat: 14.609785
   long: -90.505718
-  address: Universidad Galileo 7a. Avenida, calle Dr. Eduardo Suger Cofiño, Zona 10,
-    Guatemala, CA
-  description: Turing Laboratory belongs to a new generation of Research and Development
-    laboratories recently inaugurated in Galileo University to promote the development
-    of Science and Technology.
+  address: Universidad Galileo 7a. Avenida, calle Dr. Eduardo Suger Cofiño, Zona 10, Guatemala, CA
+  description: Turing Laboratory belongs to a new generation of Research and Development laboratories
+    recently inaugurated in Galileo University to promote the development of Science and Technology.
   link: http://turing.galileo.edu
 - name: U. Texas at Arlington (UTARI, NextGen Lab)
   type: school
@@ -524,8 +516,8 @@
   type: school
   lat: -33.45741
   long: -70.664513
-  description: Lab on Robotics and Computation at the Computer Science Department
-    (DCC) of the University of Chile
+  description: Lab on Robotics and Computation at the Computer Science Department (DCC) of the University
+    of Chile
   link: http://rych.dcc.uchile.cl
 - name: Universidad de Ingenieria y Tecnologia - UTEC
   type: school
@@ -558,10 +550,8 @@
   type: school
   lat: -18.918222
   long: -48.25817
-  address: Av. Joao Naves de Avila, 2121 - Santa Monica, Uberlandia - MG, 38400-902,
-    Brazil
-  description: Federal University of Uberlandia - EDROM Robotics Team, Laboratory
-    of Autonomous Aircrafts
+  address: Av. Joao Naves de Avila, 2121 - Santa Monica, Uberlandia - MG, 38400-902, Brazil
+  description: Federal University of Uberlandia - EDROM Robotics Team, Laboratory of Autonomous Aircrafts
   link: http://www.ufu.br/
 - name: Universidade Federal do Rio Grande
   type: school
@@ -569,14 +559,12 @@
   long: -52.165715
   description: Grupo de Automação e Robótica Inteligente
   link: www.furg.br
-- name: Universidade Federal do Rio Grande do Sul - Grupo de Controle, Automacao e
-    Robotica
+- name: Universidade Federal do Rio Grande do Sul - Grupo de Controle, Automacao e Robotica
   type: school
   lat: -30.032393
   long: -51.220724
   address: Av. Osvaldo Aranha, 103 - Porto Alegre, RS 90035-190, Brazil
-  description: Federal University of Rio Grande do Sul - Control, Automation and Robotics
-    Group
+  description: Federal University of Rio Grande do Sul - Control, Automation and Robotics Group
   link: http://www.ece.ufrgs.br
 - name: University At Albany
   type: school
@@ -654,8 +642,7 @@
   type: other
   lat: 42.332675
   long: -71.111465
-  description: Master's Student in Northeastern University passionately working on
-    Autonomous Mobile Robotics
+  description: Master's Student in Northeastern University passionately working on Autonomous Mobile Robotics
   link: https://github.com/veeraragav
 - name: WPI
   type: school
@@ -686,6 +673,5 @@
   lat: 45.493617
   long: -73.562328
   address: 1219 rue William, Montréal, Quebec H3C 1R1
-  description: French speaking engineering university. Our university has many robotics
-    student clubs.
+  description: French speaking engineering university. Our university has many robotics student clubs.
   link: https://www.etsmtl.ca/
