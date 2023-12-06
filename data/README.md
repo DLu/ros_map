@@ -12,5 +12,4 @@ You may also add:
  * address
 
 Possible sources for lat/long information are:
- * http://getlatlong.net (enter your location manually)
- * http://locationdetection.mobi/ (use your browser's location)
+ * https://www.latlong.net/ (enter your location manually)
