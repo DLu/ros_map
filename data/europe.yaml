@@ -924,3 +924,10 @@
   address: Studentų g. 65, Kaunas 51369
   description: We are experts in 3D/2D Computer Vision, Artificial Intelligence, Robotics
   link: matom.ai
+- name: Istanbul Technical University Robotic Search and Rescue Team
+  type: school
+  lat: 41.104188
+  long: 29.025210
+  address: Rockwell Automation Laboratory, Istanbul Technical University, Maslak, 34493, Sariyer, Istanbul
+  description: As RAKE, our main mission is to provide technical and scientific solutions to natural and human-made disasters, using our robots to perform tasks that are inaccessible and risky for humans.
+  link: https://rake.itu.edu.tr/
