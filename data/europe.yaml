@@ -257,6 +257,12 @@
   long: 6.155633
   description: INRIA Nancy, LARSEN Team is focus on robotics R&D.
   link: https://team.inria.fr/larsen/
+- name: Institute for Control Engineering of Machine Tools and Manufacturing Units
+  type: research institute
+  lat: 48.781257001763876 
+  long: 9.165876133220019
+  address: Seidenstr. 36, D-70174, Stuttgart, Germany
+  link: https://www.isw.uni-stuttgart.de/en/
 - name: IXION, Smart Automation
   type: company
   lat: 40.4342401
