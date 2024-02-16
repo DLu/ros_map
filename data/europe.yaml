@@ -257,12 +257,6 @@
   long: 6.155633
   description: INRIA Nancy, LARSEN Team is focus on robotics R&D.
   link: https://team.inria.fr/larsen/
-- name: Institute for Control Engineering of Machine Tools and Manufacturing Units
-  type: research institute
-  lat: 48.781257001763876 
-  long: 9.165876133220019
-  address: Seidenstr. 36, D-70174, Stuttgart, Germany
-  link: https://www.isw.uni-stuttgart.de/en/
 - name: IXION, Smart Automation
   type: company
   lat: 40.4342401
@@ -314,6 +308,12 @@
   address: Contour Antoine de St Exupéry, Campus de Ker Lann, France
   description: Innovation in production.
   link: www.institutmaupertuis.fr
+- name: Institute for Control Engineering of Machine Tools and Manufacturing Units
+  type: research institute
+  lat: 48.781257001763876
+  long: 9.165876133220019
+  address: Seidenstr. 36, D-70174, Stuttgart, Germany
+  link: https://www.isw.uni-stuttgart.de/en/
 - name: Institute for Robotics and Autonomous Systems (IRAS) of the Karlsruhe University of Applied Sciences
     (HKA)
   type: research institute
@@ -358,6 +358,14 @@
   address: ITU Autonomous Underwater Vehicle Team, Faculty of Naval Architecture and Design, Istanbul,
     Turkey
   link: http://auv.itu.edu.tr/index-eng.html
+- name: Istanbul Technical University Robotic Search and Rescue Team
+  type: school
+  lat: 41.104188
+  long: 29.02521
+  address: Rockwell Automation Laboratory, Istanbul Technical University, Maslak, 34493, Sariyer, Istanbul
+  description: As RAKE, our main mission is to provide technical and scientific solutions to natural and
+    human-made disasters, using our robots to perform tasks that are inaccessible and risky for humans.
+  link: https://rake.itu.edu.tr/
 - name: Jacobs
   type: company
   lat: 53.4236275
@@ -930,10 +938,3 @@
   address: Studentų g. 65, Kaunas 51369
   description: We are experts in 3D/2D Computer Vision, Artificial Intelligence, Robotics
   link: matom.ai
-- name: Istanbul Technical University Robotic Search and Rescue Team
-  type: school
-  lat: 41.104188
-  long: 29.025210
-  address: Rockwell Automation Laboratory, Istanbul Technical University, Maslak, 34493, Sariyer, Istanbul
-  description: As RAKE, our main mission is to provide technical and scientific solutions to natural and human-made disasters, using our robots to perform tasks that are inaccessible and risky for humans.
-  link: https://rake.itu.edu.tr/
