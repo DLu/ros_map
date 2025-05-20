@@ -157,6 +157,12 @@
   long: 141.679688
   address: Japan
   link: http://cbk0.google.com/cbk?output=thumbnail&w=90&h=68&ll=35.741974,139.783696&thumb=0
+- name: Technology Innovation Institute
+  type: research institute
+  lat: 24.437471
+  long: 54.613851
+  address: Masdar City - SE45 01 - Abu Dhabi
+  link: https://www.tii.ae/
 - name: Tectus Dreamlab Pte Ltd
   type: company
   lat: 1.28967
