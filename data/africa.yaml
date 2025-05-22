@@ -4,6 +4,13 @@
   long: -0.578986
   description: hobbyist & researcher
   link: https://github.com/amineHorseman
+- name: Mare Custos
+  type: company
+  lat: 36.83140894294208
+  long: 10.305972754220099
+  address: Lac3,Tunis,Tunisia
+  description: Underwater Robotics for Offshore Inspection
+  link: https://mare-custos.com/
 - name: Yassine Cherni
   type: other
   lat: 35.573305
@@ -23,4 +30,5 @@
   long: -5.065558
   description: hobbyist & researcher
   link: https://errouji.me
+
 
