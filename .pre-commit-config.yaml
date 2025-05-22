@@ -17,20 +17,24 @@ repos:
   - id: requirements-txt-fixer
   - id: check-xml
   - id: check-yaml
-  rev: v4.4.0
+  rev: v5.0.0
 - repo: https://github.com/hhatto/autopep8
   hooks:
   - id: autopep8
-  rev: v2.0.4
+  rev: v2.3.2
 - repo: https://github.com/PyCQA/flake8
   hooks:
   - id: flake8
-  rev: 6.1.0
+  rev: 7.2.0
 - repo: https://github.com/pre-commit/mirrors-prettier
   hooks:
   - id: prettier
-    exclude: ^src/.*|.*\.md|.*\.yaml$
-  rev: v3.0.3
+    exclude: ^src/.*$
+    types_or:
+    - css
+    - javascript
+    - html
+  rev: v4.0.0-alpha.8
 - repo: https://github.com/Lucas-C/pre-commit-hooks-lxml
   hooks:
   - id: forbid-html-img-without-alt-text
@@ -59,7 +63,6 @@ repos:
     - --format
     - parsable
     - --strict
-  rev: v1.32.0
-
+  rev: v1.37.0
 ci:
   autoupdate_schedule: quarterly
