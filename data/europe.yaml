@@ -148,6 +148,11 @@
   type: school
   lat: 51.447744
   long: 5.489841
+- name: European University Of Madrid
+  type: school
+  lat: 40.371831
+  long: -3.918953
+  link: https://www.universidadeuropea.com
 - name: Eurotec
   type: company
   lat: 51.86799

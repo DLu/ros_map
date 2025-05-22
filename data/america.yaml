@@ -390,6 +390,13 @@
   address: Av. Bento Gonçalves, 9500, Agronomia, Instituto de Informática
   description: Research group in mobile robotics
   link: https://www.inf.ufrgs.br/phi-group/site/
+- name: Polymath Robotics
+  type: company
+  lat: 37.764572
+  long: -122.411845
+  address: 375 alabama st, san francisco, ca, 94110, USA
+  description: Autonomy software for safe off-road industrial vehicles
+  link: https://www.polymathrobotics.com/
 - name: Polytechnique Montreal
   type: school
   lat: 45.504651
