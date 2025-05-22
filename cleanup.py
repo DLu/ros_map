@@ -7,7 +7,7 @@ types = collections.Counter()
 
 for file in datafiles:
     full_filename = f'data/{file}.yaml'
-    data = yaml.load(open(full_filename))
+    data = yaml.safe_load(open(full_filename))
     for d in data:
         for key, value in d.items():
             stats[key] += 1

@@ -809,6 +809,13 @@
   type: school
   lat: 53.094024
   long: 8.920898
+- name: University of Calabria
+  type: school
+  lat: 39.361919178414844,
+  long: 16.22611360674638
+  address: Via Pietro Bucci, 87036 Arcavacata CS, Italy
+  description: Department of Computer Science, Modeling, Electronics and Systems Engineering (DIMES)
+  link: https://dimes.unical.it/?lang=en
 - name: University of Coimbra
   type: school
   lat: 40.145289
@@ -943,10 +950,3 @@
   address: Studentų g. 65, Kaunas 51369
   description: We are experts in 3D/2D Computer Vision, Artificial Intelligence, Robotics
   link: matom.ai
-- name: University of Calabria
-  type: school
-  lat: 39.361919178414844, 
-  long: 16.22611360674638
-  address: Via Pietro Bucci, 87036 Arcavacata CS, Italy
-  description: Department of Computer Science, Modeling, Electronics and Systems Engineering (DIMES)
-  link: https://dimes.unical.it/?lang=en

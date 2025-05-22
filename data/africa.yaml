@@ -11,24 +11,21 @@
   address: Lac3,Tunis,Tunisia
   description: Underwater Robotics for Offshore Inspection
   link: https://mare-custos.com/
-- name: Yassine Cherni
-  type: other
-  lat: 35.573305
-  long: 10.875128
-  description: Robotics Enthusiast
-  link : https://github.com/yassine-cherni
-- name: Takavarasha Desire Mugova
-  type: other
-  lat: -17.737733
-  long: 30.959605
-  description: Robotics Engineer/Educator
-  link: www.linkedin.com/in/takavarasha-mugova-geometric-algebra-for-robotics
- 
 - name: Oussama Errouji
   type: other
   lat: 34.044874
   long: -5.065558
   description: hobbyist & researcher
   link: https://errouji.me
-
-
+- name: Takavarasha Desire Mugova
+  type: other
+  lat: -17.737733
+  long: 30.959605
+  description: Robotics Engineer/Educator
+  link: www.linkedin.com/in/takavarasha-mugova-geometric-algebra-for-robotics
+- name: Yassine Cherni
+  type: other
+  lat: 35.573305
+  long: 10.875128
+  description: Robotics Enthusiast
+  link: https://github.com/yassine-cherni
