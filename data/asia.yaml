@@ -197,3 +197,12 @@
   long: 126.874495
   address: '#601, Namsung-Plaza, 345-30 Gasan-dong, Guemcheon-gu, Seoul, Korea, 153-023.'
   link: http://www.yujinrobot.com/eng
+- name: Rootie Robotics
+  type: company
+  lat: 32.1039375
+  long: 34.8061875
+  address: Rokach Blvd 101, Tel Aviv-Yafo, Israel
+  link: https://www.rootiebot.com
+  description: Rootie Robotics builds next-generation autonomous maintenance, monitoring systems, and fleet orchestration platforms for large facilities. 
+               Our core technologies integrate real-time task allocation, multi-robot coordination, and semantic mapping using advanced perception, AI planning, and ROS 2-based architecture.
+               We serve as a trusted R&D partner to Fortune 500 companies, delivering domain-specific robotics solutions, from AI to dynamic navigation algorithms—deployed at scale in production environments.
