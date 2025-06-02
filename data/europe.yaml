@@ -811,7 +811,7 @@
   long: 8.920898
 - name: University of Calabria
   type: school
-  lat: 39.361919178414844,
+  lat: 39.361919178414844
   long: 16.22611360674638
   address: Via Pietro Bucci, 87036 Arcavacata CS, Italy
   description: Department of Computer Science, Modeling, Electronics and Systems Engineering (DIMES)
