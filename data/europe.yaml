@@ -15,7 +15,7 @@
   long: 6.15568
   link: www.accerion.tech
 - name: Aditya Kamath
-  type: other
+  type: individual
   lat: 51.446181
   long: 5.479506
   description: Robotics/Embedded Systems Engineer
@@ -43,7 +43,7 @@
   long: 2.2737
   address: 43, rue du Colonel Pierre Avia,
 - name: Alperen Kösem
-  type: other
+  type: individual
   lat: 41.00335
   long: 28.866062
   address: Yildiz Technical University, Turkey
@@ -124,7 +124,7 @@
   long: 10.413344
   link: http://dti.dk/robot
 - name: Davut Can Akbas
-  type: other
+  type: individual
   lat: 40.757471
   long: 30.353908
   description: Autonomous systems & Ros developer
@@ -170,7 +170,7 @@
   address: Karlsruhe, Germany
   link: http://www.fzi.de/en/research/research-sectors/anwendungsfelder-en/afeld/automation-und-robotik/
 - name: Fatih BAYGUL
-  type: other
+  type: individual
   lat: 41.034261
   long: 28.856085
   address: Bağcılar İstanbul, Turkey
@@ -424,13 +424,13 @@
   address: P. O. Pedersens Vej 18, 8200 Aarhus, Denmark
   link: https://marel.com/
 - name: Martin Pecka
-  type: other
+  type: individual
   lat: 50.0770022
   long: 14.4180256
   description: Core ROS contributor, maintainer of a few packages, mobile robotics researcher
   link: https://cmp.felk.cvut.cz/~peckama2/
 - name: Mat Sadowski
-  type: other
+  type: individual
   lat: 50.075539
   long: 14.4378
   description: ROS Consultant
@@ -522,7 +522,7 @@
   address: Rome, Italy
   link: http://www.officinerobotiche.it/
 - name: Onur Berk Töre
-  type: other
+  type: individual
   lat: 41.207278
   long: 29.075144
   description: Roboticist
@@ -685,7 +685,7 @@
   description: Consumer electronics
   link: http://www.sberdevices.ru
 - name: Sencer Yazici
-  type: other
+  type: individual
   lat: 41.011243
   long: 29.082413
   description: ROS Enthusiastic

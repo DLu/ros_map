@@ -1,5 +1,5 @@
 - name: Articulated Robotics (Josh Newans)
-  type: other
+  type: individual
   lat: -32.8873526
   long: 151.6952179
   description: Mechatronics Engineer, educational content in robotics
@@ -13,7 +13,7 @@
   lat: -42.886794
   long: 147.338086
 - name: Chris Meaclem
-  type: other
+  type: individual
   lat: -43.524167
   long: 172.582726
   link: http://nz.linkedin.com/in/chrismeaclem/

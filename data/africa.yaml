@@ -1,5 +1,5 @@
 - name: Amine BENDAHMANE
-  type: other
+  type: individual
   lat: 35.707902
   long: -0.578986
   description: hobbyist & researcher
@@ -12,19 +12,19 @@
   description: Underwater Robotics for Offshore Inspection
   link: https://mare-custos.com/
 - name: Oussama Errouji
-  type: other
+  type: individual
   lat: 34.044874
   long: -5.065558
   description: hobbyist & researcher
   link: https://errouji.me
 - name: Takavarasha Desire Mugova
-  type: other
+  type: individual
   lat: -17.737733
   long: 30.959605
   description: Robotics Engineer/Educator
   link: www.linkedin.com/in/takavarasha-mugova-geometric-algebra-for-robotics
 - name: Yassine Cherni
-  type: other
+  type: individual
   lat: 35.573305
   long: 10.875128
   description: Robotics Enthusiast

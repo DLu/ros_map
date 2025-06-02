@@ -1,5 +1,5 @@
 - name: Ahmet Ceyhun Bilir
-  type: other
+  type: individual
   lat: 40.74707
   long: 30.330233
 - name: AnR at KLE. B. V. Bhoomaraddi College of Engineering and Technology
@@ -135,7 +135,7 @@
   address: Prince Sultan University, Rafhaa Street, Riyadh, Saudi Arabia
 - name: Qbotics Labs Pvt Ltd
   type: company
-  lat: 110.178752
+  lat: 10.178752
   long: 76.329463
   address: Door No. 8/428, Kurumassery, Kochi/Kerala/India
   link: http://qboticslabs.com/
@@ -152,7 +152,7 @@
   address: India Telecom Innovation Hub, Cochin
   link: http://sastrarobotics.com/
 - name: Taylor Veltrop
-  type: other
+  type: individual
   lat: 35.532226
   long: 141.679688
   address: Japan

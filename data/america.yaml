@@ -20,7 +20,7 @@
   description: Autonomous Collective Systems Lab
   link: http://faculty.engineering.asu.edu/acs/
 - name: Atom
-  type: other
+  type: individual
   lat: 38.628888
   long: -90.27048
   description: ROS Junkie
@@ -38,7 +38,7 @@
   address: Av. Orlando Gomes, 1845 - Piatã, Salvador - BA, 41650-010
   description: Brazilian Institute of Robotics, develp projects in robotcs for industry
 - name: Bill Mania
-  type: other
+  type: individual
   lat: 37.942
   long: -122.318
   description: ROS hobbyist
@@ -118,7 +118,7 @@
   lat: 40.807536
   long: -73.962573
 - name: DPRG (Dallas Personal Robotics Group)
-  type: other
+  type: user group
   lat: 32.899552
   long: -96.887569
 - name: Dataspeed Inc.
@@ -164,7 +164,7 @@
   long: -73.8773
   link: https://www.ge.com/research/technology-domains/robotics-autonomous-systems
 - name: Gary Servin
-  type: other
+  type: individual
   lat: -25.290569
   long: -57.629539
   description: ROS padawan
@@ -240,7 +240,7 @@
   lat: 38.434082
   long: -78.863184
 - name: James Ronald
-  type: other
+  type: individual
   lat: 42.57331
   long: -83.916321
   description: TurtleBot / ROS
@@ -283,7 +283,7 @@
   long: -97.7870468
   link: http://www.maidbot.co
 - name: Mark Silliman
-  type: other
+  type: individual
   lat: 44.05
   long: -121.3
   description: Passionate developer
@@ -293,7 +293,7 @@
   lat: 42.360091
   long: -71.09416
 - name: Matt Bell
-  type: other
+  type: individual
   lat: 37.439974
   long: -127.705078
   link: http://mattishere.wordpress.com/
@@ -311,7 +311,7 @@
     systems.
   link: https://www.metamorphsoftware.com/
 - name: Michael Sprague
-  type: other
+  type: individual
   lat: 35.542698
   long: -82.70445
   link: https://github.com/MichaelSprague
@@ -404,7 +404,7 @@
   address: 2500, chemin de Polytechnique, Montreal (Quebec) H3T 1J4 Canada
   link: https://www.polymtl.ca/
 - name: ROS Edmonton
-  type: other
+  type: user group
   lat: 53.545782
   long: -113.498983
   address: 10359 104 St NW, Edmonton, AB T5J 1B9
@@ -646,7 +646,7 @@
   lat: 36.144703
   long: -86.803964
 - name: Veera Ragav C. V.
-  type: other
+  type: individual
   lat: 42.332675
   long: -71.111465
   description: Master's Student in Northeastern University passionately working on Autonomous Mobile Robotics
