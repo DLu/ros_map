@@ -687,3 +687,10 @@
   address: 1219 rue William, Montréal, Quebec H3C 1R1
   description: French speaking engineering university. Our university has many robotics student clubs.
   link: https://www.etsmtl.ca/
+- name: Alan McDonley  
+  type: individual  
+  lat: 26.546340  
+  long: -80.150610
+  description: BotMaster for two 24/7/365 ROS 2 home robots  
+  link: https://github.com/slowrunner/  
+
