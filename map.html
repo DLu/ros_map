@@ -13,20 +13,27 @@
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     ></script>
-    <script src="https://unpkg.com/@googlemaps/markerclusterer/dist/index.min.js"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-    <script src="rosmap.js" type="module"></script>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.1.0/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.1.0/dist/MarkerCluster.Default.css" />
+    <script src="https://unpkg.com/leaflet.markercluster@1.1.0/dist/leaflet.markercluster.js"></script>
+    <script src="rosmap.js"></script>
   </head>
-  <body>
+  <body onload="initialize()">
     <div id="text">
       <h1>ROS Users of the World</h1>
-      <ul>
-        <li><span style="color: #62af44">GREEN </span> - School</li>
-        <li><span style="color: #4186f0">BLUE </span> - Company</li>
-        <li><span style="color: #db4436">RED </span> - Research Institute</li>
-        <li><span style="color: #ffdd5e">YELLOW </span> - Other</li>
-        <li><span style="font-size: small">(white - unknown)</span></li>
-      </ul>
+      <ul id="legend"></ul>
       <p>
         Add to or edit the map by changing the yaml files in
         <a href="https://github.com/DLu/ros_map/tree/main/data">this repository</a>, or by emailing
@@ -34,8 +41,5 @@
       </p>
     </div>
     <div id="map-canvas"></div>
-    <!-- prettier-ignore -->
-    <script>(g=>{var h,a,k,p="The Google Maps JavaScript API",c="google",l="importLibrary",q="__ib__",m=document,b=window;b=b[c]||(b[c]={});var d=b.maps||(b.maps={}),r=new Set,e=new URLSearchParams,u=()=>h||(h=new Promise(async(f,n)=>{await (a=m.createElement("script"));e.set("libraries",[...r]+"");for(k in g)e.set(k.replace(/[A-Z]/g,t=>"_"+t[0].toLowerCase()),g[k]);e.set("callback",c+".maps."+q);a.src=`https://maps.${c}apis.com/maps/api/js?`+e;d[q]=f;a.onerror=()=>h=n(Error(p+" could not load."));a.nonce=m.querySelector("script[nonce]")?.nonce||"";m.head.append(a)}));d[l]?console.warn(p+" only loads once. Ignoring:",g):d[l]=(f,...n)=>r.add(f)&&u().then(()=>d[l](f,...n))})
-        ({key: "AIzaSyAq02Y_R42xhDQa4n4Fr_9H3M_az7XO4gM", v: "weekly"});</script>
   </body>
 </html>
