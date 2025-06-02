@@ -15,3 +15,25 @@ body {
   left: 0%;
   padding: 50px;
 }
+
+.rosmap_icon,
+#legend > li > i {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  color: white;
+  text-align: center;
+  padding: 5px 5px 0 5px;
+  font-size: 20px;
+}
+
+#legend {
+  list-style-type: none;
+  padding: 0;
+  margin-left: 20px;
+}
+
+div.leaflet-div-icon {
+  border: none;
+  background: none;
+}

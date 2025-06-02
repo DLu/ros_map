@@ -4,6 +4,7 @@ const icons = {
   "research institute": "fa-flask",
   "user group": "fa-users",
   individual: "fa-user-circle",
+  other: "fa-globe",
 };
 const colors = {
   school: "#62af44",
@@ -11,6 +12,7 @@ const colors = {
   "research institute": "#db4436",
   "user group": "#232e4a",
   individual: "#ffdd5e",
+  other: "purple",
 };
 
 function createInfoWindow(location) {
@@ -54,49 +56,54 @@ function createInfoWindow(location) {
   return div;
 }
 
-async function initialize() {
-  const { Map, InfoWindow } = await google.maps.importLibrary("maps");
-  const { AdvancedMarkerElement, PinElement } = await google.maps.importLibrary("marker");
+function createIcon(the_type) {
+  var icon_key;
+  if (icons[the_type]) {
+    icon_key = the_type;
+  } else {
+    icon_key = "other";
+  }
 
-  var map = new Map(document.getElementById("map-canvas"), { mapId: "rosmap", zoom: 2, center: { lat: 0, lng: 20 } });
-  const infoWindow = new google.maps.InfoWindow({
-    content: "",
-    disableAutoPan: true,
-  });
+  var icon = document.createElement("i");
+  icon.classList.add("fas");
+  icon.classList.add(icons[icon_key]);
+  icon.style.backgroundColor = colors[icon_key];
+  return icon;
+}
+
+function initialize() {
+  var map = L.map("map-canvas").setView([0, 20], 2);
+  L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    maxZoom: 19,
+    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+  }).addTo(map);
+
   var regions = ["america", "asia", "australia", "europe", "africa"];
-  var regions_loaded = 0;
-  const markers = [];
+  var markers = L.markerClusterGroup({ maxClusterRadius: 30 });
   for (var region of regions) {
     $.get("https://raw.githubusercontent.com/DLu/ros_map/main/data/" + region + ".yaml").done(function (data) {
       var locations = jsyaml.load(data);
       for (var location of locations) {
-        const pin = { title: location.name, glyphColor: "white", scale: 1.5 };
-        const icon = document.createElement("div");
-        icon.classList.add("fas");
-        icon.classList.add(icons[location.type] || "fa-globe");
-        pin.background = colors[location.type] || "purple";
-        pin["glyph"] = icon;
+        var icon_html = createIcon(location.type);
+        icon_html.classList.add("rosmap_icon");
 
-        const pinGlyph = new google.maps.marker.PinElement(pin);
+        var icon = L.divIcon({ html: icon_html });
+        var marker = L.marker([location.lat, location.long], { icon: icon, title: location.name, alt: location.type });
+        marker.bindPopup(createInfoWindow(location)).openPopup();
+        markers.addLayer(marker);
+      }
 
-        const marker = new google.maps.marker.AdvancedMarkerElement({
-          map,
-          position: { lat: location.lat, lng: location.long },
-          content: pinGlyph.element,
-        });
-        marker.ros_data = location;
-        marker.addListener("click", () => {
-          infoWindow.setContent(createInfoWindow(marker.ros_data));
-          infoWindow.open(map, marker);
-        });
-        markers.push(marker);
-      }
-      regions_loaded++;
-      if (regions_loaded == regions.length) {
-        const markerCluster = new markerClusterer.MarkerClusterer({ markers, map });
-      }
+      map.addLayer(markers);
     });
   }
-}
 
-initialize();
+  var legend = document.getElementById("legend");
+  for (const key in icons) {
+    var item = document.createElement("li");
+    legend.appendChild(item);
+    var icon = createIcon(key);
+    item.appendChild(icon);
+    var text = document.createTextNode(" - " + key);
+    item.appendChild(text);
+  }
+}
