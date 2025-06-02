@@ -23,7 +23,7 @@ if __name__ == '__main__':
 
     entry['name'] = input('Name> ')
 
-    entry['type'] = choose(['school', 'company', 'research institute', 'other'], 'Type> ')
+    entry['type'] = choose(['school', 'company', 'research institute', 'user group', 'individual', 'other'], 'Type> ')
 
     address = input('Address> ')
 

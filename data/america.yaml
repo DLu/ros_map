@@ -127,6 +127,11 @@
   long: -83.167906
   address: 5800 Crooks Road, Troy, MI 48098
   link: http://dataspeedinc.com/
+- name: David Lu!!
+  type: individual
+  lat: 42.9832406
+  long: -81.243372
+  link: https://www.davidlu.dev
 - name: Ekumen
   type: company
   lat: -34.583067
