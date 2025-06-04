@@ -950,3 +950,9 @@
   address: Studentų g. 65, Kaunas 51369
   description: We are experts in 3D/2D Computer Vision, Artificial Intelligence, Robotics
   link: matom.ai
+- name: Kimberly McGuire
+  type: individual
+  lat: 55.604980
+  long: 13.003822
+  description: Independent Open Source Robotics Developer
+  link: https://www.mcguirerobotics.com/
