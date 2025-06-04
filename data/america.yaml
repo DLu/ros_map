@@ -240,6 +240,11 @@
   long: -90.368617
   description: Alvey Robotics from Intelligrated. We provide integrated robotic material handling systems
     including system design, fabrication, installation, commissioning, and after-sales customer support.
+- name: Instituto SENAI de Inovação em Sistemas de Sensoriamento
+  type: research institute
+  lat: -29.786115
+  long: -51.163614
+  link: https://www.senairs.org.br/unidades/instituto-senai-de-inovacao-em-sistemas-de-sensoriamento
 - name: James Madison University
   type: school
   lat: 38.434082
