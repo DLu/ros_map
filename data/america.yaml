@@ -400,7 +400,7 @@
   lat: 40.018533532999115
   long: -105.24239777893798
   address: 4730 Walnut St, Suite 106, Boulder, Colorado 80301
-  description: MoveIt Pro: Autonomy software for mobile manipulation, robot arms, and more.
+  description: 'MoveIt Pro: Autonomy software for mobile manipulation, robot arms, and more.'
   link: https://www.picknik.ai/
 - name: Polymath Robotics
   type: company
