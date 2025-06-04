@@ -1,4 +1,7 @@
-To add or edit a location, you can directly edit the corresponding yaml file using the github web interface. Click the pencil icon to edit.
+To add or edit a location:
+1) fork this repository
+2) edit the corresponding data/___.yaml file
+3) create a pull request to merge your edit to the repo
 
 Current required fields are:
  * name
