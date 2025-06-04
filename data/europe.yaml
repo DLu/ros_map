@@ -956,3 +956,10 @@
   long: 13.003822
   description: Independent Open Source Robotics Developer
   link: https://www.mcguirerobotics.com/
+- name: Wroclaw University of Science and Technology - Department of Cybernetics and Robotics
+  type: research institute
+  lat: 51.10899985718365
+  long: 17.060114520663085
+  address: Wroclaw, Poland
+  description: Research department, using ROS and ROS 2 in research and education
+  link: https://www.pwr.edu.pl/
