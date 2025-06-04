@@ -129,6 +129,12 @@
   long: 30.353908
   description: Autonomous systems & Ros developer
   link: https://github.com/davutcanakbas
+- name: Dexory
+  type: company
+  lat: 51.597135
+  long: -1.1422991
+  description: Designer and manufacturer of the tallest indoor mobile robot of the world
+link: https://github.com/davutcanakbas
 - name: ENSTA Paris
   type: school
   lat: 48.710798070702
