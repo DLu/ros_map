@@ -203,6 +203,9 @@
   long: 34.8061875
   address: Rokach Blvd 101, Tel Aviv-Yafo, Israel
   link: https://www.rootiebot.com
-  description: Rootie Robotics builds next-generation autonomous maintenance, monitoring systems, and fleet orchestration platforms for large facilities. 
-               Our core technologies integrate real-time task allocation, multi-robot coordination, and semantic mapping using advanced perception, AI planning, and ROS 2-based architecture.
-               We serve as a trusted R&D partner to Fortune 500 companies, delivering domain-specific robotics solutions, from AI to dynamic navigation algorithms—deployed at scale in production environments.
+  description: Rootie Robotics builds next-generation autonomous maintenance, monitoring systems, and
+    fleet orchestration platforms for large facilities. Our core technologies integrate real-time task
+    allocation, multi-robot coordination, and semantic mapping using advanced perception, AI planning,
+    and ROS 2-based architecture. We serve as a trusted R&D partner to Fortune 500 companies, delivering
+    domain-specific robotics solutions, from AI to dynamic navigation algorithms—deployed at scale in
+    production environments.
