@@ -420,6 +420,12 @@
   long: -73.612862
   address: 2500, chemin de Polytechnique, Montreal (Quebec) H3T 1J4 Canada
   link: https://www.polymtl.ca/
+- name: Robotics and AI Institute
+  type: company
+  lat: 42.364931
+  long: -71.088803
+  address: 145 Broadway, Cambridge, MA 02142
+  link: https://rai-inst.com/
 - name: ROS Edmonton
   type: user group
   lat: 53.545782
