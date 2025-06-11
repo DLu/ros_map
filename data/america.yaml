@@ -711,7 +711,7 @@
   long: -80.150610
   description: BotMaster for two 24/7/365 ROS 2 home robots
   link: https://github.com/slowrunner/
-  - name: Universidad de las Américas Puebla, School of Engineering, Robotics Lab
+- name: Universidad de las Américas Puebla, School of Engineering, Robotics Lab
   type: school
   lat: 19.054669
   long: -98.284539
