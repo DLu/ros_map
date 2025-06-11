@@ -2,6 +2,11 @@
   type: individual
   lat: 40.74707
   long: 30.330233
+- name: Analog
+  type: company
+  lat: 24.461785
+  long: 54.599884
+  link: https://www.analog.io/
 - name: AnR at KLE. B. V. Bhoomaraddi College of Engineering and Technology
   type: school
   lat: 15.3690169
