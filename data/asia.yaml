@@ -42,6 +42,11 @@
   long: 103.6863
   address: Johor Bahru, Malaysia
   link: http://dfautomation.com/
+- name: Dubai Future Labs
+  type: research institute
+  lat: 25.217948
+  long: 55.283396
+  link: https://www.dubaifuture.ae/
 - name: EjaadTech
   type: company
   lat: 24.883874
