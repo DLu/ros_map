@@ -711,3 +711,10 @@
   long: -80.150610
   description: BotMaster for two 24/7/365 ROS 2 home robots
   link: https://github.com/slowrunner/
+- name: Universidad de las Américas Puebla, School of Engineering, Robotics Lab
+  type: school
+  lat: 19.054669
+  long: -98.284539
+  description: Research projects, courses and tutorials, using ROS and ROS2, directed by Dr. César Martínez-Torres.
+  link: https://github.com/cesar-martinez-torres
+  address: Ex hacienda Sta. Catarina Mártir S/N. San Andrés Cholula, Puebla, México
