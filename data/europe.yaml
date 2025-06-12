@@ -332,13 +332,13 @@
   long: 8.439634
   address: Wilhelm-Schickard-Straße 9, 76131 Karlsruhe
   link: https://www.h-ka.de/iras
-- name: Institute of Industrial Technologies and Automation (ITIA)
+- name: Institute of Intelligent Industrial Technologies and Systems for Advanced Manufacturing (CNR-STIIMA)
   type: research institute
   lat: 45.480532
   long: 9.231571
-  address: Via Corti 12, 20133, Milano
+  address: Via Corti 12, 20133, Milano, Italy
   description: Robotics and Autonomous Systems Group
-  link: http://www.itia.cnr.it/en/
+  link: https://www.stiima.cnr.it/?lang=en
 - name: Instituto Politécnico de Leiria, ESTG
   type: school
   lat: 39.73443
@@ -982,3 +982,10 @@
   type: school
   lat: 49.422743
   long: 7.752568
+- name: University of Brescia
+  type: research institute
+  lat: 45.562897901011496
+  long: 10.231104811003755
+  address: Via Branze 45, 25123, Brescia, Italy
+  description: JRL-CARI Laboratory
+  link: https://cari.unibs.it/
