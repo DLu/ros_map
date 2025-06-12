@@ -976,3 +976,7 @@
   address: Trippstadter Str. 122, 67663 Kaiserslautern, Germany
   description: Research department, using ROS along with skills in research and education in the field of industry 4.0
   link: https://www.smartfactory.de/
+- name: University of Kaiserslautern-Landau
+  type: school
+  lat: 49.422743
+  long: 7.752568
