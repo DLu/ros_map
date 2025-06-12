@@ -969,3 +969,10 @@
   address: Wroclaw, Poland
   description: Research department, using ROS and ROS 2 in research and education
   link: https://www.pwr.edu.pl/
+- name: Technologie-Initiative SmartFactory KL e. V.
+  type: research institute
+  lat: 49.429588
+  long: 7.751583
+  address: Trippstadter Str. 122, 67663 Kaiserslautern, Germany
+  description: Research department, using ROS along with skills in research and education in the field of industry 4.0
+  link: https://www.smartfactory.de/
