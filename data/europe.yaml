@@ -974,9 +974,9 @@
   lat: 49.429588
   long: 7.751583
   address: Trippstadter Str. 122, 67663 Kaiserslautern, Germany
-  description: A non-profit research institute advancing smart manufacturing and Industry 4.0. It focuses on 
-              cyber-physical systems, human-machine interaction, and industrial automation, leveraging ROS for 
-              skill-based control and contributing to research and education.
+  description: A non-profit research institute advancing smart manufacturing and Industry 4.0. It focuses
+    on cyber-physical systems, human-machine interaction, and industrial automation, leveraging ROS for
+    skill-based control and contributing to research and education.
   link: https://www.smartfactory.de/
 - name: University of Kaiserslautern-Landau
   type: school
