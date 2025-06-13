@@ -221,7 +221,7 @@
     production environments.
 - name: Botsync
   type: company
-  lat: 1.328080,
+  lat: 1.328080
   long: 103.676629
   address: 79 Joo Koon Cir, Level 2 Wong Fong Building, Singapore 629107 
   link: https://www.botsync.co/
