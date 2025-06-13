@@ -329,6 +329,12 @@
   type: school
   lat: 47.117051
   long: -88.544531
+- name: NASA Johnson Space Center
+  type: other
+  lat: 29.558277
+  long: -95.088830
+  address: 2101 E NASA Pkwy, Houston, TX 77058
+  link: https://www.nasa.gov/reference/jsc-robotics/
 - name: NFM Robotics
   type: company
   lat: -12.0551385
