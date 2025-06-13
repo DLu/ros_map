@@ -219,3 +219,19 @@
     and ROS 2-based architecture. We serve as a trusted R&D partner to Fortune 500 companies, delivering
     domain-specific robotics solutions, from AI to dynamic navigation algorithms—deployed at scale in
     production environments.
+- name: Botsync
+  type: company
+  lat: 1.328080,
+  long: 103.676629
+  address: 79 Joo Koon Cir, Level 2 Wong Fong Building, Singapore 629107 
+  link: https://www.botsync.co/
+  description: Botsync is a leading provider of robotic automation solutions in Asia, transforming enterprise 
+    supply chains with cutting-edge technology. Our autonomous robot fleet reduces manual operations, 
+    while our no-code software platform empowers operators to integrate automation systems quickly—without
+    the need for specialists or production downtime.
+- name: Veermata Jijabai Technological Institute
+  type: school
+  lat: 19.023703
+  long: 72.856553
+  address: Veermata Jijabai Technological Institute, Matunga, Mumbai, Maharashtra 400019, India
+  link: https://www.vjti.ac.in/
