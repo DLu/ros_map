@@ -9,6 +9,12 @@
   lat: 60.187009
   long: 24.819531
   description: TUAS building (Automation Systems)
+- name: Aarhus University
+  type: school
+  lat: 56.172066
+  long: 10.191328
+  address: Finlandsgade 22, 8200 Aarhus, Denmark
+  link: https://ece.au.dk/en/research/key-areas-in-research-and-development/software-engineering-computing-systems
 - name: Accerion
   type: company
   lat: 51.37431
