@@ -995,3 +995,10 @@
   address: Via Branze 45, 25123, Brescia, Italy
   description: JRL-CARI Laboratory
   link: https://cari.unibs.it/
+- name: Enjoy Robotics
+  type: company
+  link: https://www.enjoyrobotics.com/
+  lat: 47.486821
+  long: 19.071405
+  address: Práter utca 6, 1083, Budapest, Hungary
+  description: A Hungarian company that specializes in the development and sale of autonomous service robots.
