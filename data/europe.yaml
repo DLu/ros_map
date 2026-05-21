@@ -1013,3 +1013,10 @@
   address: Práter utca 6, 1083, Budapest, Hungary
   description: A Hungarian company that specializes in the development and sale of autonomous service
     robots.
+- name: University Transilvania of Brasov
+  type: school
+  lat: 45.643765
+  long: 25.596513
+  address: Blvd. Eroilor nr.1, 500036 Brasov, Romania
+  description: Department of Automation and Applied Informatics, Faculty of Automation and Computer Science
+  link: https://iesc.unitbv.ro/ro/
